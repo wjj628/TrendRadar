@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-22T04:17:05.301338+08:00",
-  "total_titles_processed": 482,
+  "generated_at": "2025-10-22T06:13:50.385231+08:00",
+  "total_titles_processed": 551,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 04时17分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 06时13分]"
         },
         {
           "title": "美国针对中国合作方出台签证限制 外交部回应",
@@ -24,11 +24,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 04时17分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 06时13分]"
         },
         {
           "title": "特朗普称将于明年初访问中国 外交部回应",
@@ -48,11 +49,82 @@
           "ranks": [
             14,
             4,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 04时17分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 06时13分]"
+        },
+        {
+          "title": "四季度买银行股？大摩：首次无大规模刺激的“自然周期性触底”，中国银行业进入新时代",
+          "url": "https://wallstreetcn.com/articles/3757529",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 06时13分]"
+        },
+        {
+          "title": "【社论】“全球最快高铁”见证中国速度",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31818738",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 06时13分]"
+        },
+        {
+          "title": "NASA局长：就你这进度，怎么抢在中国前面",
+          "url": "https://news.ifeng.com/c/8ndFXmlqTVV",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 06时13分]"
+        },
+        {
+          "title": "“韩国十年前还第一，已被中国反超两倍多”",
+          "url": "https://news.ifeng.com/c/8ndMNxDqEcO",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 06时13分]"
+        },
+        {
+          "title": "郑丽文“我是中国人”打脸绿营洗脑",
+          "url": "https://news.ifeng.com/c/8ndRB3VMPVR",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 06时13分]"
+        },
+        {
+          "title": "韩国大火中国妈妈隔窗送出孩子后坠亡",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%9F%A9%E5%9B%BD%E5%A4%A7%E7%81%AB%E4%B8%AD%E5%9B%BD%E5%A6%88%E5%A6%88%E9%9A%94%E7%AA%97%E9%80%81%E5%87%BA%E5%AD%A9%E5%AD%90%E5%90%8E%E5%9D%A0%E4%BA%A1%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D17%26cate%3D5001%26flag%3D0%26pos%3D18%26lcate%3D5001%26q%3D%2523%25E9%259F%25A9%25E5%259B%25BD%25E5%25A4%25A7%25E7%2581%25AB%25E4%25B8%25AD%25E5%259B%25BD%25E5%25A6%2588%25E5%25A6%2588%25E9%259A%2594%25E7%25AA%2597%25E9%2580%2581%25E5%2587%25BA%25E5%25AD%25A9%25E5%25AD%2590%25E5%2590%258E%25E5%259D%25A0%25E4%25BA%25A1%2523%26dgr%3D0%26filter_type%3Drealtimehot%26band_rank%3D17%26c_type%3D31%26stream_entry_id%3D31%26display_time%3D1761062369%26pre_seqid%3D17610623695860229641768",
+          "source": "微博",
+          "ranks": [
+            17,
+            16,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 06时13分]"
         },
         {
           "title": "欧莱雅：第三季度营收103.3亿欧元，按固定汇率计算增长4.2%（市场普遍预期4.9%）。前9个月在中国大陆实现个位数低速增长。",
@@ -72,78 +144,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时17分"
-        },
-        {
-          "title": "四季度买银行股？大摩：首次无大规模刺激的“自然周期性触底”，中国银行业进入新时代",
-          "url": "https://wallstreetcn.com/articles/3757529",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 04时17分]"
-        },
-        {
-          "title": "【社论】“全球最快高铁”见证中国速度",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31818738",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 04时17分]"
-        },
-        {
-          "title": "NASA局长：就你这进度，怎么抢在中国前面",
-          "url": "https://news.ifeng.com/c/8ndFXmlqTVV",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 04时17分]"
-        },
-        {
-          "title": "“韩国十年前还第一，已被中国反超两倍多”",
-          "url": "https://news.ifeng.com/c/8ndMNxDqEcO",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 04时17分]"
-        },
-        {
-          "title": "郑丽文“我是中国人”打脸绿营洗脑",
-          "url": "https://news.ifeng.com/c/8ndRB3VMPVR",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 04时17分]"
-        },
-        {
-          "title": "韩国大火中国妈妈隔窗送出孩子后坠亡",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%9F%A9%E5%9B%BD%E5%A4%A7%E7%81%AB%E4%B8%AD%E5%9B%BD%E5%A6%88%E5%A6%88%E9%9A%94%E7%AA%97%E9%80%81%E5%87%BA%E5%AD%A9%E5%AD%90%E5%90%8E%E5%9D%A0%E4%BA%A1%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D17%26cate%3D5001%26flag%3D0%26pos%3D18%26lcate%3D5001%26q%3D%2523%25E9%259F%25A9%25E5%259B%25BD%25E5%25A4%25A7%25E7%2581%25AB%25E4%25B8%25AD%25E5%259B%25BD%25E5%25A6%2588%25E5%25A6%2588%25E9%259A%2594%25E7%25AA%2597%25E9%2580%2581%25E5%2587%25BA%25E5%25AD%25A9%25E5%25AD%2590%25E5%2590%258E%25E5%259D%25A0%25E4%25BA%25A1%2523%26dgr%3D0%26filter_type%3Drealtimehot%26band_rank%3D17%26c_type%3D31%26stream_entry_id%3D31%26display_time%3D1761062369%26pre_seqid%3D17610623695860229641768",
-          "source": "微博",
-          "ranks": [
-            17,
-            16,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 04时17分]"
         },
         {
           "title": "中国找矿有新发现！大型锶矿床+1",
@@ -151,11 +154,117 @@
           "source": "百度热搜",
           "ranks": [
             25,
-            13
+            13,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时20分 ~ 04时17分]"
+          "appearance_count": 4,
+          "time_info": "[02时20分 ~ 06时13分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "美股盘初三大股指涨跌不一，现货黄金跌破4200美元，白银跌破49美元，加密货币下挫",
+          "url": "https://wallstreetcn.com/articles/3757563",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 06时13分]"
+        },
+        {
+          "title": "金十图示：2025年10月21日（周二）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251022040658696800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时17分"
+        },
+        {
+          "title": "金十图示：2025年10月21日（周二）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251022040655122800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时17分"
+        },
+        {
+          "title": "奈飞(NFLX.O)美股盘后跌超6%。",
+          "url": "https://flash.jin10.com/detail/20251022040513760800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时17分"
+        },
+        {
+          "title": "美股收盘：三大股指涨跌不一 贵金属概念领跌",
+          "url": "https://flash.jin10.com/detail/20251022040119950800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时17分"
+        },
+        {
+          "title": "“每日被狠狠打脸，痛苦且沮丧”，高盛指数显示美股做空者经历逼空重创",
+          "url": "https://wallstreetcn.com/livenews/2991320",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时18分"
+        },
+        {
+          "title": "美泰（MAT）美股盘后跌6.22%，特朗普关税相关的不确定性造成2025年美国圣诞节订单延误。",
+          "url": "https://wallstreetcn.com/livenews/2991414",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
+          "title": "德州仪器三季度营收47.4亿美元，分析师预期46.5亿美元。 三季度Analog营收37.3亿美元，分析师预期36.1亿美元。 三季度资本开支12亿美元，分析师预期12.8亿美元。 三季度自由现金流（FCF）为10.7亿美元，分析师预期6.547亿美元。 预计四季度营收42.2亿-45.8亿美元，分析师预期45亿美元。 德州仪器（TXN）美股盘后跌4.88%。",
+          "url": "https://wallstreetcn.com/livenews/2991410",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
+          "title": "奈飞三季度营收115.1亿美元，分析师预期115.2亿美元。 预计全年营收451亿美元，分析师预期450.2亿美元，公司原本预计448亿-452亿美元。 奈飞（NFLX）美股盘后跌5.95%。",
+          "url": "https://wallstreetcn.com/livenews/2991409",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
         }
       ]
     },
@@ -171,8 +280,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 04时17分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 06时13分]"
         },
         {
           "title": "黄金价格坐过山车 后续怎么走",
@@ -182,8 +291,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 04时17分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 06时13分]"
         },
         {
           "title": "金价",
@@ -194,8 +303,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 04时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 06时13分]"
         },
         {
           "title": "国际金价大跌原因",
@@ -206,8 +315,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 02时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 06时13分]"
         },
         {
           "title": "金价创2013年以来最大跌幅 美股黄金矿商股集体重挫",
@@ -234,74 +343,63 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 6,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 5,
       "titles": [
         {
-          "title": "美股盘初三大股指涨跌不一，现货黄金跌破4200美元，白银跌破49美元，加密货币下挫",
-          "url": "https://wallstreetcn.com/articles/3757563",
-          "source": "华尔街见闻",
+          "title": "Anthropic与谷歌公司洽谈价值数十亿美元的云计算协议",
+          "url": "https://wallstreetcn.com/livenews/2991440",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 04时17分]"
-        },
-        {
-          "title": "金十图示：2025年10月21日（周二）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251022040658696800",
-          "source": "金十数据",
-          "ranks": [
-            4
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时17分"
+          "time_info": "06时13分"
         },
         {
-          "title": "金十图示：2025年10月21日（周二）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251022040655122800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时17分"
-        },
-        {
-          "title": "奈飞(NFLX.O)美股盘后跌超6%。",
-          "url": "https://flash.jin10.com/detail/20251022040513760800",
-          "source": "金十数据",
+          "title": "标普500指数初步收涨约0.1%，可选消费板块涨1.6%，工业板块涨1%，科技板块持平，电信板块跌0.7%，公用事业板块跌1.1%。 纳斯达克100指数初步大致收平，成分股中，核电概念股Constellation Energy跌3.5%，CSX跌2.2%，谷歌A跌2.2%，Applovin跌2%，博通、美光科技、阿斯麦ADR等跌超1%，亚马逊则涨2.6%，Adobe涨4.3%，露露柠檬涨5.6%，TEAM涨6.3%，华纳兄弟探索公司涨10.9%。 3M初步收涨7.3%，可口可乐和Salesforce涨3.8%，与亚马逊领跑道指成分股，卡特彼勒、VZ、摩根大通则至少跌约1%。",
+          "url": "https://wallstreetcn.com/livenews/2991403",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时17分"
         },
         {
-          "title": "美股收盘：三大股指涨跌不一 贵金属概念领跌",
-          "url": "https://flash.jin10.com/detail/20251022040119950800",
+          "title": "市场消息：Anthropic正在洽谈一项价值数百亿美元的谷歌云合作协议。",
+          "url": "https://flash.jin10.com/detail/20251022054430700800",
           "source": "金十数据",
           "ranks": [
-            9
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时17分"
+          "time_info": "06时13分"
         },
         {
-          "title": "“每日被狠狠打脸，痛苦且沮丧”，高盛指数显示美股做空者经历逼空重创",
-          "url": "https://wallstreetcn.com/livenews/2991320",
+          "title": "谷歌“登月工厂”将评估里约电网，为数据中心做准备",
+          "url": "https://wallstreetcn.com/livenews/2991386",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时18分"
+          "time_info": "04时17分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜谷歌A收跌约2.4%，特斯拉跌约1.1%，苹果继续创历史新高，亚马逊涨超2.5%",
+          "url": "https://wallstreetcn.com/livenews/2991418",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
         }
       ]
     },
@@ -317,8 +415,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 04时17分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 06时13分]"
         },
         {
           "title": "美元指数21日上涨",
@@ -327,7 +425,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时17分"
         },
@@ -338,7 +436,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时17分"
         },
@@ -349,7 +447,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时17分"
         },
@@ -378,8 +476,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 04时17分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 06时13分]"
         },
         {
           "title": "DeepSeek新模型被硅谷夸疯了！用二维视觉压缩一维文字，单GPU能跑，“谷歌核心机密被开源”",
@@ -389,8 +487,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 04时17分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 06时13分]"
         },
         {
           "title": "DeepSeek新模型深度解读",
@@ -399,11 +497,12 @@
           "ranks": [
             10,
             12,
-            3
+            3,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 04时17分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 06时13分]"
         },
         {
           "title": "DeepSeek暂列AI炒币大赛榜首",
@@ -412,39 +511,12 @@
           "ranks": [
             17,
             25,
-            14
+            14,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 04时17分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "标普500指数初步收涨约0.1%，可选消费板块涨1.6%，工业板块涨1%，科技板块持平，电信板块跌0.7%，公用事业板块跌1.1%。 纳斯达克100指数初步大致收平，成分股中，核电概念股Constellation Energy跌3.5%，CSX跌2.2%，谷歌A跌2.2%，Applovin跌2%，博通、美光科技、阿斯麦ADR等跌超1%，亚马逊则涨2.6%，Adobe涨4.3%，露露柠檬涨5.6%，TEAM涨6.3%，华纳兄弟探索公司涨10.9%。 3M初步收涨7.3%，可口可乐和Salesforce涨3.8%，与亚马逊领跑道指成分股，卡特彼勒、VZ、摩根大通则至少跌约1%。",
-          "url": "https://wallstreetcn.com/livenews/2991403",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时17分"
-        },
-        {
-          "title": "谷歌“登月工厂”将评估里约电网，为数据中心做准备",
-          "url": "https://wallstreetcn.com/livenews/2991386",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时17分"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 06时13分]"
         }
       ]
     },
@@ -487,7 +559,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时17分"
         }
