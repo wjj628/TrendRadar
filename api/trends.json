@@ -1,12 +1,35 @@
 {
-  "generated_at": "2025-10-22T02:20:22.325430+08:00",
-  "total_titles_processed": 406,
+  "generated_at": "2025-10-22T04:17:05.301338+08:00",
+  "total_titles_processed": 482,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "社会新闻 中国",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "从前三季度成绩单看中国经济发力点",
+          "url": "https://www.toutiao.com/trending/7563156834006958116/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 04时17分]"
+        },
+        {
+          "title": "美国针对中国合作方出台签证限制 外交部回应",
+          "url": "https://www.cls.cn/detail/2175714",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 04时17分]"
+        },
         {
           "title": "特朗普称将于明年初访问中国 外交部回应",
           "url": "https://www.cls.cn/detail/2175678",
@@ -19,26 +42,17 @@
           "time_info": "[00时17分 ~ 02时20分]"
         },
         {
-          "title": "从前三季度成绩单看中国经济发力点",
-          "url": "https://www.toutiao.com/trending/7563156834006958116/",
-          "source": "今日头条",
+          "title": "杜克一哥14天中国行结束",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%9C%E5%85%8B%E4%B8%80%E5%93%A514%E5%A4%A9%E4%B8%AD%E5%9B%BD%E8%A1%8C%E7%BB%93%E6%9D%9F",
+          "source": "bilibili 热搜",
           "ranks": [
-            3
+            14,
+            4,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 02时20分]"
-        },
-        {
-          "title": "美国针对中国合作方出台签证限制 外交部回应",
-          "url": "https://www.cls.cn/detail/2175714",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 02时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 04时17分]"
         },
         {
           "title": "欧莱雅：第三季度营收103.3亿欧元，按固定汇率计算增长4.2%（市场普遍预期4.9%）。前9个月在中国大陆实现个位数低速增长。",
@@ -52,16 +66,15 @@
           "time_info": "00时18分"
         },
         {
-          "title": "杜克一哥14天中国行结束",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9D%9C%E5%85%8B%E4%B8%80%E5%93%A514%E5%A4%A9%E4%B8%AD%E5%9B%BD%E8%A1%8C%E7%BB%93%E6%9D%9F",
-          "source": "bilibili 热搜",
+          "title": "纳斯达克金龙中国指数初步收跌0.9%。 热门中概股里，大全新能源跌超5%，阿里蔚来跌超3%，晶科能源、百度、理想、唯品会跌超2%，阿特斯太阳能则涨2%，新东方涨5%，B站与好未来涨6%。 ETF中，KWEB跌1%，CQQQ涨0.1%。",
+          "url": "https://wallstreetcn.com/livenews/2991405",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            14,
-            4
+            5
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 02时20分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时17分"
         },
         {
           "title": "四季度买银行股？大摩：首次无大规模刺激的“自然周期性触底”，中国银行业进入新时代",
@@ -71,19 +84,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 02时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 04时17分]"
         },
         {
           "title": "【社论】“全球最快高铁”见证中国速度",
           "url": "https://m.thepaper.cn/newsDetail_forward_31818738",
           "source": "澎湃新闻",
           "ranks": [
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 02时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 04时17分]"
         },
         {
           "title": "NASA局长：就你这进度，怎么抢在中国前面",
@@ -93,8 +107,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 02时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 04时17分]"
         },
         {
           "title": "“韩国十年前还第一，已被中国反超两倍多”",
@@ -104,8 +118,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 02时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 04时17分]"
         },
         {
           "title": "郑丽文“我是中国人”打脸绿营洗脑",
@@ -115,8 +129,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 02时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 04时17分]"
         },
         {
           "title": "韩国大火中国妈妈隔窗送出孩子后坠亡",
@@ -124,22 +138,24 @@
           "source": "微博",
           "ranks": [
             17,
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 02时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 04时17分]"
         },
         {
           "title": "中国找矿有新发现！大型锶矿床+1",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%89%BE%E7%9F%BF%E6%9C%89%E6%96%B0%E5%8F%91%E7%8E%B0%EF%BC%81%E5%A4%A7%E5%9E%8B%E9%94%B6%E7%9F%BF%E5%BA%8A%2B1",
           "source": "百度热搜",
           "ranks": [
-            25
+            25,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时20分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时20分 ~ 04时17分]"
         }
       ]
     },
@@ -155,8 +171,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 02时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 04时17分]"
         },
         {
           "title": "黄金价格坐过山车 后续怎么走",
@@ -166,8 +182,20 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 02时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 04时17分]"
+        },
+        {
+          "title": "金价",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D22%26cate%3D5001%26flag%3D0%26pos%3D23%26lcate%3D5001%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26dgr%3D0%26filter_type%3Drealtimehot%26band_rank%3D22%26c_type%3D31%26stream_entry_id%3D31%26display_time%3D1761062369%26pre_seqid%3D17610623695860229641768",
+          "source": "微博",
+          "ranks": [
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 04时17分]"
         },
         {
           "title": "国际金价大跌原因",
@@ -180,17 +208,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时17分 ~ 02时20分]"
-        },
-        {
-          "title": "金价",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D22%26cate%3D5001%26flag%3D0%26pos%3D23%26lcate%3D5001%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26dgr%3D0%26filter_type%3Drealtimehot%26band_rank%3D22%26c_type%3D31%26stream_entry_id%3D31%26display_time%3D1761062369%26pre_seqid%3D17610623695860229641768",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 00时18分]"
         },
         {
           "title": "金价创2013年以来最大跌幅 美股黄金矿商股集体重挫",
@@ -217,88 +234,8 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "DeepSeek OCR论文引爆网络！Andrej Karpathy：我很喜欢；马斯克：未来99%都是光子",
-          "url": "https://wallstreetcn.com/articles/3757552",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 02时20分]"
-        },
-        {
-          "title": "DeepSeek新模型被硅谷夸疯了！用二维视觉压缩一维文字，单GPU能跑，“谷歌核心机密被开源”",
-          "url": "https://wallstreetcn.com/articles/3757530",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 02时20分]"
-        },
-        {
-          "title": "DeepSeek新模型深度解读",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E6%B7%B1%E5%BA%A6%E8%A7%A3%E8%AF%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 02时20分]"
-        },
-        {
-          "title": "DeepSeek暂列AI炒币大赛榜首",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%9A%82%E5%88%97AI%E7%82%92%E5%B8%81%E5%A4%A7%E8%B5%9B%E6%A6%9C%E9%A6%96",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 02时20分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "报道：OpenAI将推出新款浏览器ChatGPT Atlas",
-          "url": "https://wallstreetcn.com/livenews/2991350",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时20分"
-        },
-        {
-          "title": "OpenAI推出新浏览器ChatGPT Atlas，内置Agent代理模式",
-          "url": "https://flash.jin10.com/detail/20251022012656788800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时20分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 6,
       "titles": [
         {
           "title": "美股盘初三大股指涨跌不一，现货黄金跌破4200美元，白银跌破49美元，加密货币下挫",
@@ -308,8 +245,52 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 02时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 04时17分]"
+        },
+        {
+          "title": "金十图示：2025年10月21日（周二）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251022040658696800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时17分"
+        },
+        {
+          "title": "金十图示：2025年10月21日（周二）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251022040655122800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时17分"
+        },
+        {
+          "title": "奈飞(NFLX.O)美股盘后跌超6%。",
+          "url": "https://flash.jin10.com/detail/20251022040513760800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时17分"
+        },
+        {
+          "title": "美股收盘：三大股指涨跌不一 贵金属概念领跌",
+          "url": "https://flash.jin10.com/detail/20251022040119950800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时17分"
         },
         {
           "title": "“每日被狠狠打脸，痛苦且沮丧”，高盛指数显示美股做空者经历逼空重创",
@@ -326,7 +307,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
         {
           "title": "美国股债汇齐涨，中概指数跑赢大盘，苹果涨近4%，黄金反弹创新高，比特币涨回11万美元",
@@ -336,8 +317,41 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 02时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 04时17分]"
+        },
+        {
+          "title": "美元指数21日上涨",
+          "url": "https://flash.jin10.com/detail/20251022035716416800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时17分"
+        },
+        {
+          "title": "周二（10月21日）纽约尾盘，ICE美元指数上涨0.34%，报98.922点，日内交投区间为98.507-98.979点，北京时间08:54微跌并刷新日低，之后持续走高，18:00以来持续高位震荡。 彭博美元指数涨0.29%，报1212.52点，日内交投区间为1207.99-1213.08点。",
+          "url": "https://wallstreetcn.com/livenews/2991396",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时17分"
+        },
+        {
+          "title": "周二（10月21日）纽约尾盘，彭博谷物分类指数跌0.58%，报28.8166点。 CBOT玉米期货跌0.83%，CBOT小麦期货跌0.84%。 CBOT大豆期货跌0.11%，报10.4850美元/蒲式耳，豆粕期货涨0.49%，豆油期货跌1.34%。",
+          "url": "https://wallstreetcn.com/livenews/2991394",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时17分"
         },
         {
           "title": "恒天然：10月21日全球乳品贸易（GDT）拍卖价格指数上涨21.9%，奶粉各合同期FAS拍卖均价3.881美元/吨。 批发奶粉价格指数下降4.6%，报3,610美元/吨。",
@@ -349,6 +363,133 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "DeepSeek OCR论文引爆网络！Andrej Karpathy：我很喜欢；马斯克：未来99%都是光子",
+          "url": "https://wallstreetcn.com/articles/3757552",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 04时17分]"
+        },
+        {
+          "title": "DeepSeek新模型被硅谷夸疯了！用二维视觉压缩一维文字，单GPU能跑，“谷歌核心机密被开源”",
+          "url": "https://wallstreetcn.com/articles/3757530",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 04时17分]"
+        },
+        {
+          "title": "DeepSeek新模型深度解读",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E6%B7%B1%E5%BA%A6%E8%A7%A3%E8%AF%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            12,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 04时17分]"
+        },
+        {
+          "title": "DeepSeek暂列AI炒币大赛榜首",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%9A%82%E5%88%97AI%E7%82%92%E5%B8%81%E5%A4%A7%E8%B5%9B%E6%A6%9C%E9%A6%96",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            25,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 04时17分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "标普500指数初步收涨约0.1%，可选消费板块涨1.6%，工业板块涨1%，科技板块持平，电信板块跌0.7%，公用事业板块跌1.1%。 纳斯达克100指数初步大致收平，成分股中，核电概念股Constellation Energy跌3.5%，CSX跌2.2%，谷歌A跌2.2%，Applovin跌2%，博通、美光科技、阿斯麦ADR等跌超1%，亚马逊则涨2.6%，Adobe涨4.3%，露露柠檬涨5.6%，TEAM涨6.3%，华纳兄弟探索公司涨10.9%。 3M初步收涨7.3%，可口可乐和Salesforce涨3.8%，与亚马逊领跑道指成分股，卡特彼勒、VZ、摩根大通则至少跌约1%。",
+          "url": "https://wallstreetcn.com/livenews/2991403",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时17分"
+        },
+        {
+          "title": "谷歌“登月工厂”将评估里约电网，为数据中心做准备",
+          "url": "https://wallstreetcn.com/livenews/2991386",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "报道：OpenAI将推出新款浏览器ChatGPT Atlas",
+          "url": "https://wallstreetcn.com/livenews/2991350",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时20分"
+        },
+        {
+          "title": "OpenAI推出新浏览器ChatGPT Atlas，内置Agent代理模式",
+          "url": "https://flash.jin10.com/detail/20251022012656788800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中长期美债收益率跌超2个基点",
+          "url": "https://wallstreetcn.com/livenews/2991401",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时17分"
         }
       ]
     }
