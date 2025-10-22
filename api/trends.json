@@ -1,427 +1,11 @@
 {
-  "generated_at": "2025-10-22T14:23:49.176576+08:00",
-  "total_titles_processed": 1128,
+  "generated_at": "2025-10-22T16:35:09.180562+08:00",
+  "total_titles_processed": 1282,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "社会新闻 中国",
-      "match_count": 35,
-      "titles": [
-        {
-          "title": "从前三季度成绩单看中国经济发力点",
-          "url": "https://www.toutiao.com/trending/7563156834006958116/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时17分 ~ 11时09分]"
-        },
-        {
-          "title": "杜克一哥14天中国行结束",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9D%9C%E5%85%8B%E4%B8%80%E5%93%A514%E5%A4%A9%E4%B8%AD%E5%9B%BD%E8%A1%8C%E7%BB%93%E6%9D%9F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14,
-            4,
-            16,
-            15,
-            27,
-            24,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时17分 ~ 14时23分]"
-        },
-        {
-          "title": "美国针对中国合作方出台签证限制 外交部回应",
-          "url": "https://www.cls.cn/detail/2175714",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 06时13分]"
-        },
-        {
-          "title": "【社论】“全球最快高铁”见证中国速度",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31818738",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时17分 ~ 14时23分]"
-        },
-        {
-          "title": "【早报】深夜急跌！黄金一度创12年来最大单日跌幅；特朗普称将于明年初访问中国，外交部回应",
-          "url": "https://www.cls.cn/detail/2176371",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时02分 ~ 12时17分]"
-        },
-        {
-          "title": "特朗普称将于明年初访问中国 外交部回应",
-          "url": "https://www.cls.cn/detail/2175678",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 02时20分]"
-        },
-        {
-          "title": "台湾人就是中国人无可置疑",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%8F%B0%E6%B9%BE%E4%BA%BA%E5%B0%B1%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%97%A0%E5%8F%AF%E7%BD%AE%E7%96%91%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D6%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26lcate%3D5001%26cate%3D5001%26band_rank%3D6%26q%3D%2523%25E5%258F%25B0%25E6%25B9%25BE%25E4%25BA%25BA%25E5%25B0%25B1%25E6%2598%25AF%25E4%25B8%25AD%25E5%259B%25BD%25E4%25BA%25BA%25E6%2597%25A0%25E5%258F%25AF%25E7%25BD%25AE%25E7%2596%2591%2523%26stream_entry_id%3D31%26dgr%3D0%26realpos%3D6%26display_time%3D1761094809%26pre_seqid%3D176109480925402300775135",
-          "source": "微博",
-          "ranks": [
-            6,
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时02分 ~ 12时17分]"
-        },
-        {
-          "title": "四季度买银行股？大摩：首次无大规模刺激的“自然周期性触底”，中国银行业进入新时代",
-          "url": "https://wallstreetcn.com/articles/3757529",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 09时02分]"
-        },
-        {
-          "title": "NASA局长：就你这进度，怎么抢在中国前面",
-          "url": "https://news.ifeng.com/c/8ndFXmlqTVV",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 09时02分]"
-        },
-        {
-          "title": "从“十四五”看中国力量",
-          "url": "https://www.toutiao.com/trending/7563893083935378995/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时17分 ~ 14时23分]"
-        },
-        {
-          "title": "“韩国十年前还第一，已被中国反超两倍多”",
-          "url": "https://news.ifeng.com/c/8ndMNxDqEcO",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 06时13分]"
-        },
-        {
-          "title": "郑丽文“我是中国人”打脸绿营洗脑",
-          "url": "https://news.ifeng.com/c/8ndRB3VMPVR",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 06时13分]"
-        },
-        {
-          "title": "韩国大火中国妈妈隔窗送出孩子后坠亡",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%9F%A9%E5%9B%BD%E5%A4%A7%E7%81%AB%E4%B8%AD%E5%9B%BD%E5%A6%88%E5%A6%88%E9%9A%94%E7%AA%97%E9%80%81%E5%87%BA%E5%AD%A9%E5%AD%90%E5%90%8E%E5%9D%A0%E4%BA%A1%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D17%26cate%3D5001%26flag%3D0%26pos%3D18%26lcate%3D5001%26q%3D%2523%25E9%259F%25A9%25E5%259B%25BD%25E5%25A4%25A7%25E7%2581%25AB%25E4%25B8%25AD%25E5%259B%25BD%25E5%25A6%2588%25E5%25A6%2588%25E9%259A%2594%25E7%25AA%2597%25E9%2580%2581%25E5%2587%25BA%25E5%25AD%25A9%25E5%25AD%2590%25E5%2590%258E%25E5%259D%25A0%25E4%25BA%25A1%2523%26dgr%3D0%26filter_type%3Drealtimehot%26band_rank%3D17%26c_type%3D31%26stream_entry_id%3D31%26display_time%3D1761062369%26pre_seqid%3D17610623695860229641768",
-          "source": "微博",
-          "ranks": [
-            17,
-            16,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 06时13分]"
-        },
-        {
-          "title": "“中国股票慢牛正在形成”！高盛：未来两年有望涨30% 应转变思维“逢低买入”",
-          "url": "https://www.cls.cn/detail/2176701",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时23分"
-        },
-        {
-          "title": "欧莱雅：第三季度营收103.3亿欧元，按固定汇率计算增长4.2%（市场普遍预期4.9%）。前9个月在中国大陆实现个位数低速增长。",
-          "url": "https://flash.jin10.com/detail/20251022000055394800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数初步收跌0.9%。 热门中概股里，大全新能源跌超5%，阿里蔚来跌超3%，晶科能源、百度、理想、唯品会跌超2%，阿特斯太阳能则涨2%，新东方涨5%，B站与好未来涨6%。 ETF中，KWEB跌1%，CQQQ涨0.1%。",
-          "url": "https://wallstreetcn.com/livenews/2991405",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时17分"
-        },
-        {
-          "title": "国台办谈中国国民党主席选举结果",
-          "url": "https://news.ifeng.com/c/8nefnY6DyDB",
-          "source": "凤凰网",
-          "ranks": [
-            11,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时17分 ~ 14时23分]"
-        },
-        {
-          "title": "为何近几年出圈的独立游戏多半来自欧美、中国，但很少听到日本有很火的独立游戏？",
-          "url": "https://www.zhihu.com/question/1961723161348379743",
-          "source": "知乎",
-          "ranks": [
-            8,
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时02分 ~ 12时17分]"
-        },
-        {
-          "title": "中国找矿有新发现！大型锶矿床+1",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%89%BE%E7%9F%BF%E6%9C%89%E6%96%B0%E5%8F%91%E7%8E%B0%EF%BC%81%E5%A4%A7%E5%9E%8B%E9%94%B6%E7%9F%BF%E5%BA%8A%2B1",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            13,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时20分 ~ 06时13分]"
-        },
-        {
-          "title": "高市早苗上台，中国的第一反应很耐人寻味",
-          "url": "https://news.ifeng.com/c/8neQdTdLXJk",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时02分 ~ 11时09分]"
-        },
-        {
-          "title": "中国停购美国大豆背后",
-          "url": "https://www.toutiao.com/trending/7563545010948279850/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时02分 ~ 11时09分]"
-        },
-        {
-          "title": "《沉默的荣耀》剧组走进中国人民大学",
-          "url": "https://www.toutiao.com/trending/7563176008598192179/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时02分 ~ 11时09分]"
-        },
-        {
-          "title": "国家统计局数据显示，中国9月全国城镇不包含在校生的16-24岁青年失业率为17.7%（8月为18.9%）。",
-          "url": "https://wallstreetcn.com/livenews/2991600",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时09分 ~ 12时17分]"
-        },
-        {
-          "title": "中国女子盗窃法国博物馆12斤金块",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%90%E7%9B%97%E7%AA%83%E6%B3%95%E5%9B%BD%E5%8D%9A%E7%89%A9%E9%A6%8612%E6%96%A4%E9%87%91%E5%9D%97%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26dgr%3D0%26q%3D%2523%25E4%25B8%25AD%25E5%259B%25BD%25E5%25A5%25B3%25E5%25AD%2590%25E7%259B%2597%25E7%25AA%2583%25E6%25B3%2595%25E5%259B%25BD%25E5%258D%259A%25E7%2589%25A9%25E9%25A6%258612%25E6%2596%25A4%25E9%2587%2591%25E5%259D%2597%2523%26band_rank%3D12%26stream_entry_id%3D31%26pos%3D12%26cate%3D5001%26realpos%3D12%26lcate%3D5001%26display_time%3D1761106629%26pre_seqid%3D176110662902403134553125",
-          "source": "微博",
-          "ranks": [
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时17分 ~ 14时23分]"
-        },
-        {
-          "title": "中国财政部发行91天期债券，规模550亿元，发行利率1.2594%，边际利率1.3038%，预期1.3100%，投标倍数2.48倍，边际倍数1.84倍； 中国财政部发行182天期债券，规模550亿元，发行利率1.3527%，边际利率1.3934%，预期1.4000%，投标倍数2.42倍，边际倍数1.28倍。",
-          "url": "https://wallstreetcn.com/livenews/2991631",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时17分"
-        },
-        {
-          "title": "三个维度看三季度中国经济",
-          "url": "https://www.toutiao.com/trending/7563141597026598922/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时23分"
-        },
-        {
-          "title": "金十图示：2025年10月22日（周三）中国科技互联网公司市值排名TOP 50一览",
-          "url": "https://flash.jin10.com/detail/20251022105041309800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时09分"
-        },
-        {
-          "title": "国台办：将在共同政治基础上与包括中国国民党在内的台湾各党派加强联系",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31822603",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时23分"
-        },
-        {
-          "title": "中国商务部发放相关模拟芯片反倾销案调查问卷。",
-          "url": "https://wallstreetcn.com/livenews/2991617",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时17分"
-        },
-        {
-          "title": "中国巨型隐身无人机试飞传递何信号",
-          "url": "https://www.toutiao.com/trending/7563872699273973267/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时23分"
-        },
-        {
-          "title": "金十图示：2025年10月22日（周三）富时中国A50指数成分股午盘收盘行情一览：多数成分股走弱，紫金矿业跌逾3%，工业富联跌超4%，石油、电力板块小幅走高",
-          "url": "https://flash.jin10.com/detail/20251022113402949800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时17分"
-        },
-        {
-          "title": "菲律宾为何主动与中国海警磋商合作",
-          "url": "https://www.toutiao.com/trending/7563891593015463487/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时23分"
-        },
-        {
-          "title": "中国即将发行或正在发行的国债和政策性金融债",
-          "url": "https://wallstreetcn.com/livenews/2991493",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时02分"
-        },
-        {
-          "title": "高盛：中国股市慢牛正在形成",
-          "url": "https://www.toutiao.com/trending/7563562962741461011/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时17分"
-        },
-        {
-          "title": "中国－中东欧国家高级别智库研讨会在萨格勒布举行",
-          "url": "https://wallstreetcn.com/livenews/2991662",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时23分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "国际金价突然大跌",
@@ -432,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时17分 ~ 14时23分]"
+          "appearance_count": 13,
+          "time_info": "[00时17分 ~ 16时35分]"
         },
         {
           "title": "金价大跌是什么信号？前FED顾问：系统性“流动性危机”已至，金融体系正崩溃！",
@@ -441,11 +25,37 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时08分 ~ 14时23分]"
+          "appearance_count": 6,
+          "time_info": "[11时08分 ~ 16时35分]"
+        },
+        {
+          "title": "金价大跌有人一夜亏5万",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E6%9C%89%E4%BA%BA%E4%B8%80%E5%A4%9C%E4%BA%8F5%E4%B8%87%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26pos%3D12%26lcate%3D5001%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E5%25A4%25A7%25E8%25B7%258C%25E6%259C%2589%25E4%25BA%25BA%25E4%25B8%2580%25E5%25A4%259C%25E4%25BA%258F5%25E4%25B8%2587%2523%26flag%3D1%26dgr%3D0%26filter_type%3Drealtimehot%26band_rank%3D12%26c_type%3D31%26realpos%3D12%26stream_entry_id%3D31%26display_time%3D1761102429%26pre_seqid%3D17611024290040315998677",
+          "source": "微博",
+          "ranks": [
+            12,
+            21,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时08分 ~ 16时35分]"
+        },
+        {
+          "title": "金价再次跌破 4200 美元，银行提示贵金属风险，交易所上调保证金，如何看待近期调整？普通投资者如何应对？",
+          "url": "https://www.zhihu.com/question/1964024451826943233",
+          "source": "知乎",
+          "ranks": [
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时08分 ~ 16时35分]"
         },
         {
           "title": "黄金价格坐过山车 后续怎么走",
@@ -495,31 +105,6 @@
           "time_info": "[09时02分 ~ 12时17分]"
         },
         {
-          "title": "金价大跌有人一夜亏5万",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E6%9C%89%E4%BA%BA%E4%B8%80%E5%A4%9C%E4%BA%8F5%E4%B8%87%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26pos%3D12%26lcate%3D5001%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E5%25A4%25A7%25E8%25B7%258C%25E6%259C%2589%25E4%25BA%25BA%25E4%25B8%2580%25E5%25A4%259C%25E4%25BA%258F5%25E4%25B8%2587%2523%26flag%3D1%26dgr%3D0%26filter_type%3Drealtimehot%26band_rank%3D12%26c_type%3D31%26realpos%3D12%26stream_entry_id%3D31%26display_time%3D1761102429%26pre_seqid%3D17611024290040315998677",
-          "source": "微博",
-          "ranks": [
-            12,
-            21,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时08分 ~ 14时23分]"
-        },
-        {
-          "title": "金价再次跌破 4200 美元，银行提示贵金属风险，交易所上调保证金，如何看待近期调整？普通投资者如何应对？",
-          "url": "https://www.zhihu.com/question/1964024451826943233",
-          "source": "知乎",
-          "ranks": [
-            13,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时08分 ~ 14时23分]"
-        },
-        {
           "title": "国际金价大跌原因",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D28%26cate%3D5001%26flag%3D0%26pos%3D29%26lcate%3D5001%26q%3D%2523%25E5%259B%25BD%25E9%2599%2585%25E9%2587%2591%25E4%25BB%25B7%25E5%25A4%25A7%25E8%25B7%258C%25E5%258E%259F%25E5%259B%25A0%2523%26dgr%3D0%26filter_type%3Drealtimehot%26band_rank%3D28%26c_type%3D31%26stream_entry_id%3D31%26display_time%3D1761062369%26pre_seqid%3D17610623695860229641768",
           "source": "微博",
@@ -530,6 +115,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时17分 ~ 06时13分]"
+        },
+        {
+          "title": "金价创12年最大单日跌幅 华尔街热议：中途休整还是牛市终结？",
+          "url": "https://www.cls.cn/detail/2176533",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时23分 ~ 16时35分]"
         },
         {
           "title": "金价银价急跌",
@@ -544,15 +141,37 @@
           "time_info": "[09时02分 ~ 11时09分]"
         },
         {
-          "title": "金价创12年最大单日跌幅 华尔街热议：中途休整还是牛市终结？",
-          "url": "https://www.cls.cn/detail/2176533",
-          "source": "财联社热门",
+          "title": "今日各大金店金价",
+          "url": "https://www.toutiao.com/trending/7563938982417927721/",
+          "source": "今日头条",
           "ranks": [
-            8
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 16时35分]"
+        },
+        {
+          "title": "金价为何暴跌？高盛交易员：黄金走势图看起来就像一只妖股的崩盘",
+          "url": "https://wallstreetcn.com/articles/3757632",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 16时35分]"
+        },
+        {
+          "title": "金价这轮会跌多久",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E8%BF%99%E8%BD%AE%E4%BC%9A%E8%B7%8C%E5%A4%9A%E4%B9%85%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26band_rank%3D12%26dgr%3D0%26stream_entry_id%3D31%26pos%3D13%26flag%3D1%26filter_type%3Drealtimehot%26realpos%3D12%26c_type%3D31%26lcate%3D5001%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E8%25BF%2599%25E8%25BD%25AE%25E4%25BC%259A%25E8%25B7%258C%25E5%25A4%259A%25E4%25B9%2585%2523%26display_time%3D1761121989%26pre_seqid%3D17611219893940318635119",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 16时35分]"
         },
         {
           "title": "金价银价为什么同时下跌",
@@ -583,7 +202,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
         },
@@ -602,8 +221,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "美股涨跌互现，道指新高，金银暴跌，比特币盘中拉升",
+          "url": "https://wallstreetcn.com/articles/3757563",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时02分 ~ 16时35分]"
+        },
         {
           "title": "美股盘初三大股指涨跌不一，现货黄金跌破4200美元，白银跌破49美元，加密货币下挫",
           "url": "https://wallstreetcn.com/articles/3757563",
@@ -614,17 +244,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时17分 ~ 06时13分]"
-        },
-        {
-          "title": "美股涨跌互现，道指新高，金银暴跌，比特币盘中拉升",
-          "url": "https://wallstreetcn.com/articles/3757563",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时02分 ~ 14时23分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 道指创历史新高",
@@ -682,6 +301,28 @@
           "time_info": "04时17分"
         },
         {
+          "title": "美股盘前，贵金属概念股小幅回暖，泛美白银(PAAS.O)涨超1.6%，金罗斯黄金(KGC.N)、金田(GFI.N)涨0.6%。",
+          "url": "https://flash.jin10.com/detail/20251022160653226800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
+          "title": "奈飞美股盘前跌超6%，公司Q3盈利远逊预期，下调全年指引。",
+          "url": "https://wallstreetcn.com/livenews/2991788",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
           "title": "“每日被狠狠打脸，痛苦且沮丧”，高盛指数显示美股做空者经历逼空重创",
           "url": "https://wallstreetcn.com/livenews/2991320",
           "source": "华尔街见闻-快讯",
@@ -691,6 +332,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜谷歌A收跌约2.4%，特斯拉跌约1.1%，苹果继续创历史新高，亚马逊涨超2.5%",
+          "url": "https://wallstreetcn.com/livenews/2991418",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时13分"
         },
         {
           "title": "现货黄金高位暴跌险守4000美元，多头情绪仍浓；美股股指再创新高，道指买进信号强劲，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -739,94 +391,8 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "Anthropic与谷歌公司洽谈价值数十亿美元的云计算协议",
-          "url": "https://wallstreetcn.com/livenews/2991440",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时13分"
-        },
-        {
-          "title": "OpenAI推出AI浏览器ChatGPT Atlas，直接与谷歌竞争",
-          "url": "https://wallstreetcn.com/articles/3757591",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时08分 ~ 14时23分]"
-        },
-        {
-          "title": "OpenAI推出AI浏览器Atlas 与谷歌Chrome正面竞争",
-          "url": "https://www.cls.cn/detail/2176315",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时02分 ~ 12时17分]"
-        },
-        {
-          "title": "标普500指数初步收涨约0.1%，可选消费板块涨1.6%，工业板块涨1%，科技板块持平，电信板块跌0.7%，公用事业板块跌1.1%。 纳斯达克100指数初步大致收平，成分股中，核电概念股Constellation Energy跌3.5%，CSX跌2.2%，谷歌A跌2.2%，Applovin跌2%，博通、美光科技、阿斯麦ADR等跌超1%，亚马逊则涨2.6%，Adobe涨4.3%，露露柠檬涨5.6%，TEAM涨6.3%，华纳兄弟探索公司涨10.9%。 3M初步收涨7.3%，可口可乐和Salesforce涨3.8%，与亚马逊领跑道指成分股，卡特彼勒、VZ、摩根大通则至少跌约1%。",
-          "url": "https://wallstreetcn.com/livenews/2991403",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时17分"
-        },
-        {
-          "title": "市场消息：Anthropic正在洽谈一项价值数百亿美元的谷歌云合作协议。",
-          "url": "https://flash.jin10.com/detail/20251022054430700800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时13分"
-        },
-        {
-          "title": "谷歌“登月工厂”将评估里约电网，为数据中心做准备",
-          "url": "https://wallstreetcn.com/livenews/2991386",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时17分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜谷歌A收跌约2.4%，特斯拉跌约1.1%，苹果继续创历史新高，亚马逊涨超2.5%",
-          "url": "https://wallstreetcn.com/livenews/2991418",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时13分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "美国股债汇齐涨，中概指数跑赢大盘，苹果涨近4%，黄金反弹创新高，比特币涨回11万美元",
@@ -851,6 +417,17 @@
           "time_info": "04时17分"
         },
         {
+          "title": "因美元指数走强，现货黄金短线下挫15美元，最低至4120.4美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251022160332673800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
           "title": "周二（10月21日）纽约尾盘，ICE美元指数上涨0.34%，报98.922点，日内交投区间为98.507-98.979点，北京时间08:54微跌并刷新日低，之后持续走高，18:00以来持续高位震荡。 彭博美元指数涨0.29%，报1212.52点，日内交投区间为1207.99-1213.08点。",
           "url": "https://wallstreetcn.com/livenews/2991396",
           "source": "华尔街见闻-快讯",
@@ -860,6 +437,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时17分"
+        },
+        {
+          "title": "美元指数突破99，为10月15日以来首次。",
+          "url": "https://wallstreetcn.com/livenews/2991790",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         },
         {
           "title": "周二（10月21日）纽约尾盘，彭博谷物分类指数跌0.58%，报28.8166点。 CBOT玉米期货跌0.83%，CBOT小麦期货跌0.84%。 CBOT大豆期货跌0.11%，报10.4850美元/蒲式耳，豆粕期货涨0.49%，豆油期货跌1.34%。",
@@ -879,9 +467,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
+        },
+        {
+          "title": "美元指数DXY突破99，为10月15日以来首次。",
+          "url": "https://flash.jin10.com/detail/20251022160122586800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         },
         {
           "title": "恒天然：10月21日全球乳品贸易（GDT）拍卖价格指数上涨21.9%，奶粉各合同期FAS拍卖均价3.881美元/吨。 批发奶粉价格指数下降4.6%，报3,610美元/吨。",
@@ -897,132 +496,43 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 5,
+      "keyword_group": "NBA 篮球",
+      "match_count": 3,
       "titles": [
         {
-          "title": "DeepSeek OCR论文引爆网络！Andrej Karpathy：我很喜欢；马斯克：未来99%都是光子",
-          "url": "https://wallstreetcn.com/articles/3757552",
-          "source": "华尔街见闻",
+          "title": "NBA新赛季首战火箭对阵雷霆",
+          "url": "https://www.douyin.com/hot/2277458",
+          "source": "抖音",
           "ranks": [
-            3,
+            4,
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 12时17分]"
+          "appearance_count": 2,
+          "time_info": "[06时13分 ~ 09时02分]"
         },
         {
-          "title": "DeepSeek新模型被硅谷夸疯了！用二维视觉压缩一维文字，单GPU能跑，“谷歌核心机密被开源”",
-          "url": "https://wallstreetcn.com/articles/3757530",
-          "source": "华尔街见闻",
+          "title": "任嘉伦预测NBA总冠军",
+          "url": "https://www.douyin.com/hot/2278042",
+          "source": "抖音",
           "ranks": [
-            5
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 06时13分]"
+          "appearance_count": 3,
+          "time_info": "[11时08分 ~ 12时17分]"
         },
         {
-          "title": "DeepSeek暂列AI炒币大赛榜首",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%9A%82%E5%88%97AI%E7%82%92%E5%B8%81%E5%A4%A7%E8%B5%9B%E6%A6%9C%E9%A6%96",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17,
-            25,
-            14,
-            4,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 09时02分]"
-        },
-        {
-          "title": "DeepSeek新模型深度解读",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E6%B7%B1%E5%BA%A6%E8%A7%A3%E8%AF%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            12,
-            3,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 06时13分]"
-        },
-        {
-          "title": "六大 AI 模型上演投资对决，DeepSeek 稳居第一，如何评价各模型的表现？",
-          "url": "https://www.zhihu.com/question/1963713236953203912",
+          "title": "25-26 赛季 NBA 揭幕战，雷霆 125:124 火箭，杜兰特最后时刻六犯离场，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/1964255422799151996",
           "source": "知乎",
           "ranks": [
-            8
+            20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "泽连斯基称已准备好结束俄乌冲突 OpenAI推出AI浏览器 | 环球市场",
-          "url": "https://www.cls.cn/detail/2176367",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时02分 ~ 12时17分]"
-        },
-        {
-          "title": "OpenAI首个AI浏览器发布",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E9%A6%96%E4%B8%AAAI%E6%B5%8F%E8%A7%88%E5%99%A8%E5%8F%91%E5%B8%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时08分 ~ 11时09分]"
-        },
-        {
-          "title": "阿里通义千问拿下爱彼迎，CEO公开力挺：比OpenAI好",
-          "url": "https://wallstreetcn.com/livenews/2991625",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时17分"
-        },
-        {
-          "title": "报道：OpenAI将推出新款浏览器ChatGPT Atlas",
-          "url": "https://wallstreetcn.com/livenews/2991350",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
-        },
-        {
-          "title": "OpenAI推出新浏览器ChatGPT Atlas，内置Agent代理模式",
-          "url": "https://flash.jin10.com/detail/20251022012656788800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
         }
       ]
     },
@@ -1061,7 +571,7 @@
       ]
     },
     {
-      "keyword_group": "泉州 福建 中国",
+      "keyword_group": "泉州新闻 福建",
       "match_count": 1,
       "titles": [
         {
