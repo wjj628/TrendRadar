@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-11-01T09:51:59.088005+08:00",
-  "total_titles_processed": 498,
+  "generated_at": "2025-11-01T16:29:35.415525+08:00",
+  "total_titles_processed": 733,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 9,
       "titles": [
+        {
+          "title": "亚马逊靓丽业绩提振科技股，美股三大股指收高为十月画上句号，加密货币反弹",
+          "url": "https://wallstreetcn.com/articles/3758419",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时51分 ~ 16时29分]"
+        },
         {
           "title": "美股延续美联储会后颓势，Meta重挫拖累科技股，加密货币大跌，亚马逊苹果绩后大涨",
           "url": "https://wallstreetcn.com/articles/3758264",
@@ -19,26 +30,16 @@
           "time_info": "00时35分"
         },
         {
-          "title": "亚马逊靓丽业绩提振科技股，美股三大股指收高为十月画上句号，加密货币反弹",
-          "url": "https://wallstreetcn.com/articles/3758419",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        },
-        {
           "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
           "url": "https://www.cls.cn/detail/2188490",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时51分 ~ 16时29分]"
         },
         {
           "title": "美股三大期指集体上涨 亚马逊盘前大涨超13% | 今夜看点",
@@ -59,7 +60,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -81,7 +82,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -92,7 +93,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -103,7 +104,47 @@
           "ranks": [
             28
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "NBA 篮球",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "如果篮筐降低 30cm，降到 275cm，会不会让篮球推广变得更容易？",
+          "url": "https://www.zhihu.com/question/580416272",
+          "source": "知乎",
+          "ranks": [
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时51分 ~ 16时29分]"
+        },
+        {
+          "title": "2526 赛季 NBA 杯小组赛西部 C 组掘金 107:109 开拓者，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/1967897414494028712",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
+        },
+        {
+          "title": "正直播NBA：凯尔特人vs76人",
+          "url": "https://www.baidu.com/s?wd=%E6%AD%A3%E7%9B%B4%E6%92%ADNBA%EF%BC%9A%E5%87%AF%E5%B0%94%E7%89%B9%E4%BA%BAvs76%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         }
@@ -118,11 +159,12 @@
           "url": "https://www.cls.cn/detail/2188436",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时51分 ~ 16时29分]"
         },
         {
           "title": "摩根士丹利：由于ETF和各国央行的强劲实物需求，以及经济前景依然不确定，黄金价格有望在2026年年中升至每盎司4500美元（此前预计为2026年下半年达到4500美元）。",
@@ -134,34 +176,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "NBA 篮球",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "如果篮筐降低 30cm，降到 275cm，会不会让篮球推广变得更容易？",
-          "url": "https://www.zhihu.com/question/580416272",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        },
-        {
-          "title": "正直播NBA：凯尔特人vs76人",
-          "url": "https://www.baidu.com/s?wd=%E6%AD%A3%E7%9B%B4%E6%92%ADNBA%EF%BC%9A%E5%87%AF%E5%B0%94%E7%89%B9%E4%BA%BAvs76%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时51分"
         }
       ]
     },
