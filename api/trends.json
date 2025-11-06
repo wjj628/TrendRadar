@@ -1,12 +1,84 @@
 {
-  "generated_at": "2025-11-06T00:32:21.353039+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-06T09:49:01.139799+08:00",
+  "total_titles_processed": 504,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美债",
-      "match_count": 2,
+      "keyword_group": "美股",
+      "match_count": 5,
       "titles": [
+        {
+          "title": "美股收盘：三大指数回暖收涨 美光科技再创历史新高",
+          "url": "https://www.cls.cn/detail/2192424",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 09时49分]"
+        },
+        {
+          "title": "“黑色星期二”：纳指领跌美股，英伟达跌4%，币圈连遭血洗，金银油齐跌，美元五连阳",
+          "url": "https://wallstreetcn.com/articles/3758628",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时32分"
+        },
+        {
+          "title": "HBM4涨价带动美股存储板块爆发 美光科技股价再创历史新高",
+          "url": "https://www.cls.cn/detail/2192518",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 09时49分]"
+        },
+        {
+          "title": "美股泡沫有多大？瑞银给出七个观测指标",
+          "url": "https://wallstreetcn.com/articles/3758712",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 09时49分]"
+        },
+        {
+          "title": "敏感时刻，美股警报连连！著名估值指标“史上第二次”突破红线，上一次是1999年",
+          "url": "https://wallstreetcn.com/articles/3758685",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
+          "url": "https://wallstreetcn.com/articles/3758696",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 09时49分]"
+        },
         {
           "title": "美股三大股指涨跌不一，美债短线下挫，加密货币反弹，以太坊涨超4%",
           "url": "https://wallstreetcn.com/articles/3758696",
@@ -32,54 +104,38 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 2,
+      "keyword_group": "社会新闻 泉州 福建",
+      "match_count": 3,
       "titles": [
         {
-          "title": "“黑色星期二”：纳指领跌美股，英伟达跌4%，币圈连遭血洗，金银油齐跌，美元五连阳",
-          "url": "https://wallstreetcn.com/articles/3758628",
-          "source": "华尔街见闻",
+          "title": "航母三胎齐亮相,福建舰出列登场",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346763&amp;topic_name=%E8%88%AA%E6%AF%8D%E4%B8%89%E8%83%8E%E9%BD%90%E4%BA%AE%E7%9B%B8%2C%E7%A6%8F%E5%BB%BA%E8%88%B0%E5%87%BA%E5%88%97%E7%99%BB%E5%9C%BA",
+          "source": "贴吧",
           "ranks": [
-            2
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 09时49分]"
         },
         {
-          "title": "敏感时刻，美股警报连连！著名估值指标“史上第二次”突破红线，上一次是1999年",
-          "url": "https://wallstreetcn.com/articles/3758685",
-          "source": "华尔街见闻",
+          "title": "福建舰可随时投入作战",
+          "url": "https://www.baidu.com/s?wd=%E7%A6%8F%E5%BB%BA%E8%88%B0%E5%8F%AF%E9%9A%8F%E6%97%B6%E6%8A%95%E5%85%A5%E4%BD%9C%E6%88%98",
+          "source": "百度热搜",
           "ranks": [
-            10
+            26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "社会新闻 泉州 福建",
-      "match_count": 2,
-      "titles": [
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 09时49分]"
+        },
         {
           "title": "福建舰即将入列？三亚发布航行警告",
           "url": "https://www.baidu.com/s?wd=%E7%A6%8F%E5%BB%BA%E8%88%B0%E5%8D%B3%E5%B0%86%E5%85%A5%E5%88%97%EF%BC%9F%E4%B8%89%E4%BA%9A%E5%8F%91%E5%B8%83%E8%88%AA%E8%A1%8C%E8%AD%A6%E5%91%8A",
           "source": "百度热搜",
           "ranks": [
             8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "航母三胎齐亮相,福建舰出列登场",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346763&amp;topic_name=%E8%88%AA%E6%AF%8D%E4%B8%89%E8%83%8E%E9%BD%90%E4%BA%AE%E7%9B%B8%2C%E7%A6%8F%E5%BB%BA%E8%88%B0%E5%87%BA%E5%88%97%E7%99%BB%E5%9C%BA",
-          "source": "贴吧",
-          "ranks": [
-            10
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -101,6 +157,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "NBA 篮球",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "正直播NBA：76人vs骑士",
+          "url": "https://www.baidu.com/s?wd=%E6%AD%A3%E7%9B%B4%E6%92%ADNBA%EF%BC%9A76%E4%BA%BAvs%E9%AA%91%E5%A3%AB",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 09时49分]"
         }
       ]
     }
