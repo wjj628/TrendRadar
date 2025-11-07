@@ -1,12 +1,90 @@
 {
-  "generated_at": "2025-11-07T09:49:09.933419+08:00",
-  "total_titles_processed": 514,
+  "generated_at": "2025-11-07T16:31:47.633409+08:00",
+  "total_titles_processed": 749,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "社会新闻 泉州 福建",
-      "match_count": 7,
+      "match_count": 32,
       "titles": [
+        {
+          "title": "中国军工：别急，先看看这个！福建舰海试高清视频来了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31910109",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 16时31分]"
+        },
+        {
+          "title": "福建舰入列！中国迈入三航母时代",
+          "url": "https://www.toutiao.com/trending/7569094120221196324/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
+          "title": "福建舰入列",
+          "url": "https://www.baidu.com/s?wd=%E7%A6%8F%E5%BB%BA%E8%88%B0%E5%85%A5%E5%88%97",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
+          "title": "福建舰入列现场视频",
+          "url": "https://search.bilibili.com/all?keyword=%E7%A6%8F%E5%BB%BA%E8%88%B0%E5%85%A5%E5%88%97%E7%8E%B0%E5%9C%BA%E8%A7%86%E9%A2%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
+          "title": "三胎福建舰上岗,美国休想再嚣张",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346844&amp;topic_name=%E4%B8%89%E8%83%8E%E7%A6%8F%E5%BB%BA%E8%88%B0%E4%B8%8A%E5%B2%97%2C%E7%BE%8E%E5%9B%BD%E4%BC%91%E6%83%B3%E5%86%8D%E5%9A%A3%E5%BC%A0",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
+          "title": "福建舰入列",
+          "url": "https://www.douyin.com/hot/2297731",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
+          "title": "11 月 5 日我国第一艘电磁弹射「福建舰」入列服役，人民海军正式开启三航母时代，具有怎样的战略意义？",
+          "url": "https://www.zhihu.com/question/1970114584124847835",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
         {
           "title": "中国军工发布福建舰海试高清视频",
           "url": "https://www.toutiao.com/trending/7569592352537316873/",
@@ -19,15 +97,37 @@
           "time_info": "00时31分"
         },
         {
-          "title": "中国军工：别急，先看看这个！福建舰海试高清视频来了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31910109",
+          "title": "福建舰、山东舰为何都在三亚入列",
+          "url": "https://www.toutiao.com/trending/7569505204472447039/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
+          "title": "视频丨福建舰入列！中国海军正式进入三航母时代",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31915317",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            2
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 09时49分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
+          "title": "福建舰正式入列",
+          "url": "https://search.bilibili.com/all?keyword=%E7%A6%8F%E5%BB%BA%E8%88%B0%E6%AD%A3%E5%BC%8F%E5%85%A5%E5%88%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
         },
         {
           "title": "航母三胎齐亮相,福建舰出列登场",
@@ -53,6 +153,39 @@
           "time_info": "[09时48分 ~ 09时49分]"
         },
         {
+          "title": "用4万个零件复刻福建舰",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A84%E4%B8%87%E4%B8%AA%E9%9B%B6%E4%BB%B6%E5%A4%8D%E5%88%BB%E7%A6%8F%E5%BB%BA%E8%88%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
+          "title": "福建舰入列意味着什么",
+          "url": "https://www.baidu.com/s?wd=%E7%A6%8F%E5%BB%BA%E8%88%B0%E5%85%A5%E5%88%97%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
+          "title": "福建舰强在哪",
+          "url": "https://search.bilibili.com/all?keyword=%E7%A6%8F%E5%BB%BA%E8%88%B0%E5%BC%BA%E5%9C%A8%E5%93%AA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
           "title": "福建舰弹射画面公开",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%A6%8F%E5%BB%BA%E8%88%B0%E5%BC%B9%E5%B0%84%E7%94%BB%E9%9D%A2%E5%85%AC%E5%BC%80%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D8%26lcate%3D5001%26pos%3D8%26filter_type%3Drealtimehot%26stream_entry_id%3D31%26c_type%3D31%26q%3D%2523%25E7%25A6%258F%25E5%25BB%25BA%25E8%2588%25B0%25E5%25BC%25B9%25E5%25B0%2584%25E7%2594%25BB%25E9%259D%25A2%25E5%2585%25AC%25E5%25BC%2580%2523%26dgr%3D0%26band_rank%3D8%26cate%3D5001%26flag%3D0%26display_time%3D1762445652%26pre_seqid%3D176244565203203611051&launchid=10000360-page_H5",
           "source": "微博",
@@ -62,6 +195,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
+        },
+        {
+          "title": "山东舰现场见证福建舰入列",
+          "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E8%88%B0%E7%8E%B0%E5%9C%BA%E8%A7%81%E8%AF%81%E7%A6%8F%E5%BB%BA%E8%88%B0%E5%85%A5%E5%88%97",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
         },
         {
           "title": "福建舰海试高清视频发布",
@@ -75,6 +219,127 @@
           "time_info": "00时31分"
         },
         {
+          "title": "我国首艘弹射型航空母舰福建舰入列，你想对这艘八万吨巨舰背后的设计者、建造者们说些什么？",
+          "url": "https://www.zhihu.com/question/1970115427477751653",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
+          "title": "专家：福建舰让一些国外决策者冷静",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%EF%BC%9A%E7%A6%8F%E5%BB%BA%E8%88%B0%E8%AE%A9%E4%B8%80%E4%BA%9B%E5%9B%BD%E5%A4%96%E5%86%B3%E7%AD%96%E8%80%85%E5%86%B7%E9%9D%99",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
+          "title": "福建舰入列背后的中国大布局",
+          "url": "https://www.baidu.com/s?wd=%E7%A6%8F%E5%BB%BA%E8%88%B0%E5%85%A5%E5%88%97%E8%83%8C%E5%90%8E%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%B8%83%E5%B1%80",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
+          "title": "福建舰在各国航母中到底是啥水平",
+          "url": "https://www.toutiao.com/trending/7569863144810483250/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
+          "title": "福建舰将成南海“定海神针”",
+          "url": "https://www.baidu.com/s?wd=%E7%A6%8F%E5%BB%BA%E8%88%B0%E5%B0%86%E6%88%90%E5%8D%97%E6%B5%B7%E2%80%9C%E5%AE%9A%E6%B5%B7%E7%A5%9E%E9%92%88%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
+          "title": "福建舰是我国航母常态化部署第一步",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%A6%8F%E5%BB%BA%E8%88%B0%E6%98%AF%E6%88%91%E5%9B%BD%E8%88%AA%E6%AF%8D%E5%B8%B8%E6%80%81%E5%8C%96%E9%83%A8%E7%BD%B2%E7%AC%AC%E4%B8%80%E6%AD%A5%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D16%26stream_entry_id%3D31%26pos%3D16%26flag%3D0%26q%3D%2523%25E7%25A6%258F%25E5%25BB%25BA%25E8%2588%25B0%25E6%2598%25AF%25E6%2588%2591%25E5%259B%25BD%25E8%2588%25AA%25E6%25AF%258D%25E5%25B8%25B8%25E6%2580%2581%25E5%258C%2596%25E9%2583%25A8%25E7%25BD%25B2%25E7%25AC%25AC%25E4%25B8%2580%25E6%25AD%25A5%2523%26dgr%3D0%26filter_type%3Drealtimehot%26c_type%3D31%26band_rank%3D16%26cate%3D5001%26lcate%3D5001%26display_time%3D1762504223%26pre_seqid%3D17625042230620247076971&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
+          "title": "福建舰入列有何战略意义",
+          "url": "https://search.bilibili.com/all?keyword=%E7%A6%8F%E5%BB%BA%E8%88%B0%E5%85%A5%E5%88%97%E6%9C%89%E4%BD%95%E6%88%98%E7%95%A5%E6%84%8F%E4%B9%89",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
+          "title": "福建舰入列背后的大布局",
+          "url": "https://search.bilibili.com/all?keyword=%E7%A6%8F%E5%BB%BA%E8%88%B0%E5%85%A5%E5%88%97%E8%83%8C%E5%90%8E%E7%9A%84%E5%A4%A7%E5%B8%83%E5%B1%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
+          "title": "福建舰舷号18",
+          "url": "https://www.baidu.com/s?wd=%E7%A6%8F%E5%BB%BA%E8%88%B0%E8%88%B7%E5%8F%B718",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
+          "title": "福建舰",
+          "url": "https://search.bilibili.com/all?keyword=%E7%A6%8F%E5%BB%BA%E8%88%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
+          "title": "60秒回顾福建舰经典名场面",
+          "url": "https://www.toutiao.com/trending/7569851186875256329/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
           "title": "泉州小吃让德国人疯狂",
           "url": "https://search.bilibili.com/all?keyword=%E6%B3%89%E5%B7%9E%E5%B0%8F%E5%90%83%E8%AE%A9%E5%BE%B7%E5%9B%BD%E4%BA%BA%E7%96%AF%E7%8B%82",
           "source": "bilibili 热搜",
@@ -84,6 +349,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
+        },
+        {
+          "title": "福建舰入列可震慑“台独”武装",
+          "url": "https://www.baidu.com/s?wd=%E7%A6%8F%E5%BB%BA%E8%88%B0%E5%85%A5%E5%88%97%E5%8F%AF%E9%9C%87%E6%85%91%E2%80%9C%E5%8F%B0%E7%8B%AC%E2%80%9D%E6%AD%A6%E8%A3%85",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
         }
       ]
     },
@@ -99,8 +375,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时48分 ~ 09时49分]"
+          "appearance_count": 3,
+          "time_info": "[09时48分 ~ 16时31分]"
         },
         {
           "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
@@ -191,11 +467,12 @@
           "url": "https://wallstreetcn.com/articles/3758813",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时48分 ~ 09时49分]"
+          "appearance_count": 3,
+          "time_info": "[09时48分 ~ 16时31分]"
         },
         {
           "title": "Datadog美股盘初涨19%，创2022年2月份以来盘中新高。",
@@ -220,11 +497,12 @@
           "source": "澎湃新闻",
           "ranks": [
             5,
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 09时49分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 16时31分]"
         },
         {
           "title": "金价暴涨三四线城市金店撑不住了",
