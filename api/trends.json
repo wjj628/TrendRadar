@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-09T09:51:46.572576+08:00",
-  "total_titles_processed": 464,
+  "generated_at": "2025-11-09T16:27:10.212588+08:00",
+  "total_titles_processed": 692,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "社会新闻 泉州 福建",
-      "match_count": 14,
+      "match_count": 20,
       "titles": [
         {
           "title": "福建舰部署三亚军港",
@@ -15,8 +15,31 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 16时27分]"
+        },
+        {
+          "title": "中国舰船研究设计中心：王硕威不是福建舰总设计师、总建造师",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31924403",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 16时27分]"
+        },
+        {
+          "title": "为什么弓箭不能空放而更大更猛的福建舰电磁弹射可以空放呢？",
+          "url": "https://www.zhihu.com/question/1970467407878402977",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时27分 ~ 09时51分]"
+          "time_info": "[16时26分 ~ 16时27分]"
         },
         {
           "title": "福建舰入列让世界开始抄作业",
@@ -25,7 +48,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -36,18 +59,6 @@
           "ranks": [
             1,
             29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 09时51分]"
-        },
-        {
-          "title": "中国舰船研究设计中心：王硕威不是福建舰总设计师、总建造师",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31924403",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            2
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -66,6 +77,30 @@
           "time_info": "[00时27分 ~ 09时51分]"
         },
         {
+          "title": "三胎福建舰上岗,美国休想再嚣张",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346844&amp;topic_name=%E4%B8%89%E8%83%8E%E7%A6%8F%E5%BB%BA%E8%88%B0%E4%B8%8A%E5%B2%97%2C%E7%BE%8E%E5%9B%BD%E4%BC%91%E6%83%B3%E5%86%8D%E5%9A%A3%E5%BC%A0",
+          "source": "贴吧",
+          "ranks": [
+            13,
+            14,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 16时27分]"
+        },
+        {
+          "title": "福建舰上有“哪吒”",
+          "url": "https://www.baidu.com/s?wd=%E7%A6%8F%E5%BB%BA%E8%88%B0%E4%B8%8A%E6%9C%89%E2%80%9C%E5%93%AA%E5%90%92%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 16时27分]"
+        },
+        {
           "title": "海军新闻发言人就福建舰入列有关问题答记者问",
           "url": "https://m.thepaper.cn/newsDetail_forward_31923640",
           "source": "澎湃新闻",
@@ -78,16 +113,26 @@
           "time_info": "[00时27分 ~ 09时51分]"
         },
         {
-          "title": "三胎福建舰上岗,美国休想再嚣张",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346844&amp;topic_name=%E4%B8%89%E8%83%8E%E7%A6%8F%E5%BB%BA%E8%88%B0%E4%B8%8A%E5%B2%97%2C%E7%BE%8E%E5%9B%BD%E4%BC%91%E6%83%B3%E5%86%8D%E5%9A%A3%E5%BC%A0",
-          "source": "贴吧",
+          "title": "福建舰为何必须用电磁弹射",
+          "url": "https://search.bilibili.com/all?keyword=%E7%A6%8F%E5%BB%BA%E8%88%B0%E4%B8%BA%E4%BD%95%E5%BF%85%E9%A1%BB%E7%94%A8%E7%94%B5%E7%A3%81%E5%BC%B9%E5%B0%84",
+          "source": "bilibili 热搜",
           "ranks": [
-            13,
-            14
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时27分 ~ 09时51分]"
+          "time_info": "[16时26分 ~ 16时27分]"
+        },
+        {
+          "title": "官方声明：王硕威非福建舰总设计师",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%A3%B0%E6%98%8E%EF%BC%9A%E7%8E%8B%E7%A1%95%E5%A8%81%E9%9D%9E%E7%A6%8F%E5%BB%BA%E8%88%B0%E6%80%BB%E8%AE%BE%E8%AE%A1%E5%B8%88",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 16时27分]"
         },
         {
           "title": "福建舰入列细节盘点",
@@ -125,6 +170,17 @@
           "time_info": "[00时27分 ~ 09时51分]"
         },
         {
+          "title": "歼-50啥时候能上福建舰",
+          "url": "https://www.toutiao.com/trending/7570417611239309375/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 16时27分]"
+        },
+        {
           "title": "福建舰为什么被子不叠“豆腐块”",
           "url": "https://www.toutiao.com/trending/7570170395640184859/",
           "source": "今日头条",
@@ -147,13 +203,24 @@
           "time_info": "00时27分"
         },
         {
+          "title": "台风“凤凰”已加强为超强台风级，福建近岸海域将有大浪",
+          "url": "https://wallstreetcn.com/livenews/3001628",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
           "title": "德国主流媒体对福建舰入列有何反应",
           "url": "https://www.toutiao.com/trending/7570495011775581759/",
           "source": "今日头条",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -198,11 +265,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 09时51分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 16时27分]"
         }
       ]
     },
@@ -220,6 +288,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "NBA 篮球",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "2526 赛季 NBA 常规赛湖人 102:122 老鹰，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/1970781046896308738",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 16时27分]"
         }
       ]
     }
