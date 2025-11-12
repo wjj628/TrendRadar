@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-12T00:30:56.532581+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2025-11-12T09:49:04.500550+08:00",
+  "total_titles_processed": 495,
   "failed_sources": [],
   "trends": [
     {
@@ -21,6 +21,40 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美就业疲软提振降息预期，道指涨超1%，科技股回调，美债金银齐涨，加密货币下挫",
+          "url": "https://wallstreetcn.com/articles/3759125",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 09时49分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美股收盘：三大股指涨跌不一 市场押注美国政府停摆即将结束",
+          "url": "https://www.cls.cn/detail/2197739",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 09时49分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "社会新闻 泉州 福建",
       "match_count": 1,
       "titles": [
@@ -29,11 +63,29 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346986&amp;topic_name=%E8%88%AA%E6%AF%8D%E7%A5%9E%E7%AB%A5%E6%8A%95%E8%B5%84%E4%BA%BA%E8%8E%B7%E8%B5%A0%E7%A6%8F%E5%BB%BA%E8%88%B0%E6%89%8B%E8%A1%A8",
           "source": "贴吧",
           "ranks": [
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时30分"
+          "appearance_count": 3,
+          "time_info": "[00时30分 ~ 09时49分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "NBA 篮球",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "库里之歌传到NBA了",
+          "url": "https://www.douyin.com/hot/2303046",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 09时49分]"
         }
       ]
     }
