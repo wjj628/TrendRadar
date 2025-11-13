@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-13T00:32:05.068610+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-13T09:50:44.071042+08:00",
+  "total_titles_processed": 483,
   "failed_sources": [],
   "trends": [
     {
@@ -36,44 +36,27 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
         }
       ]
     },
     {
-      "keyword_group": "社会新闻 泉州 福建",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "福建舰入列意味着什么",
-          "url": "https://search.bilibili.com/all?keyword=%E7%A6%8F%E5%BB%BA%E8%88%B0%E5%85%A5%E5%88%97%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 00时32分]"
-        },
-        {
-          "title": "航母神童投资人获赠福建舰手表",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346986&amp;topic_name=%E8%88%AA%E6%AF%8D%E7%A5%9E%E7%AB%A5%E6%8A%95%E8%B5%84%E4%BA%BA%E8%8E%B7%E8%B5%A0%E7%A6%8F%E5%BB%BA%E8%88%B0%E6%89%8B%E8%A1%A8",
-          "source": "贴吧",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 00时32分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "NBA 篮球",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "NBA 全美直播收视率暴涨 92% 创 15 年新高，如何评价 NBA 的吸引力？",
+          "url": "https://www.zhihu.com/question/1971608950521725372",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
         {
           "title": "新赛季 NBA 全明星赛将采用美国队 vs 世界队的赛制，对此你怎么看，这么做能挽救全明星的口碑吗？",
           "url": "https://www.zhihu.com/question/1971895577231974588",
@@ -95,6 +78,64 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时31分 ~ 00时32分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美股收盘：道指再创历史新高 AI热潮降温AMD逆势飙升9%",
+          "url": "https://www.cls.cn/detail/2198992",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "美股期货收复稍早失地，纳斯达克100指数期货转为上涨0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3003743",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "社会新闻 泉州 福建",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "福建舰入列意味着什么",
+          "url": "https://search.bilibili.com/all?keyword=%E7%A6%8F%E5%BB%BA%E8%88%B0%E5%85%A5%E5%88%97%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 09时50分]"
+        },
+        {
+          "title": "航母神童投资人获赠福建舰手表",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346986&amp;topic_name=%E8%88%AA%E6%AF%8D%E7%A5%9E%E7%AB%A5%E6%8A%95%E8%B5%84%E4%BA%BA%E8%8E%B7%E8%B5%A0%E7%A6%8F%E5%BB%BA%E8%88%B0%E6%89%8B%E8%A1%A8",
+          "source": "贴吧",
+          "ranks": [
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 09时50分]"
         }
       ]
     }
