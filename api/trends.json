@@ -1,105 +1,39 @@
 {
-  "generated_at": "2025-11-16T16:28:18.195179+08:00",
-  "total_titles_processed": 702,
+  "generated_at": "2025-11-17T00:26:22.206116+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "美股收盘：科技股反弹纳指止步三连跌 焦点转向英伟达财报",
-          "url": "https://www.cls.cn/detail/2201442",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 16时28分]"
-        },
-        {
-          "title": "高瓴HHLR三季度美股持仓：持股总市值暴增70亿 持续加大中国资产配置",
-          "url": "https://www.cls.cn/detail/2201450",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 16时28分]"
-        },
         {
           "title": "中国顶流私募“美股成绩单”出炉：阿里、拼多多成香饽饽",
           "url": "https://www.cls.cn/detail/2201578",
           "source": "财联社热门",
           "ranks": [
-            13,
-            9,
-            11
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 16时28分]"
-        },
-        {
-          "title": "避险情绪持续升温 美股、黄金、比特币齐跌 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2201293",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 00时26分]"
+          "appearance_count": 1,
+          "time_info": "00时26分"
         }
       ]
     },
     {
       "keyword_group": "社会新闻 泉州 福建",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "福建前首富交棒 80后女儿上位",
-          "url": "https://www.baidu.com/s?wd=%E7%A6%8F%E5%BB%BA%E5%89%8D%E9%A6%96%E5%AF%8C%E4%BA%A4%E6%A3%92+80%E5%90%8E%E5%A5%B3%E5%84%BF%E4%B8%8A%E4%BD%8D",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 00时26分]"
-        },
         {
           "title": "福建师大“琉球学”学科研讨会开幕，已入选中国社科院绝学扶持计划",
           "url": "https://m.thepaper.cn/newsDetail_forward_31977158",
           "source": "澎湃新闻",
           "ranks": [
-            14
+            7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "NBA 篮球",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "2526 赛季 NBA 常规赛湖人 119:95 雄鹿，如何评价这场比赛？",
-          "url": "https://www.zhihu.com/question/1973317794243298917",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时28分"
+          "time_info": "00时26分"
         }
       ]
     }
