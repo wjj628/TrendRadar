@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-19T09:48:21.637356+08:00",
-  "total_titles_processed": 476,
+  "generated_at": "2025-11-19T16:31:51.577907+08:00",
+  "total_titles_processed": 695,
   "failed_sources": [],
   "trends": [
     {
@@ -36,7 +36,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         },
@@ -59,7 +59,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         },
@@ -89,7 +89,7 @@
     },
     {
       "keyword_group": "社会新闻 泉州 福建",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "视频丨福建舰开展入列后首次海上实兵训练",
@@ -100,8 +100,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 09时48分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 16时31分]"
         },
         {
           "title": "福建舰实兵训练画面",
@@ -109,11 +109,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             4,
-            8
+            8,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 09时48分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 16时31分]"
         },
         {
           "title": "福建舰入列后首次海上实兵训练",
@@ -144,15 +145,37 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
+        },
+        {
+          "title": "福建舰开展入列后首次海上实兵训练，两个看点值得关注",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31992336",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
+          "title": "福建舰山东舰联袂出海准备剑指何方",
+          "url": "https://www.toutiao.com/trending/7574290766227312191/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
         }
       ]
     },
     {
       "keyword_group": "NBA 篮球",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "2526 赛季 NBA 常规赛快船 108:110 76 人，如何评价这场比赛？",
@@ -166,13 +189,24 @@
           "time_info": "[00时32分 ~ 00时33分]"
         },
         {
+          "title": "2526 赛季 NBA 常规赛爵士 125:140 湖人，詹姆斯复出砍下两双，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/1974442723353306918",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
           "title": "正直播NBA：凯尔特人vs篮网",
           "url": "https://www.baidu.com/s?wd=%E6%AD%A3%E7%9B%B4%E6%92%ADNBA%EF%BC%9A%E5%87%AF%E5%B0%94%E7%89%B9%E4%BA%BAvs%E7%AF%AE%E7%BD%91",
           "source": "百度热搜",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         }
