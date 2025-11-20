@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-20T09:46:54.493389+08:00",
-  "total_titles_processed": 480,
+  "generated_at": "2025-11-20T16:32:47.176293+08:00",
+  "total_titles_processed": 693,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3759700",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时46分 ~ 16时32分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 英伟达财报再超预期",
@@ -25,7 +26,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
         },
@@ -111,6 +112,23 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "英伟达业绩提振全球市场情绪，日经225涨超3%，纳指100期货涨1.9%，比特币升至9.2万美元，金价跌至4070美元",
+          "url": "https://wallstreetcn.com/articles/3759753",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        }
+      ]
+    },
+    {
       "keyword_group": "社会新闻 泉州 福建",
       "match_count": 1,
       "titles": [
@@ -124,6 +142,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "NBA 篮球",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "2526 赛季 NBA 公牛 122:121 开拓者，杨瀚森 2 分 2 板，武切维奇绝杀，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/1974797633844421549",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         }
       ]
     }
