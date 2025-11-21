@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-21T09:47:57.802022+08:00",
-  "total_titles_processed": 493,
+  "generated_at": "2025-11-21T16:33:10.336902+08:00",
+  "total_titles_processed": 749,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 15,
       "titles": [
         {
           "title": "【早报】美股上演“过山车式”大跳水；磷酸铁锂行业推进反内卷",
@@ -14,9 +14,54 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时47分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时47分 ~ 16时33分]"
+        },
+        {
+          "title": "纳指日内暴跌5%！4月以来最惨烈波动，美股怎么了？",
+          "url": "https://wallstreetcn.com/articles/3759840",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时47分 ~ 16时33分]"
+        },
+        {
+          "title": "美股为何巨震暴跌",
+          "url": "https://www.toutiao.com/trending/7574979338739650091/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时32分 ~ 16时33分]"
+        },
+        {
+          "title": "英伟达光环消失！美股惨烈高台跳水 华尔街全在问：为什么？",
+          "url": "https://www.cls.cn/detail/2206908",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时32分 ~ 16时33分]"
+        },
+        {
+          "title": "降息前景存疑！亚太市场追随美股下挫 科技股成重灾区",
+          "url": "https://www.cls.cn/detail/2206941",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时32分 ~ 16时33分]"
         },
         {
           "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
@@ -36,18 +81,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时47分"
-        },
-        {
-          "title": "纳指日内暴跌5%！4月以来最惨烈波动，美股怎么了？",
-          "url": "https://wallstreetcn.com/articles/3759840",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         },
@@ -56,11 +90,45 @@
           "url": "https://wallstreetcn.com/articles/3759847",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时47分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时47分 ~ 16时33分]"
+        },
+        {
+          "title": "美股大跌的“罪魁祸首”！英伟达日内惨跌7%，“大空头”财报后密集“放炮”",
+          "url": "https://wallstreetcn.com/articles/3759849",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时32分 ~ 16时33分]"
+        },
+        {
+          "title": "美国消费“凉了”？美股45年来首次出现这一幕……",
+          "url": "https://www.cls.cn/detail/2207216",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时32分 ~ 16时33分]"
+        },
+        {
+          "title": "美股为何巨震暴跌",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%BA%E4%BD%95%E5%B7%A8%E9%9C%87%E6%9A%B4%E8%B7%8C",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时32分 ~ 16时33分]"
         },
         {
           "title": "美股大跌 英伟达跌超3%",
@@ -69,7 +137,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         },
@@ -91,7 +159,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         },
@@ -102,7 +170,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         }
@@ -119,7 +187,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         },
@@ -130,7 +198,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         },
@@ -141,7 +209,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         }
@@ -156,11 +224,12 @@
           "url": "https://wallstreetcn.com/articles/3759753",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时47分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时47分 ~ 16时33分]"
         },
         {
           "title": "英伟达业绩驱散悲观情绪，“悲喜交织”就业数据后，美股指数高开高走，美债上扬",
@@ -186,7 +255,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         },
@@ -197,7 +266,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         }
@@ -214,7 +283,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         }
