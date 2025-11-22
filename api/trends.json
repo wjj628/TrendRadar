@@ -1,190 +1,78 @@
 {
-  "generated_at": "2025-11-22T16:28:39.407684+08:00",
-  "total_titles_processed": 719,
+  "generated_at": "2025-11-23T00:27:14.670978+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 2,
       "titles": [
         {
           "title": "美股收盘：美联储“鸽声”提振市场 三大指数集体反弹 道指涨超1%",
           "url": "https://www.cls.cn/detail/2207916",
           "source": "财联社热门",
           "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时43分 ~ 16时28分]"
-        },
-        {
-          "title": "美股大跌的“罪魁祸首”！英伟达日内惨跌7%，“大空头”财报后密集“放炮”",
-          "url": "https://wallstreetcn.com/articles/3759849",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 09时44分]"
-        },
-        {
-          "title": "隔夜，美股为何巨震暴跌？高盛给出九大理由",
-          "url": "https://wallstreetcn.com/articles/3759847",
-          "source": "华尔街见闻",
-          "ranks": [
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 00时27分]"
         },
         {
-          "title": "纳指日内暴跌5%！4月以来最惨烈波动，美股怎么了？",
-          "url": "https://wallstreetcn.com/articles/3759840",
+          "title": "美股惊魂一周，纳指创4月来最大三周跌幅，华尔街现在很焦虑！",
+          "url": "https://wallstreetcn.com/articles/3759920",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
-        },
-        {
-          "title": "风险资产迎来多空激战 美股三大期指盘前翻红 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2207754",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 09时44分]"
-        },
-        {
-          "title": "小盘股指ETF收涨超3.8%，和地产ETF领跑美股大类资产类ETF",
-          "url": "https://wallstreetcn.com/livenews/3008935",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时44分"
-        },
-        {
-          "title": "美股半导体ETF跌约3.9%，英伟达大跌4.2%",
-          "url": "https://wallstreetcn.com/livenews/3008802",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
-        },
-        {
-          "title": "全球航空业ETF收涨3.5%，和银行业ETF领跑美股行业ETF，本周半导体ETF跌超5.4%、科技行业ETF累跌超5%",
-          "url": "https://wallstreetcn.com/livenews/3008932",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时44分"
-        },
-        {
-          "title": "美股为何高台跳水？华尔街分析师：五大力量共同作用",
-          "url": "https://www.cls.cn/detail/2207612",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
-        },
-        {
-          "title": "高盛合伙人：美股出现多头缴械迹象，市场似乎正进入AI周期的新阶段",
-          "url": "https://wallstreetcn.com/livenews/3008798",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
-        },
-        {
-          "title": "（美股）费城金银指数收涨0.82%，报284.12点，本周累计下跌3.50%，11月20日美股早盘出现一波显著的下跌行情。 纽约证交所ARCA金矿开采商指数收跌0.11%，报2063.11点，本周累跌4.41%。",
-          "url": "https://wallstreetcn.com/livenews/3008920",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时44分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 00时27分]"
         }
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 3,
+      "keyword_group": "社会新闻 泉州 福建",
+      "match_count": 2,
       "titles": [
         {
-          "title": "美联储高官安抚市场，美股指数集体高开，美债走高，礼来市值破万亿美元，比特币短线反弹3000美元，金银跌幅收窄",
-          "url": "https://wallstreetcn.com/articles/3759842",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
-        },
-        {
-          "title": "美股上演四月关税风暴来最大盘中逆转，英伟达跌超3%，美债走强，比特币七个月新低",
-          "url": "https://wallstreetcn.com/articles/3759753",
-          "source": "华尔街见闻",
+          "title": "福建舰之大具象化了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA%E8%88%B0%E4%B9%8B%E5%A4%A7%E5%85%B7%E8%B1%A1%E5%8C%96%E4%BA%86%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
           "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 00时27分]"
         },
         {
-          "title": "两年期美债收益率周五跌超2.5个基点，本周累跌超9.8个基点",
-          "url": "https://wallstreetcn.com/livenews/3008925",
-          "source": "华尔街见闻-快讯",
+          "title": "福建舰之大具象化了",
+          "url": "https://www.toutiao.com/trending/7574667623112212521/",
+          "source": "今日头条",
           "ranks": [
-            15
+            27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时44分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 00时27分]"
         }
       ]
     },
     {
-      "keyword_group": "NBA 篮球",
+      "keyword_group": "金价",
       "match_count": 1,
       "titles": [
         {
-          "title": "2526 赛季 NBA 杯小组赛西部 C 组开拓者 127:123 勇士，如何评价这场比赛？",
-          "url": "https://www.zhihu.com/question/1975522358992340718",
-          "source": "知乎",
+          "title": "澳新银行：金价回落但基本面稳固，白银表现仍亮眼",
+          "url": "https://flash.jin10.com/detail/20251122223006926800",
+          "source": "金十数据",
           "ranks": [
-            14
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时28分"
+          "time_info": "00时27分"
         }
       ]
     }
