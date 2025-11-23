@@ -1,39 +1,52 @@
 {
-  "generated_at": "2025-11-23T00:27:14.670978+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2025-11-23T10:01:54.028755+08:00",
+  "total_titles_processed": 456,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美股收盘：美联储“鸽声”提振市场 三大指数集体反弹 道指涨超1%",
           "url": "https://www.cls.cn/detail/2207916",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 00时27分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 10时01分]"
         },
         {
           "title": "美股惊魂一周，纳指创4月来最大三周跌幅，华尔街现在很焦虑！",
           "url": "https://wallstreetcn.com/articles/3759920",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 00时27分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 10时01分]"
+        },
+        {
+          "title": "“疫苗之王”科兴或从美股退市",
+          "url": "https://www.toutiao.com/trending/7575693927517261318/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
         }
       ]
     },
     {
       "keyword_group": "社会新闻 泉州 福建",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "福建舰之大具象化了",
@@ -43,8 +56,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 00时27分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 10时01分]"
         },
         {
           "title": "福建舰之大具象化了",
@@ -56,23 +69,63 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时26分 ~ 00时27分]"
+        },
+        {
+          "title": "能与20层楼比肩 福建舰之大具象化了",
+          "url": "https://www.baidu.com/s?wd=%E8%83%BD%E4%B8%8E20%E5%B1%82%E6%A5%BC%E6%AF%94%E8%82%A9+%E7%A6%8F%E5%BB%BA%E8%88%B0%E4%B9%8B%E5%A4%A7%E5%85%B7%E8%B1%A1%E5%8C%96%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "澳新银行：金价回落但基本面稳固，白银表现仍亮眼",
           "url": "https://flash.jin10.com/detail/20251122223006926800",
           "source": "金十数据",
           "ranks": [
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 10时01分]"
+        },
+        {
+          "title": "俄央行抛售黄金 金价会大跌吗",
+          "url": "https://www.toutiao.com/trending/7575692966363139638/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "英超 足球",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "2526 赛季英超联赛英超第 12 轮利物浦 0:3 诺丁汉森林，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/1975700267501638675",
+          "source": "知乎",
+          "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时27分"
+          "time_info": "10时01分"
         }
       ]
     }
