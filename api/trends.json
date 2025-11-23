@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-23T10:01:54.028755+08:00",
-  "total_titles_processed": 456,
+  "generated_at": "2025-11-23T16:28:52.331342+08:00",
+  "total_titles_processed": 660,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 10时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 16时28分]"
         },
         {
           "title": "美股惊魂一周，纳指创4月来最大三周跌幅，华尔街现在很焦虑！",
@@ -38,7 +39,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
         }
@@ -77,9 +78,48 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "NBA 篮球",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "那些默默托举中国篮球的人",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%82%A3%E4%BA%9B%E9%BB%98%E9%BB%98%E6%89%98%E4%B8%BE%E4%B8%AD%E5%9B%BD%E7%AF%AE%E7%90%83%E7%9A%84%E4%BA%BA%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
+          "title": "2526 赛季 NBA 常规赛快船 131:116 黄蜂，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/1975748368551657535",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
+          "title": "如何定义保罗NBA生涯",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E5%AE%9A%E4%B9%89%E4%BF%9D%E7%BD%97NBA%E7%94%9F%E6%B6%AF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         }
       ]
     },
@@ -106,7 +146,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
         }
@@ -123,7 +163,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
         }
