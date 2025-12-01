@@ -1,117 +1,50 @@
 {
-  "generated_at": "2025-12-01T16:36:38.049451+08:00",
-  "total_titles_processed": 743,
+  "generated_at": "2025-12-02T00:33:48.870667+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "社会新闻 泉州 福建",
-      "match_count": 3,
+      "keyword_group": "美股",
+      "match_count": 2,
       "titles": [
         {
-          "title": "中国电建通报“福建永安一水库大坝建设被指偷工减料”：已成立调查组",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32069127",
-          "source": "澎湃新闻",
+          "title": "12月开局避险情绪升温，美股期货下挫，科技股盘前多数走弱，银铜齐创新高，日元上涨，比特币下跌",
+          "url": "https://wallstreetcn.com/articles/3760444",
+          "source": "华尔街见闻",
           "ranks": [
-            11
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时27分"
+          "time_info": "00时33分"
         },
         {
-          "title": "福建男子从悬崖坠落被一棵树救下",
-          "url": "https://www.baidu.com/s?wd=%E7%A6%8F%E5%BB%BA%E7%94%B7%E5%AD%90%E4%BB%8E%E6%82%AC%E5%B4%96%E5%9D%A0%E8%90%BD%E8%A2%AB%E4%B8%80%E6%A3%B5%E6%A0%91%E6%95%91%E4%B8%8B",
-          "source": "百度热搜",
+          "title": "美股三大期指集体下跌 比特币一度跌超7% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2216342",
+          "source": "财联社热门",
           "ranks": [
-            12
+            4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时36分"
-        },
+          "time_info": "00时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "社会新闻 泉州 福建",
+      "match_count": 1,
+      "titles": [
         {
           "title": "福建永安75亿元水电项目被指偷工减料背后：多个核心标段均由中国电建下属企业包揽",
           "url": "https://m.thepaper.cn/newsDetail_forward_32075098",
           "source": "澎湃新闻",
           "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "英超 足球",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "2526 赛季英超联赛英超第 13 轮切尔西 1:1 阿森纳，如何评价这场比赛？",
-          "url": "https://www.zhihu.com/question/1978623292790290329",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时07分 ~ 10时08分]"
-        },
-        {
-          "title": "2526 赛季英超第 13 轮，水晶宫 1:2 曼联，如何评价这场比赛？",
-          "url": "https://www.zhihu.com/question/1978555119378378761",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "NBA 篮球",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "网友晒孙俪儿子打篮球视频",
-          "url": "https://www.toutiao.com/trending/7577380260275814454/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时07分 ~ 10时08分]"
-        },
-        {
-          "title": "2526 赛季 NBA 常规赛鹈鹕 121:133 湖人，如何评价这场比赛？",
-          "url": "https://www.zhihu.com/question/1978776158846871311",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美元指数跌至两周低点99.352。",
-          "url": "https://wallstreetcn.com/livenews/3012656",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时08分"
+          "time_info": "00时33分"
         }
       ]
     }
