@@ -1,166 +1,100 @@
 {
-  "generated_at": "2025-12-06T16:29:34.009855+08:00",
-  "total_titles_processed": 725,
+  "generated_at": "2025-12-07T00:27:53.532772+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "社会新闻 泉州 福建",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "福建省在深远海新能源装备领域实现关键技术突破",
+          "url": "https://wallstreetcn.com/livenews/3016317",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时27分"
+        },
+        {
+          "title": "福建海事开展台湾海峡中部海域专项执法暨搜救演练行动",
+          "url": "https://wallstreetcn.com/livenews/3016315",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时27分"
+        },
+        {
+          "title": "福建省在深远海新能源装备领域实现关键技术突破",
+          "url": "https://flash.jin10.com/detail/20251206211552211800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时27分"
+        },
+        {
+          "title": "福建海事开展台湾海峡中部海域专项执法暨搜救演练行动",
+          "url": "https://flash.jin10.com/detail/20251206210644522800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时27分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 2,
       "titles": [
         {
           "title": "标普逼近纪录高位，纳指四连涨，银铜齐创新高，比特币和美股脱钩，一度跌近5%",
           "url": "https://wallstreetcn.com/articles/3760797",
           "source": "华尔街见闻",
           "ranks": [
-            3,
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时46分 ~ 16时29分]"
-        },
-        {
-          "title": "瑞银(UBS.N)美股跳涨2.8%，因波动性较大暂停交易。",
-          "url": "https://flash.jin10.com/detail/20251205235821569800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时31分"
-        },
-        {
-          "title": "大空头Burry警告美股将重演“2000年”熊市：资本开支逼近顶峰，两年足够AI泡沫破灭！",
-          "url": "https://wallstreetcn.com/articles/3760810",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时46分 ~ 16时29分]"
+          "time_info": "00时27分"
         },
         {
           "title": "美股收盘：标普四连涨距新高咫尺之遥 中概明星股普涨",
           "url": "https://www.cls.cn/detail/2221625",
           "source": "财联社热门",
           "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时46分 ~ 16时29分]"
-        },
-        {
-          "title": "美股三大指数小幅收涨",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E5%B0%8F%E5%B9%85%E6%94%B6%E6%B6%A8",
-          "source": "百度热搜",
-          "ranks": [
-            16
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时46分"
-        },
-        {
-          "title": "金十图示：2025年12月05日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251206090540434800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时46分"
-        },
-        {
-          "title": "金十图示：2025年12月05日（周五）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251206090522263800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时46分"
-        },
-        {
-          "title": "周五（12月5日）纽约尾盘，CME比特币期货BTC主力合约较周四纽约尾盘跌3.68%，报89425美元，本周累计下跌1.80%。 CME以太币期货DCR主力合约跌4.09%，报3023美元，本周累跌0.71%。 美股加密货币与加密货币关联指数跌3.99%，报69.08点，本周累跌3.12%。 最近24小时，MarketVector数字资产100小盘指数跌5.31%，暂报4051.02点。",
-          "url": "https://wallstreetcn.com/livenews/3016154",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时46分"
+          "time_info": "00时27分"
         }
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美股涨势消减，小盘股指逼近历史高点，美债比特币下挫，铜价回落",
-          "url": "https://wallstreetcn.com/articles/3760711",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 00时31分]"
-        },
-        {
-          "title": "PCE公布前，美股集体高开，美债承压，金银油涨，比特币跌幅扩大",
-          "url": "https://wallstreetcn.com/articles/3760797",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 00时31分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "社会新闻 泉州 福建",
+      "keyword_group": "英超 足球",
       "match_count": 1,
       "titles": [
         {
-          "title": "福建歌曲教学",
-          "url": "https://search.bilibili.com/all?keyword=%E7%A6%8F%E5%BB%BA%E6%AD%8C%E6%9B%B2%E6%95%99%E5%AD%A6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18,
-            22,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时30分 ~ 16时29分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "NBA 篮球",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "25-26 赛季开赛至今 20 胜 1 负的雷霆，能否超越 73 胜勇士成为 NBA 历史第一常规赛球队？",
-          "url": "https://www.zhihu.com/question/1979318209791431011",
+          "title": "2526 赛季英超联赛英超第 15 轮阿斯顿维拉 2:1 阿森纳，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/1980737123922502116",
           "source": "知乎",
           "ranks": [
-            17
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时30分 ~ 09时46分]"
+          "appearance_count": 1,
+          "time_info": "00时27分"
         }
       ]
     }
