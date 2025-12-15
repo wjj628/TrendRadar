@@ -1,92 +1,33 @@
 {
-  "generated_at": "2025-12-15T16:37:39.461100+08:00",
-  "total_titles_processed": 737,
+  "generated_at": "2025-12-16T01:17:06.285530+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 2,
       "titles": [
         {
-          "title": "特朗普各种打压之下，可再生能源板块“意外”成了美股大赢家",
-          "url": "https://wallstreetcn.com/articles/3761371",
+          "title": "科技股抛压暂歇，美股指数期货小幅回血，贵金属集体大涨，黄金逼近历史新高，白银铂金大涨3%",
+          "url": "https://wallstreetcn.com/articles/3761417",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时58分 ~ 16时37分]"
-        },
-        {
-          "title": "华尔街的“2026美股主题”是轮动！“老登”胜过Mag 7，高盛高呼“周期股尚未被完全定价”",
-          "url": "https://wallstreetcn.com/articles/3761364",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时58分 ~ 09时59分]"
+          "time_info": "[01时16分 ~ 01时17分]"
         },
         {
-          "title": "美股“英伟达们”强劲财报换来股价暴跌 AI泡沫破裂已进入倒计时?",
-          "url": "https://www.cls.cn/detail/2229441",
+          "title": "现货黄金、白银逼近历史高位 美股三大期指温和走高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2230200",
           "source": "财联社热门",
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "10月净买入49吨！央行购金依然强劲，高盛：“代币化黄金”目前还非金价主力",
-          "url": "https://wallstreetcn.com/articles/3761367",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6
-          ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 16时37分]"
-        },
-        {
-          "title": "铂主力合约日间盘涨停 投资需求或受益于金价上涨潜力抬升",
-          "url": "https://wallstreetcn.com/livenews/3020801",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "付鹏：前瞻2026市场核心主线——关注美债利率曲线与AI应用落地的三种可能【付鹏说13】",
-          "url": "https://wallstreetcn.com/premium/articles/3761351?layout=wscn-layout",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 2,
+          "time_info": "[01时16分 ~ 01时17分]"
         }
       ]
     }
