@@ -1,12 +1,35 @@
 {
-  "generated_at": "2025-12-16T01:17:06.285530+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-16T09:56:01.642196+08:00",
+  "total_titles_processed": 499,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "美股收盘：AI概念股继续承压 三大指数集体收跌 特斯拉涨超3%",
+          "url": "https://www.cls.cn/detail/2230375",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时55分 ~ 09时56分]"
+        },
+        {
+          "title": "现货黄金、白银逼近历史高位 美股三大期指温和走高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2230200",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时16分 ~ 09时56分]"
+        },
         {
           "title": "科技股抛压暂歇，美股指数期货小幅回血，贵金属集体大涨，黄金逼近历史新高，白银铂金大涨3%",
           "url": "https://wallstreetcn.com/articles/3761417",
@@ -17,17 +40,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时16分 ~ 01时17分]"
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "现货黄金、白银逼近历史高位 美股三大期指温和走高 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2230200",
-          "source": "财联社热门",
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=21&Refer=top",
+          "source": "微博",
           "ranks": [
-            8
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时16分 ~ 01时17分]"
+          "time_info": "[09时55分 ~ 09时56分]"
         }
       ]
     }
