@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-17T16:35:51.188736+08:00",
-  "total_titles_processed": 753,
+  "generated_at": "2025-12-18T00:34:38.507543+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
@@ -8,94 +8,71 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "福建莆田12岁女孩被虐死案进展：生父涉故意伤害案再审将于12月23日开庭",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32187288",
-          "source": "澎湃新闻",
-          "ranks": [
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时52分 ~ 16时35分]"
-        },
-        {
           "title": "台军通报福建舰入列后首次通过台湾海峡，有哪些信号和象征意义？",
           "url": "https://www.zhihu.com/question/1984584537397797386",
           "source": "知乎",
           "ranks": [
-            4
+            1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时35分"
+          "time_info": "00时34分"
+        },
+        {
+          "title": "台军：福建舰入列后首过台湾海峡",
+          "url": "https://www.douyin.com/hot/2338848",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时34分"
         },
         {
           "title": "福建舰入列后首度过航台海",
           "url": "https://www.toutiao.com/trending/7583989863396655110/",
           "source": "今日头条",
           "ranks": [
-            14
+            22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时35分"
+          "time_info": "00时34分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
-          "title": "美股收盘：三大指数涨跌不一 特斯拉创历史新高",
-          "url": "https://www.cls.cn/detail/2231583",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        },
-        {
-          "title": "非农超预期，美股低开，现货黄金小幅上涨，布油跌破60美元",
-          "url": "https://wallstreetcn.com/articles/3761475",
+          "title": "市场静待更多数据，美股期货盘前上涨，地缘政治扰动，原油重新站上60美元，金银铜铂钯齐涨，白银飙涨近4%再创新高",
+          "url": "https://wallstreetcn.com/articles/3761550",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时52分"
+          "time_info": "00时34分"
         }
       ]
     },
     {
       "keyword_group": "NBA 篮球",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "尼克斯夺得NBA杯冠军",
-          "url": "https://search.bilibili.com/all?keyword=%E5%B0%BC%E5%85%8B%E6%96%AF%E5%A4%BA%E5%BE%97NBA%E6%9D%AF%E5%86%A0%E5%86%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时35分"
-        },
         {
           "title": "尼克斯逆转马刺夺NBA杯冠军",
           "url": "https://www.douyin.com/hot/2338944",
           "source": "抖音",
           "ranks": [
-            17
+            22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时35分"
+          "time_info": "00时34分"
         }
       ]
     }
