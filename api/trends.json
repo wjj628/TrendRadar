@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-19T09:55:19.207720+08:00",
-  "total_titles_processed": 515,
+  "generated_at": "2025-12-19T16:34:50.206010+08:00",
+  "total_titles_processed": 754,
   "failed_sources": [],
   "trends": [
     {
@@ -34,11 +34,12 @@
           "url": "https://wallstreetcn.com/articles/3761680",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时54分 ~ 09时55分]"
+          "appearance_count": 3,
+          "time_info": "[09时54分 ~ 16时34分]"
         },
         {
           "title": "通胀意外回落，美股三大股指期货全线反弹，纳指期货涨超1%，美元跳水，现货黄金跌幅收窄",
@@ -50,6 +51,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美国市场“流动性紧张”谜底揭晓？摩根大通从美联储账户提取近3500亿美元，投向美债",
+          "url": "https://wallstreetcn.com/articles/3761610",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时54分 ~ 09时55分]"
+        },
+        {
+          "title": "中日英三国美债持仓呈现分化",
+          "url": "https://www.toutiao.com/trending/7585415815059476018/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
         }
       ]
     },
@@ -71,19 +100,19 @@
       ]
     },
     {
-      "keyword_group": "美债",
+      "keyword_group": "社会新闻 泉州 福建",
       "match_count": 1,
       "titles": [
         {
-          "title": "美国市场“流动性紧张”谜底揭晓？摩根大通从美联储账户提取近3500亿美元，投向美债",
-          "url": "https://wallstreetcn.com/articles/3761610",
-          "source": "华尔街见闻",
+          "title": "于北辰称福建舰只会游泳而已遭讽",
+          "url": "https://www.toutiao.com/trending/7585174605476839443/",
+          "source": "今日头条",
           "ranks": [
-            5
+            22
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时54分 ~ 09时55分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
         }
       ]
     },
