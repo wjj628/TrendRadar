@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-23T09:56:14.112491+08:00",
-  "total_titles_processed": 507,
+  "generated_at": "2025-12-23T16:35:09.982010+08:00",
+  "total_titles_processed": 747,
   "failed_sources": [],
   "trends": [
     {
@@ -55,7 +55,7 @@
     },
     {
       "keyword_group": "NBA 篮球",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "NBA全明星首发预测",
@@ -81,6 +81,17 @@
           "time_info": "[09时55分 ~ 09时56分]"
         },
         {
+          "title": "2526 赛季 NBA 常规赛魔术 97:120 勇士，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/1986756078675972681",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 16时35分]"
+        },
+        {
           "title": "市场消息：Coinbase(COIN.O)将收购一家清算公司。",
           "url": "https://flash.jin10.com/detail/20251222231127732800",
           "source": "金十数据",
@@ -95,8 +106,30 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "金价突破1400元",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E7%AA%81%E7%A0%B41400%E5%85%83%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 16时35分]"
+        },
+        {
+          "title": "金价银价同日创新高",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E5%90%8C%E6%97%A5%E5%88%9B%E6%96%B0%E9%AB%98",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 16时35分]"
+        },
         {
           "title": "金价飙涨 有新人快被“三金”愁哭了",
           "url": "https://www.toutiao.com/trending/7586259723437064246/",
@@ -112,8 +145,19 @@
     },
     {
       "keyword_group": "社会新闻 泉州 福建",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "福建平潭：新一轮封关运作已进入攻坚阶段 三大板块工作正加紧推进中",
+          "url": "https://www.cls.cn/detail/2237276",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 16时35分]"
+        },
         {
           "title": "游戏玩家复刻福建舰被央视点赞",
           "url": "https://www.douyin.com/hot/2344245",
@@ -124,6 +168,45 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时55分 ~ 09时56分]"
+        },
+        {
+          "title": "福建高院：莆田12岁女孩被虐死案原判对生父量刑畸轻，改判十三年半",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32235505",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 16时35分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美元指数跌破98，创5日新低，日内跌0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3025481",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
+          "title": "美元指数DXY跌破98，创5日新低。",
+          "url": "https://flash.jin10.com/detail/20251223161014189800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         }
       ]
     }
