@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-12-23T00:31:44.210351+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-23T09:56:14.112491+08:00",
+  "total_titles_processed": 507,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "美股收盘：三大指数连涨三日 AI概念走强美光升超4%",
+          "url": "https://www.cls.cn/detail/2237037",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时55分 ~ 09时56分]"
+        },
         {
           "title": "科技股反弹引领市场！美股高开，“Mag7”普涨，特斯拉创盘中历史高位，油价反弹超2%",
           "url": "https://wallstreetcn.com/articles/3761821",
@@ -44,18 +55,30 @@
     },
     {
       "keyword_group": "NBA 篮球",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "NBA全明星首发预测",
           "url": "https://search.bilibili.com/all?keyword=NBA%E5%85%A8%E6%98%8E%E6%98%9F%E9%A6%96%E5%8F%91%E9%A2%84%E6%B5%8B",
           "source": "bilibili 热搜",
           "ranks": [
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 09时56分]"
+        },
+        {
+          "title": "NBA 有哪些推算起来很有意思的蝴蝶效应？",
+          "url": "https://www.zhihu.com/question/268031925",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时55分 ~ 09时56分]"
         },
         {
           "title": "市场消息：Coinbase(COIN.O)将收购一家清算公司。",
@@ -84,6 +107,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "社会新闻 泉州 福建",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "游戏玩家复刻福建舰被央视点赞",
+          "url": "https://www.douyin.com/hot/2344245",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时55分 ~ 09时56分]"
         }
       ]
     }
