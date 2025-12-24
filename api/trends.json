@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-24T00:32:50.815541+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-24T09:54:41.970397+08:00",
+  "total_titles_processed": 494,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "2025年黄金年终盘点：宏观环境一变再变 却全是金价上涨理由",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "金价癫了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E7%99%AB%E4%BA%86%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时54分"
         },
         {
           "title": "金价彻底爆了 有人拖行李箱抢购",
@@ -55,8 +66,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "美股收盘：日线四连涨标普收新高 英伟达升3%领涨七巨头",
+          "url": "https://www.cls.cn/detail/2238248",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        },
         {
           "title": "强劲GDP打击降息预期，美股低开，金银铜再创新高，伦铜突破1.2万美元，日元两日反弹",
           "url": "https://wallstreetcn.com/articles/3761906",
@@ -67,6 +89,51 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "金银铜携手创新高 强势GDP数据压制美股期指 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2238119",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "科技股助标普收创新高，金银铜再新高，人民币强势逼近7.0，GDP强劲打击美债",
+          "url": "https://wallstreetcn.com/articles/3761906",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数跌至97.777，为10月3日以来最低水平。欧元兑美元升至三个月高点1.180575。",
+          "url": "https://flash.jin10.com/detail/20251224094324089800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时54分"
         }
       ]
     },
@@ -79,11 +146,29 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32235505",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            18,
+            16
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 09时54分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "NBA 篮球",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "NBA球员李凯尔国籍已改为美国",
+          "url": "https://s.weibo.com/weibo?q=%23NBA%E7%90%83%E5%91%98%E6%9D%8E%E5%87%AF%E5%B0%94%E5%9B%BD%E7%B1%8D%E5%B7%B2%E6%94%B9%E4%B8%BA%E7%BE%8E%E5%9B%BD%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时32分"
+          "time_info": "09时54分"
         }
       ]
     }
