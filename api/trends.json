@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-12-26T00:31:36.696251+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2025-12-26T09:56:23.606036+08:00",
+  "total_titles_processed": 498,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "圣诞节后第一天，金银再创新高，《货币战争》作者“明年金价10000美元，银价200美元见！”",
+          "url": "https://wallstreetcn.com/articles/3762105",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时55分 ~ 09时56分]"
+        },
         {
           "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
           "url": "https://www.zhihu.com/question/1987171318681068732",
@@ -32,6 +43,34 @@
       ]
     },
     {
+      "keyword_group": "社会新闻 泉州 福建",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "福建舰当前任务安排来了",
+          "url": "https://www.toutiao.com/trending/7587416245159673892/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时55分 ~ 09时56分]"
+        },
+        {
+          "title": "福建舰航经台海 国防部：以后还组织",
+          "url": "https://www.baidu.com/s?wd=%E7%A6%8F%E5%BB%BA%E8%88%B0%E8%88%AA%E7%BB%8F%E5%8F%B0%E6%B5%B7+%E5%9B%BD%E9%98%B2%E9%83%A8%EF%BC%9A%E4%BB%A5%E5%90%8E%E8%BF%98%E7%BB%84%E7%BB%87",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时31分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 1,
       "titles": [
@@ -49,19 +88,19 @@
       ]
     },
     {
-      "keyword_group": "社会新闻 泉州 福建",
+      "keyword_group": "NBA 篮球",
       "match_count": 1,
       "titles": [
         {
-          "title": "福建舰航经台海 国防部：以后还组织",
-          "url": "https://www.baidu.com/s?wd=%E7%A6%8F%E5%BB%BA%E8%88%B0%E8%88%AA%E7%BB%8F%E5%8F%B0%E6%B5%B7+%E5%9B%BD%E9%98%B2%E9%83%A8%EF%BC%9A%E4%BB%A5%E5%90%8E%E8%BF%98%E7%BB%84%E7%BB%87",
-          "source": "百度热搜",
+          "title": "当你问我篮球的意义是什么",
+          "url": "https://www.douyin.com/hot/2346886",
+          "source": "抖音",
           "ranks": [
-            23
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[09时55分 ~ 09时56分]"
         }
       ]
     }
