@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-28T00:28:57.930673+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-28T10:07:08.083315+08:00",
+  "total_titles_processed": 462,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "社会新闻 泉州 福建",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "台湾地震 福州泉州等地震感强烈",
@@ -34,11 +34,23 @@
           "url": "https://www.douyin.com/hot/2349533",
           "source": "抖音",
           "ranks": [
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 10时07分]"
+        },
+        {
+          "title": "福建人被台湾地震吓麻了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA%E4%BA%BA%E8%A2%AB%E5%8F%B0%E6%B9%BE%E5%9C%B0%E9%9C%87%E5%90%93%E9%BA%BB%E4%BA%86%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时06分 ~ 10时07分]"
         },
         {
           "title": "泉州震感",
