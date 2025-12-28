@@ -1,84 +1,22 @@
 {
-  "generated_at": "2025-12-28T16:32:11.477475+08:00",
-  "total_titles_processed": 672,
+  "generated_at": "2025-12-29T00:29:37.804307+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "社会新闻 泉州 福建",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "台湾地震 福州泉州等地震感强烈",
-          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E5%9C%B0%E9%9C%87+%E7%A6%8F%E5%B7%9E%E6%B3%89%E5%B7%9E%E7%AD%89%E5%9C%B0%E9%9C%87%E6%84%9F%E5%BC%BA%E7%83%88",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
-        },
-        {
-          "title": "福建震感",
-          "url": "https://s.weibo.com/weibo?q=%E7%A6%8F%E5%BB%BA%E9%9C%87%E6%84%9F&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
-        },
-        {
-          "title": "福建震感",
-          "url": "https://www.douyin.com/hot/2349533",
-          "source": "抖音",
-          "ranks": [
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 10时07分]"
-        },
-        {
-          "title": "福建人被台湾地震吓麻了",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA%E4%BA%BA%E8%A2%AB%E5%8F%B0%E6%B9%BE%E5%9C%B0%E9%9C%87%E5%90%93%E9%BA%BB%E4%BA%86%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时06分 ~ 10时07分]"
-        },
-        {
-          "title": "泉州震感",
-          "url": "https://s.weibo.com/weibo?q=%E6%B3%89%E5%B7%9E%E9%9C%87%E6%84%9F&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
+      "keyword_group": "金价",
       "match_count": 1,
       "titles": [
         {
-          "title": "金饰价格破1400元黄金回收加工却遇冷",
-          "url": "https://www.toutiao.com/trending/7588294573819101226/",
-          "source": "今日头条",
+          "title": "Ed Yardeni 2026展望：美国不衰退，标普7700，美债收益率超4%，金价6000美元",
+          "url": "https://wallstreetcn.com/articles/3762200",
+          "source": "华尔街见闻",
           "ranks": [
-            16
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时28分"
+          "time_info": "00时29分"
         }
       ]
     },
@@ -87,32 +25,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "节后首日美股微跌，“金属狂潮”继续，白银暴涨10%，纽铜涨5%，铂钯双位数大涨，和平曙光重挫油价",
-          "url": "https://wallstreetcn.com/articles/3762133",
-          "source": "华尔街见闻",
+          "title": "美股冲刺历史新高 年末聚焦美联储政策与板块轮动",
+          "url": "https://flash.jin10.com/detail/20251228222030090800",
+          "source": "金十数据",
           "ranks": [
-            1
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "NBA 篮球",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "你怎么看NBA赛场球员冲突",
-          "url": "https://www.toutiao.com/trending/7588729648382083115/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时31分 ~ 16时32分]"
+          "time_info": "00时29分"
         }
       ]
     }
