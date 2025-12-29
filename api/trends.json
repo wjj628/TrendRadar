@@ -1,8 +1,64 @@
 {
-  "generated_at": "2025-12-29T10:05:27.791171+08:00",
-  "total_titles_processed": 516,
+  "generated_at": "2025-12-29T16:37:09.816352+08:00",
+  "total_titles_processed": 756,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "社会新闻 泉州 福建",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "福建海警位台岛周边执法巡查",
+          "url": "https://search.bilibili.com/all?keyword=%E7%A6%8F%E5%BB%BA%E6%B5%B7%E8%AD%A6%E4%BD%8D%E5%8F%B0%E5%B2%9B%E5%91%A8%E8%BE%B9%E6%89%A7%E6%B3%95%E5%B7%A1%E6%9F%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时36分 ~ 16时37分]"
+        },
+        {
+          "title": "专家谈福建舰电磁弹射技术",
+          "url": "https://www.douyin.com/hot/2349312",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "NBA 篮球",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "2526 赛季 NBA，伦纳德狂砍 55 分，活塞 99:112 快船，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/1988915170664272875",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时36分 ~ 16时37分]"
+        },
+        {
+          "title": "25-26 赛季 NBA 常规赛湖人 125：101 大胜国王，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/1988931825687625803",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时36分 ~ 16时37分]"
+        }
+      ]
+    },
     {
       "keyword_group": "金价",
       "match_count": 1,
@@ -31,7 +87,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时05分"
         }
@@ -51,23 +107,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "社会新闻 泉州 福建",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "专家谈福建舰电磁弹射技术",
-          "url": "https://www.douyin.com/hot/2349312",
-          "source": "抖音",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时05分"
         }
       ]
     }
