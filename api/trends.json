@@ -1,61 +1,61 @@
 {
-  "generated_at": "2025-12-29T16:37:09.816352+08:00",
-  "total_titles_processed": 756,
+  "generated_at": "2025-12-30T00:31:31.842226+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美股指集体低开，纳指跌超0.7%，现货黄金单日跌超100美元，白银暴跌8%，伦铜逼近13000美元",
+          "url": "https://wallstreetcn.com/articles/3762238",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时31分"
+        },
+        {
+          "title": "美股三大期指集体走低 AI概念股盘前承压 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2243270",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时31分"
+        }
+      ]
+    },
     {
       "keyword_group": "社会新闻 泉州 福建",
       "match_count": 2,
       "titles": [
         {
           "title": "福建海警位台岛周边执法巡查",
-          "url": "https://search.bilibili.com/all?keyword=%E7%A6%8F%E5%BB%BA%E6%B5%B7%E8%AD%A6%E4%BD%8D%E5%8F%B0%E5%B2%9B%E5%91%A8%E8%BE%B9%E6%89%A7%E6%B3%95%E5%B7%A1%E6%9F%A5",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时36分 ~ 16时37分]"
-        },
-        {
-          "title": "专家谈福建舰电磁弹射技术",
-          "url": "https://www.douyin.com/hot/2349312",
+          "url": "https://www.douyin.com/hot/2350797",
           "source": "抖音",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时05分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "NBA 篮球",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "2526 赛季 NBA，伦纳德狂砍 55 分，活塞 99:112 快船，如何评价这场比赛？",
-          "url": "https://www.zhihu.com/question/1988915170664272875",
-          "source": "知乎",
           "ranks": [
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时36分 ~ 16时37分]"
+          "appearance_count": 1,
+          "time_info": "00时31分"
         },
         {
-          "title": "25-26 赛季 NBA 常规赛湖人 125：101 大胜国王，如何评价这场比赛？",
-          "url": "https://www.zhihu.com/question/1988931825687625803",
-          "source": "知乎",
+          "title": "福建海警喊话：台湾回归是历史大势",
+          "url": "https://www.toutiao.com/trending/7589094386060329014/",
+          "source": "今日头条",
           "ranks": [
-            19
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时36分 ~ 16时37分]"
+          "appearance_count": 1,
+          "time_info": "00时31分"
         }
       ]
     },
@@ -64,49 +64,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "Ed Yardeni 2026展望：美国不衰退，标普7700，美债收益率超4%，金价6000美元",
-          "url": "https://wallstreetcn.com/articles/3762200",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 10时05分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "现货黄金亚盘下跌 但价格可能维持高位",
-          "url": "https://flash.jin10.com/detail/20251229093859229800",
+          "title": "分析师：金价从历史高位回落 流动性稀薄正放大回调走势",
+          "url": "https://flash.jin10.com/detail/20251229235334539800",
           "source": "金十数据",
           "ranks": [
-            6
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时05分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股冲刺历史新高 年末聚焦美联储政策与板块轮动",
-          "url": "https://flash.jin10.com/detail/20251228222030090800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "time_info": "00时31分"
         }
       ]
     }
