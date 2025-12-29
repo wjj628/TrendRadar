@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-29T00:29:37.804307+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-29T10:05:27.791171+08:00",
+  "total_titles_processed": 516,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,25 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 10时05分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "现货黄金亚盘下跌 但价格可能维持高位",
+          "url": "https://flash.jin10.com/detail/20251229093859229800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时29分"
+          "time_info": "10时05分"
         }
       ]
     },
@@ -34,6 +51,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "社会新闻 泉州 福建",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "专家谈福建舰电磁弹射技术",
+          "url": "https://www.douyin.com/hot/2349312",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
         }
       ]
     }
