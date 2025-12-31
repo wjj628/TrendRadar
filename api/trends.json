@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-12-31T09:57:38.350807+08:00",
-  "total_titles_processed": 494,
+  "generated_at": "2025-12-31T16:34:59.953183+08:00",
+  "total_titles_processed": 723,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 6,
       "titles": [
+        {
+          "title": "交投情绪清淡，美股指三连跌，黄金反弹后劲不足，白银涨逾5%，伦铜八连涨",
+          "url": "https://wallstreetcn.com/articles/3762305",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时57分 ~ 16时34分]"
+        },
         {
           "title": "美股回调，金属全线回落，现货白银重挫8%，沪金跌破千元关口，原油反弹",
           "url": "https://wallstreetcn.com/articles/3762238",
@@ -19,24 +30,13 @@
           "time_info": "00时32分"
         },
         {
-          "title": "交投情绪清淡，美股指三连跌，黄金反弹后劲不足，白银涨逾5%，伦铜八连涨",
-          "url": "https://wallstreetcn.com/articles/3762305",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时57分"
-        },
-        {
           "title": "美股收盘：三大指数携手三连跌 金属上涨潮卷土重来",
           "url": "https://www.cls.cn/detail/2244733",
           "source": "财联社热门",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
         },
@@ -78,7 +78,7 @@
     },
     {
       "keyword_group": "NBA 篮球",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "2526 赛季 NBA 常规赛独行侠 122:125 开拓者，如何评价这场比赛？",
@@ -90,6 +90,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "25-26 赛季 NBA 常规赛活塞 128：106 大胜湖人，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/1989660043147227330",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
+        },
+        {
+          "title": "你认为保罗·乔治还是NBA巨星吗",
+          "url": "https://www.toutiao.com/trending/7589769681955864639/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
         },
         {
           "title": "你有没有一瞬间不想打篮球了？",
@@ -109,7 +131,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
         },
@@ -165,7 +187,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
         },
@@ -176,9 +198,26 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何看待黄金白银价格波动",
+          "url": "https://www.douyin.com/hot/2351661",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
         }
       ]
     }
