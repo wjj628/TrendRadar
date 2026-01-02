@@ -1,22 +1,51 @@
 {
-  "generated_at": "2026-01-02T09:59:04.308170+08:00",
-  "total_titles_processed": 484,
+  "generated_at": "2026-01-02T16:34:53.688303+08:00",
+  "total_titles_processed": 708,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美股收盘：三大指数低调收官 中国金龙指数全年累计上涨11.33%",
           "url": "https://www.cls.cn/detail/2246008",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 09时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 16时34分]"
+        },
+        {
+          "title": "美股期货上涨，金银领衔贵金属反弹，美元疲软",
+          "url": "https://wallstreetcn.com/articles/3762449",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "社会新闻 泉州 福建",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "视频丨瞬间弹射“零帧”急停，福建舰还有哪些惊喜？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32301859",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
         }
       ]
     }
