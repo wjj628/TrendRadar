@@ -1,22 +1,44 @@
 {
-  "generated_at": "2026-01-05T16:39:16.554331+08:00",
-  "total_titles_processed": 748,
+  "generated_at": "2026-01-06T00:32:27.898407+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "金价",
-      "match_count": 1,
+      "keyword_group": "美股",
+      "match_count": 3,
       "titles": [
         {
-          "title": "避险需求推升金价 伦敦矿业股开盘集体走强",
-          "url": "https://flash.jin10.com/detail/20260105163155880800",
-          "source": "金十数据",
+          "title": "美股指集体高开，台积电涨超3%再创新高，伦铜触及1.3万美元创新高，现货白银涨6%，现货黄金突破4450美元，原油转涨",
+          "url": "https://wallstreetcn.com/articles/3762559",
+          "source": "华尔街见闻",
           "ranks": [
-            4
+            3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时39分"
+          "time_info": "00时32分"
+        },
+        {
+          "title": "美股三大期指涨跌不一 科技巨头、能源股整体走强 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2248463",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时32分"
+        },
+        {
+          "title": "美股费城银行指数涨超3%，创8月22日以来最佳盘中表现。",
+          "url": "https://wallstreetcn.com/livenews/3030982",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时32分"
         }
       ]
     }
