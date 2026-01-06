@@ -1,113 +1,61 @@
 {
-  "generated_at": "2026-01-06T16:37:00.453590+08:00",
-  "total_titles_processed": 734,
+  "generated_at": "2026-01-07T00:35:05.298491+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 3,
       "titles": [
         {
           "title": "地缘紧张但未失控，美股债同涨，道指新高，疲软美元撑商品走强，原油转涨，白银暴涨",
           "url": "https://wallstreetcn.com/articles/3762559",
           "source": "华尔街见闻",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时58分 ~ 16时37分]"
-        },
-        {
-          "title": "美股收盘：道指创历史新高 美委局势提振能源板块",
-          "url": "https://www.cls.cn/detail/2248624",
-          "source": "财联社热门",
-          "ranks": [
-            2,
             3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时58分 ~ 16时37分]"
-        },
-        {
-          "title": "美股指集体高开，台积电涨超3%再创新高，伦铜触及1.3万美元创新高，现货白银涨6%，现货黄金突破4450美元，原油转涨",
-          "url": "https://wallstreetcn.com/articles/3762559",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "美股三大期指涨跌不一 科技巨头、能源股整体走强 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2248463",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时32分 ~ 09时58分]"
+          "time_info": "[00时34分 ~ 00时35分]"
         },
         {
-          "title": "美股费城银行指数涨超3%，创8月22日以来最佳盘中表现。",
-          "url": "https://wallstreetcn.com/livenews/3030982",
-          "source": "华尔街见闻-快讯",
+          "title": "美股指涨跌互现，纳指涨0.3%，闪迪股价创新高，全球股指触及历史高位，现货白银日内涨4%，伦铜再创新高，油价震荡",
+          "url": "https://wallstreetcn.com/articles/3762631",
+          "source": "华尔街见闻",
           "ranks": [
-            10
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时34分 ~ 00时35分]"
+        },
+        {
+          "title": "美股三大期指涨跌不一 存储概念股持续走强 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2249754",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时34分 ~ 00时35分]"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "工行开年上调积存金风险评级，下周起C3及以上客户才可买，金价走强更多银行不断入局",
-          "url": "https://www.cls.cn/detail/2248953",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时36分 ~ 16时37分]"
-        },
-        {
-          "title": "金价银价又涨了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E5%8F%88%E6%B6%A8%E4%BA%86%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "社会新闻 泉州 福建",
       "match_count": 1,
       "titles": [
         {
-          "title": "福建籍女子流落柬埔寨街头，毒品检测呈阳性",
-          "url": "https://news.ifeng.com/c/8pgpPC5ba6K",
-          "source": "凤凰网",
+          "title": "金价大涨 黄金珠宝行业面临分化",
+          "url": "https://www.toutiao.com/trending/7592189155237789750/",
+          "source": "今日头条",
           "ranks": [
-            10
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时36分 ~ 16时37分]"
+          "time_info": "[00时34分 ~ 00时35分]"
         }
       ]
     }
