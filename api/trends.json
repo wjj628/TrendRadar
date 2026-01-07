@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-07T00:35:05.298491+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-07T09:58:33.079042+08:00",
+  "total_titles_processed": 498,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "地缘紧张但未失控，美股债同涨，道指新高，疲软美元撑商品走强，原油转涨，白银暴涨",
@@ -19,6 +19,29 @@
           "time_info": "[00时34分 ~ 00时35分]"
         },
         {
+          "title": "美股收盘：道指、标普均创历史新高 芯片股借AI东风飙升",
+          "url": "https://www.cls.cn/detail/2249896",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
+        {
+          "title": "美股三大期指涨跌不一 存储概念股持续走强 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2249754",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 09时58分]"
+        },
+        {
           "title": "美股指涨跌互现，纳指涨0.3%，闪迪股价创新高，全球股指触及历史高位，现货白银日内涨4%，伦铜再创新高，油价震荡",
           "url": "https://wallstreetcn.com/articles/3762631",
           "source": "华尔街见闻",
@@ -30,15 +53,15 @@
           "time_info": "[00时34分 ~ 00时35分]"
         },
         {
-          "title": "美股三大期指涨跌不一 存储概念股持续走强 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2249754",
-          "source": "财联社热门",
+          "title": "达利欧年度复盘：美元等法币贬值，美股高回报只是“计价幻觉”，黄金跑赢一切",
+          "url": "https://wallstreetcn.com/articles/3762638",
+          "source": "华尔街见闻",
           "ranks": [
-            8
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 00时35分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
         }
       ]
     },
@@ -56,6 +79,40 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时34分 ~ 00时35分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "社会新闻 泉州 福建",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "福建一工地工人被限制自由？官方辟谣",
+          "url": "https://www.toutiao.com/trending/7591086753899528234/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "NBA 篮球",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "正直播NBA：骑士vs步行者",
+          "url": "https://www.baidu.com/s?wd=%E6%AD%A3%E7%9B%B4%E6%92%ADNBA%EF%BC%9A%E9%AA%91%E5%A3%ABvs%E6%AD%A5%E8%A1%8C%E8%80%85",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
         }
       ]
     }
