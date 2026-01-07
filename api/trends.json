@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-07T09:58:33.079042+08:00",
-  "total_titles_processed": 498,
+  "generated_at": "2026-01-07T16:36:42.033392+08:00",
+  "total_titles_processed": 738,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "地缘紧张但未失控，美股债同涨，道指新高，疲软美元撑商品走强，原油转涨，白银暴涨",
@@ -25,9 +25,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时58分"
+        },
+        {
+          "title": "闲置资金重回股市，美股1月份收涨概率超60%",
+          "url": "https://flash.jin10.com/detail/20260107160316304800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
         },
         {
           "title": "美股三大期指涨跌不一 存储概念股持续走强 | 今夜看点",
@@ -59,7 +70,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时58分"
         }
@@ -93,9 +104,9 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 16时36分]"
         }
       ]
     },
@@ -110,7 +121,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时58分"
         }
