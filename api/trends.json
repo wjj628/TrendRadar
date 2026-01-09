@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-09T10:01:28.930089+08:00",
-  "total_titles_processed": 491,
+  "generated_at": "2026-01-09T16:36:45.368804+08:00",
+  "total_titles_processed": 733,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，美元两连涨，金银铜跌离高位",
@@ -19,6 +19,18 @@
           "time_info": "00时35分"
         },
         {
+          "title": "就在周五！美最高法院关税意见日敲定，美股、美债市场迎来“大考”",
+          "url": "https://wallstreetcn.com/articles/3762888",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时00分 ~ 16时36分]"
+        },
+        {
           "title": "特朗普要加军费，全球军工股大涨，纳指跌0.5%，美债强势，金银继续回调，白银失守75美元",
           "url": "https://wallstreetcn.com/articles/3762848",
           "source": "华尔街见闻",
@@ -30,15 +42,15 @@
           "time_info": "00时35分"
         },
         {
-          "title": "就在周五！美最高法院关税意见日敲定，美股、美债市场迎来“大考”",
-          "url": "https://wallstreetcn.com/articles/3762888",
+          "title": "黄金成全球最大储备资产，30年来首次超越美债！",
+          "url": "https://wallstreetcn.com/articles/3762855",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            10
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时00分 ~ 10时01分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
         }
       ]
     },
@@ -54,8 +66,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时00分 ~ 10时01分]"
+          "appearance_count": 3,
+          "time_info": "[10时00分 ~ 16时36分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 军工股全线走强 阿里巴巴涨超5%",
@@ -93,7 +105,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
         }
