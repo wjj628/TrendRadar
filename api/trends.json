@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T09:56:08.824905+08:00",
-  "total_titles_processed": 508,
+  "generated_at": "2026-01-10T16:32:04.751199+08:00",
+  "total_titles_processed": 738,
   "failed_sources": [],
   "trends": [
     {
@@ -23,11 +23,12 @@
           "url": "https://www.cls.cn/detail/2253716",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时55分 ~ 09时56分]"
+          "appearance_count": 4,
+          "time_info": "[09时55分 ~ 16时32分]"
         },
         {
           "title": "12月非农不及预期，美股三大股指开盘涨跌不一，纽约银日内涨幅达5.0%，美元指数短线下挫，基本金属铜铝继续攀升，嘉能可上涨10%",
@@ -39,6 +40,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "去年金价狂飙美元贬值 美元信用裂痕扩大产加速去美元化",
+          "url": "https://flash.jin10.com/detail/20260110082505272800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时56分"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         }
       ]
     },
@@ -64,24 +93,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "去年金价狂飙美元贬值 美元信用裂痕扩大产加速去美元化",
-          "url": "https://flash.jin10.com/detail/20260110082505272800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
         }
@@ -99,8 +111,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时55分 ~ 09时56分]"
+          "appearance_count": 4,
+          "time_info": "[09时55分 ~ 16时32分]"
         }
       ]
     },
@@ -118,6 +130,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时33分 ~ 09时56分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "NBA 篮球",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "2526 赛季 NBA 常规赛雄鹿 105:101 湖人，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/1993286764136263708",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 16时32分]"
         }
       ]
     }
