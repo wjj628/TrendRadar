@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-01-11T10:08:41.972925+08:00",
-  "total_titles_processed": 486,
+  "generated_at": "2026-01-11T16:32:10.974254+08:00",
+  "total_titles_processed": 700,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价将走向何方",
+          "url": "https://www.toutiao.com/trending/7593981430330297862/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 16时32分]"
+        }
+      ]
+    },
     {
       "keyword_group": "美股",
       "match_count": 1,
