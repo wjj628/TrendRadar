@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T16:36:14.605412+08:00",
-  "total_titles_processed": 732,
+  "generated_at": "2026-01-15T00:36:41.154783+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 3,
       "titles": [
         {
           "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
@@ -15,80 +15,47 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时03分 ~ 16时36分]"
+          "appearance_count": 1,
+          "time_info": "00时36分"
         },
         {
-          "title": "美股收盘：三大股指自历史高位回落 摩根大通拉开财报季序幕",
-          "url": "https://www.cls.cn/detail/2256863",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时03分 ~ 10时04分]"
-        },
-        {
-          "title": "美股走V新高，谷歌破4万亿，阿里暴涨10%领衔中概大涨，金银大涨创新高",
-          "url": "https://wallstreetcn.com/articles/3763053",
+          "title": "伊朗局势担忧加剧，美股指集体下挫，纳指跌近0.8%，金属狂飙，现货白银站上92美元，锡铜新高",
+          "url": "https://wallstreetcn.com/articles/3763270",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时37分"
+          "time_info": "00时36分"
         },
         {
-          "title": "核心通胀降温，美股指集体高开，日元跌至159，现货白银逼近89美元，伊朗局势提振油价",
-          "url": "https://wallstreetcn.com/articles/3763167",
-          "source": "华尔街见闻",
+          "title": "美股集体低开 携程跌近17%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E9%9B%86%E4%BD%93%E4%BD%8E%E5%BC%80+%E6%90%BA%E7%A8%8B%E8%B7%8C%E8%BF%9117%25",
+          "source": "百度热搜",
           "ranks": [
-            8
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时37分"
+          "time_info": "00时36分"
         }
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 3,
+      "keyword_group": "社会新闻 泉州 福建",
+      "match_count": 1,
       "titles": [
         {
-          "title": "金价暴涨下谁在赚钱",
-          "url": "https://www.toutiao.com/trending/7595070385364667930/",
-          "source": "今日头条",
+          "title": "官方通报福建一水库大坝偷工减料调查结果：数十人被追责问责、罚款超2000万元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32383278",
+          "source": "澎湃新闻",
           "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时35分 ~ 16时36分]"
-        },
-        {
-          "title": "花旗预测三个月内金价达5000美元",
-          "url": "https://www.toutiao.com/trending/7594831557941005843/",
-          "source": "今日头条",
-          "ranks": [
-            8
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时37分"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
+          "time_info": "00时36分"
         }
       ]
     }
