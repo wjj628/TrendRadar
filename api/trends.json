@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T00:28:31.945783+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-18T10:07:44.052891+08:00",
+  "total_titles_processed": 494,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
           "url": "https://www.cls.cn/detail/2260993",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 10时07分]"
         }
       ]
     },
