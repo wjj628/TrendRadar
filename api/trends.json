@@ -1,57 +1,22 @@
 {
-  "generated_at": "2026-01-18T16:32:18.692797+08:00",
-  "total_titles_processed": 710,
+  "generated_at": "2026-01-19T00:29:41.095547+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "哈塞特“出局”，但美债为何“不涨反跌”？",
-          "url": "https://wallstreetcn.com/articles/3763504",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
-        }
-      ]
-    },
     {
       "keyword_group": "美股",
       "match_count": 1,
       "titles": [
         {
-          "title": "美股收盘：三大指数微幅下跌 财报季开局谨慎 美光科技涨超7%市值破4000亿",
-          "url": "https://www.cls.cn/detail/2260993",
-          "source": "财联社热门",
+          "title": "美股明日休市 金银油交易提前结束",
+          "url": "https://flash.jin10.com/detail/20260118225633271800",
+          "source": "金十数据",
           "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 10时07分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "英超 足球",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "2526 赛季英超联赛英超第 22 轮曼联 2:0 曼城，如何评价这场比赛？",
-          "url": "https://www.zhihu.com/question/1995956944398201373",
-          "source": "知乎",
-          "ranks": [
-            13
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时28分"
+          "time_info": "00时29分"
         }
       ]
     }
