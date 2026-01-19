@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-19T16:39:08.372640+08:00",
-  "total_titles_processed": 737,
+  "generated_at": "2026-01-20T00:35:54.501788+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
@@ -8,82 +8,43 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "金价波动",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=7&Refer=top",
-          "source": "微博",
+          "title": "财晓得丨金价涨成这样，到什么位置了？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32367730",
+          "source": "澎湃新闻",
           "ranks": [
-            7
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时05分"
+          "time_info": "00时35分"
         },
         {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=22&Refer=top",
-          "source": "微博",
+          "title": "决定黄金价格的三大属性",
+          "url": "https://www.toutiao.com/trending/7597064696004349450/",
+          "source": "今日头条",
           "ranks": [
-            22
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时05分"
+          "time_info": "00时35分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
-          "title": "格陵兰引发美欧关税战风险，欧股大幅低开、美股期货下跌，金银再创新高，铜价逼近13000",
+          "title": "格陵兰引发关税战风险，欧美股齐跌，“马丁·路德·金纪念日”美股债休市，金银再创新高，铜价逼近13000",
           "url": "https://wallstreetcn.com/articles/3763546",
           "source": "华尔街见闻",
           "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时38分 ~ 16时39分]"
-        },
-        {
-          "title": "美股明日休市 金银油交易提前结束",
-          "url": "https://flash.jin10.com/detail/20260118225633271800",
-          "source": "金十数据",
-          "ranks": [
-            3
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "NBA 篮球",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "2526 赛季 NBA 常规赛湖人 116:132 开拓者，如何评价这场比赛？",
-          "url": "https://www.zhihu.com/question/1996179131398919343",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时05分"
-        },
-        {
-          "title": "2526 赛季 NBA 常规赛猛龙 93:110 湖人，如何评价这场比赛？",
-          "url": "https://www.zhihu.com/question/1996533730433594633",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时38分 ~ 16时39分]"
+          "time_info": "00时35分"
         }
       ]
     },
@@ -96,11 +57,11 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32413928",
           "source": "澎湃新闻",
           "ranks": [
-            6
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时38分 ~ 16时39分]"
+          "appearance_count": 1,
+          "time_info": "00时35分"
         }
       ]
     }
