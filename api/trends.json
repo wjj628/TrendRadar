@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-19T10:05:31.681553+08:00",
-  "total_titles_processed": 493,
+  "generated_at": "2026-01-19T16:39:08.372640+08:00",
+  "total_titles_processed": 737,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时05分"
         },
@@ -25,7 +25,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时05分"
         }
@@ -33,8 +33,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "格陵兰引发美欧关税战风险，欧股大幅低开、美股期货下跌，金银再创新高，铜价逼近13000",
+          "url": "https://wallstreetcn.com/articles/3763546",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时38分 ~ 16时39分]"
+        },
         {
           "title": "美股明日休市 金银油交易提前结束",
           "url": "https://flash.jin10.com/detail/20260118225633271800",
@@ -50,7 +61,7 @@
     },
     {
       "keyword_group": "NBA 篮球",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "2526 赛季 NBA 常规赛湖人 116:132 开拓者，如何评价这场比赛？",
@@ -59,9 +70,37 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时05分"
+        },
+        {
+          "title": "2526 赛季 NBA 常规赛猛龙 93:110 湖人，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/1996533730433594633",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时38分 ~ 16时39分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "社会新闻 泉州 福建",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "福建女商人林惠荣提国家赔偿申请获立案，曾服刑7年后获无罪",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32413928",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时38分 ~ 16时39分]"
         }
       ]
     }
