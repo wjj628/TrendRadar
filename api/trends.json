@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T10:01:08.149697+08:00",
-  "total_titles_processed": 499,
+  "generated_at": "2026-01-20T16:38:41.320358+08:00",
+  "total_titles_processed": 737,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "澎湃新闻",
           "ranks": [
             10,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时35分 ~ 10时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时35分 ~ 16时38分]"
         },
         {
           "title": "决定黄金价格的三大属性",
@@ -41,11 +42,12 @@
           "url": "https://wallstreetcn.com/articles/3763546",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时59分 ~ 10时01分]"
+          "appearance_count": 3,
+          "time_info": "[09时59分 ~ 16时38分]"
         },
         {
           "title": "格陵兰引发关税战风险，欧美股齐跌，“马丁·路德·金纪念日”美股债休市，金银再创新高，铜价逼近13000",
