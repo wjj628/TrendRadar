@@ -1,100 +1,8 @@
 {
-  "generated_at": "2026-01-25T16:32:34.474520+08:00",
-  "total_titles_processed": 705,
+  "generated_at": "2026-01-26T00:31:43.383070+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "金价",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "胖东来金饰每克便宜 200 元，其质量如何？为什么胖东来的金价如此有竞争力？",
-          "url": "https://www.zhihu.com/question/1997605038588129408",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时32分"
-        },
-        {
-          "title": "金价疯涨的底层逻辑",
-          "url": "https://www.toutiao.com/trending/7598709483937730099/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
-        },
-        {
-          "title": "金价波动",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美股盘整静待下周考验，英特尔暴跌18%，美元跌金属狂欢，白银破百、黄金逼近5000美元",
-          "url": "https://wallstreetcn.com/articles/3763993",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
-        },
-        {
-          "title": "欧洲投资者对美股胃口缩减，长期脱钩或拉开序幕",
-          "url": "https://flash.jin10.com/detail/20260124222616668800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 10时10分]"
-        },
-        {
-          "title": "美股收盘：三大指数涨跌不一 纳指小幅上涨 英特尔暴跌17%",
-          "url": "https://www.cls.cn/detail/2268496",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 16时32分]"
-        }
-      ]
-    },
     {
       "keyword_group": "黄金",
       "match_count": 1,
@@ -104,28 +12,28 @@
           "url": "https://wallstreetcn.com/livenews/3043358",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时32分"
+          "time_info": "00时31分"
         }
       ]
     },
     {
-      "keyword_group": "NBA 篮球",
+      "keyword_group": "美股",
       "match_count": 1,
       "titles": [
         {
-          "title": "2526 赛季 NBA 常规赛湖人 116:110 独行侠，如何评价这场比赛？",
-          "url": "https://www.zhihu.com/question/1998692728712746745",
-          "source": "知乎",
+          "title": "从“七巨头信仰”到“用表现说话” 下周美股面临财报生死局",
+          "url": "https://flash.jin10.com/detail/20260125221344220800",
+          "source": "金十数据",
           "ranks": [
-            9
+            8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时32分"
+          "time_info": "00时31分"
         }
       ]
     }
