@@ -1,34 +1,36 @@
 {
-  "generated_at": "2026-01-30T10:24:22.322503+08:00",
-  "total_titles_processed": 526,
+  "generated_at": "2026-01-30T16:44:54.078584+08:00",
+  "total_titles_processed": 760,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价",
-      "match_count": 10,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "金价剧烈震荡引担忧？WGC：“狂飙涨势”是结构性转变而非投机，今年将继续！",
+          "url": "https://www.cls.cn/detail/2275001",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时24分 ~ 16时44分]"
+        },
         {
           "title": "金价上涨的第一批受害者出现了",
           "url": "https://www.toutiao.com/trending/7600648257781566982/",
           "source": "今日头条",
           "ranks": [
             2,
-            22
+            22,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时49分 ~ 10时24分]"
-        },
-        {
-          "title": "金价剧烈震荡引担忧？WGC：“狂飙涨势”是结构性转变而非投机，今年将继续！",
-          "url": "https://www.cls.cn/detail/2275001",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时24分"
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 16时44分]"
         },
         {
           "title": "黄金价格为何一路猛涨",
@@ -39,8 +41,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时49分 ~ 10时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 16时44分]"
         },
         {
           "title": "金价",
@@ -87,6 +89,17 @@
           "time_info": "[00时49分 ~ 00时50分]"
         },
         {
+          "title": "市场聚焦新美联储主席，美元走强美债下跌，商品市场遭遇黑色星期五，银价跌9%、金价跌5%",
+          "url": "https://wallstreetcn.com/articles/3764541",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
+        },
+        {
           "title": "金价跌幅扩大至5%。",
           "url": "https://wallstreetcn.com/livenews/3046584",
           "source": "华尔街见闻-快讯",
@@ -104,9 +117,42 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
+        },
+        {
+          "title": "金价急涨后现调整压力 经济学家称回调属牛市常态",
+          "url": "https://flash.jin10.com/detail/20260130160751267800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
+        },
+        {
+          "title": "黄金价格回调开始了吗",
+          "url": "https://www.toutiao.com/trending/7600951694344405055/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
+        },
+        {
+          "title": "金价28分钟内暴跌380美元",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B728%E5%88%86%E9%92%9F%E5%86%85%E6%9A%B4%E8%B7%8C380%E7%BE%8E%E5%85%83%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
         },
         {
           "title": "女子10年前买408克金条 金价已翻5倍",
@@ -115,7 +161,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
         }
@@ -143,9 +189,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时24分 ~ 16时44分]"
         },
         {
           "title": "美股收盘：业绩引爆微软Meta冰火两极 存储股闪迪盘后狂飙",
@@ -154,7 +200,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
         },
@@ -184,37 +230,20 @@
       ]
     },
     {
-      "keyword_group": "美元",
+      "keyword_group": "黄金",
       "match_count": 2,
       "titles": [
         {
-          "title": "美元指数DXY日内涨幅达0.50%，现报96.64。",
-          "url": "https://flash.jin10.com/detail/20260130100832171800",
-          "source": "金十数据",
+          "title": "黄金白银价格双双暴跌原因",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E4%BB%B7%E6%A0%BC%E5%8F%8C%E5%8F%8C%E6%9A%B4%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时24分"
+          "time_info": "16时44分"
         },
-        {
-          "title": "美元指数涨幅扩大至近0.5%报96.65。美元对日元上涨0.5%至153.88。",
-          "url": "https://wallstreetcn.com/livenews/3046896",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 1,
-      "titles": [
         {
           "title": "黄金、白银、比特币、美股全线走低，美债价格反弹，美元回升",
           "url": "https://wallstreetcn.com/livenews/3046568",
@@ -229,6 +258,34 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美元指数DXY日内涨幅达0.50%，现报96.64。",
+          "url": "https://flash.jin10.com/detail/20260130100832171800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        },
+        {
+          "title": "美元指数涨幅扩大至近0.5%报96.65。美元对日元上涨0.5%至153.88。",
+          "url": "https://wallstreetcn.com/livenews/3046896",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        }
+      ]
+    },
+    {
       "keyword_group": "NBA 篮球",
       "match_count": 1,
       "titles": [
@@ -239,7 +296,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
         }
