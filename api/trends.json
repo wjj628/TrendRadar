@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-02-14T10:24:55.351103+08:00",
-  "total_titles_processed": 520,
+  "generated_at": "2026-02-14T16:37:57.160315+08:00",
+  "total_titles_processed": 748,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "美股收盘：通胀降温难抵AI忧虑 三大指数周线齐跌",
+          "url": "https://www.cls.cn/detail/2290109",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时24分 ~ 16时37分]"
+        },
         {
           "title": "美股：金银大涨 英伟达蒸发6900亿元",
           "url": "https://www.toutiao.com/trending/7606270891333091371/",
@@ -14,7 +26,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
         },
@@ -28,17 +40,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时53分"
-        },
-        {
-          "title": "美股收盘：通胀降温难抵AI忧虑 三大指数周线齐跌",
-          "url": "https://www.cls.cn/detail/2290109",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时24分"
         },
         {
           "title": "美股极其脆弱！从SaaS、PE到保险、物业甚至物流“轮流大跌”，高盛交易员“疲惫且震惊”",
@@ -98,6 +99,17 @@
           "time_info": "00时53分"
         },
         {
+          "title": "美股轮动之际：黄仁勋跌出全球十大富翁之列 沃尔玛三兄妹进入排行",
+          "url": "https://www.cls.cn/detail/2290296",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
           "title": "中概指数在美股早盘实现V形反转",
           "url": "https://wallstreetcn.com/livenews/3055280",
           "source": "华尔街见闻-快讯",
@@ -137,7 +149,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
         }
@@ -145,7 +157,7 @@
     },
     {
       "keyword_group": "NBA 篮球",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "克里斯 - 保罗正式宣布从 NBA 退役，如何评价他的职业生涯？",
@@ -154,9 +166,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
+        },
+        {
+          "title": "杨瀚森NBA新秀赛10分2篮板",
+          "url": "https://www.douyin.com/hot/2400414",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
         },
         {
           "title": "Coinbase(COIN.O)涨幅扩大至15.1%。",
@@ -184,8 +207,19 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "CPI温和但科技股疲软，美股指冲高回落，亚马逊九连跌，美债转涨，黄金重上5000关口",
+          "url": "https://wallstreetcn.com/articles/3765664",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时24分 ~ 16时37分]"
+        },
         {
           "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，人民币三年新高，黄金失守5000美元，白银跳水11%",
           "url": "https://wallstreetcn.com/articles/3765553",
@@ -198,15 +232,54 @@
           "time_info": "00时53分"
         },
         {
-          "title": "CPI温和但科技股疲软，美股指冲高回落，亚马逊九连跌，美债转涨，黄金重上5000关口",
-          "url": "https://wallstreetcn.com/articles/3765664",
-          "source": "华尔街见闻",
+          "title": "全球投资者为何不再“信仰”美债了",
+          "url": "https://www.toutiao.com/trending/7606539464474627647/",
+          "source": "今日头条",
           "ranks": [
-            2
+            25
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时24分"
+          "time_info": "16时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "社会新闻 泉州 福建",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "5年存百万外卖员徒步从上海回福建",
+          "url": "https://www.toutiao.com/trending/7606545314073722921/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
+          "title": "来自福建舰的“8万吨福气”已送达",
+          "url": "https://www.baidu.com/s?wd=%E6%9D%A5%E8%87%AA%E7%A6%8F%E5%BB%BA%E8%88%B0%E7%9A%84%E2%80%9C8%E4%B8%87%E5%90%A8%E7%A6%8F%E6%B0%94%E2%80%9D%E5%B7%B2%E9%80%81%E8%BE%BE",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
+          "title": "福建一彩民15元中奖6022万",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA%E4%B8%80%E5%BD%A9%E6%B0%9115%E5%85%83%E4%B8%AD%E5%A5%966022%E4%B8%87%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
         }
       ]
     }
