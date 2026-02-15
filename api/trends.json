@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-02-15T10:36:48.035745+08:00",
-  "total_titles_processed": 508,
+  "generated_at": "2026-02-15T16:38:16.375753+08:00",
+  "total_titles_processed": 712,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA 篮球",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "NBA全明星赛你看好国际队还是美国队",
+          "url": "https://www.toutiao.com/trending/7606900100985045055/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时37分 ~ 16时38分]"
+        },
         {
           "title": "杨瀚森NBA新秀赛10分2篮板",
           "url": "https://www.douyin.com/hot/2400414",
@@ -36,7 +47,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时36分"
         }
@@ -100,8 +111,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 10时36分]"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 16时38分]"
         }
       ]
     }
