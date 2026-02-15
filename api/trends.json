@@ -1,118 +1,22 @@
 {
-  "generated_at": "2026-02-15T16:38:16.375753+08:00",
-  "total_titles_processed": 712,
+  "generated_at": "2026-02-16T00:36:23.694215+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "NBA 篮球",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "NBA全明星赛你看好国际队还是美国队",
-          "url": "https://www.toutiao.com/trending/7606900100985045055/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时37分 ~ 16时38分]"
-        },
-        {
-          "title": "杨瀚森NBA新秀赛10分2篮板",
-          "url": "https://www.douyin.com/hot/2400414",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
-        },
-        {
-          "title": "NBA 新秀挑战赛，安东尼队击败里弗斯队，杨瀚森代表里弗斯队出战得到 10 分，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2005944310802118479",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
-        },
-        {
-          "title": "NBA扣篮大赛凯沙德·约翰逊夺冠",
-          "url": "https://www.toutiao.com/trending/7605950172326182918/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "能源、必选消费和美债领涨2026！华尔街的“AI交易”被“AI颠覆”了",
-          "url": "https://wallstreetcn.com/articles/3765719",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
-        },
-        {
-          "title": "CPI温和但科技股疲软，美股指冲高回落，亚马逊九连跌，美债转涨，黄金重上5000关口",
-          "url": "https://wallstreetcn.com/articles/3765664",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金价还能涨吗",
-          "url": "https://www.toutiao.com/trending/7606713454954548762/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
-        }
-      ]
-    },
     {
       "keyword_group": "美股",
       "match_count": 1,
       "titles": [
         {
-          "title": "美股轮动之际：黄仁勋跌出全球十大富翁之列 沃尔玛三兄妹进入排行",
-          "url": "https://www.cls.cn/detail/2290296",
-          "source": "财联社热门",
+          "title": "金十整理：下周重要事件与数据预告——美联储会议纪要携PCE数据登场，中国与多地市场因春节假期休市、美股周一因美国总统日休市一日",
+          "url": "https://flash.jin10.com/detail/20260215215525567800",
+          "source": "金十数据",
           "ranks": [
-            8,
-            10
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 16时38分]"
+          "appearance_count": 1,
+          "time_info": "00时36分"
         }
       ]
     }
