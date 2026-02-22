@@ -1,142 +1,33 @@
 {
-  "generated_at": "2026-02-22T16:38:14.181909+08:00",
-  "total_titles_processed": 720,
+  "generated_at": "2026-02-23T00:36:22.403327+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 2,
       "titles": [
         {
           "title": "美股收盘：特朗普关税“翻车”成利好 三大指数集体收涨",
           "url": "https://www.cls.cn/detail/2292233",
           "source": "财联社热门",
           "ranks": [
-            3,
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时34分 ~ 16时38分]"
-        },
-        {
-          "title": "美最高院否决关税，美股收高，债汇承压，滞胀担忧撑黄金重回5100，白银大涨8%",
-          "url": "https://wallstreetcn.com/articles/3765902",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时34分"
-        },
-        {
-          "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
-          "url": "https://www.cls.cn/detail/2291935",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时34分 ~ 16时38分]"
+          "time_info": "00时36分"
         },
         {
           "title": "过去30年来未见之局面！美股指数波动之小创1960年来之最，而个股波动率却高达指数7倍",
           "url": "https://wallstreetcn.com/articles/3765941",
           "source": "华尔街见闻",
           "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时37分 ~ 16时38分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "社会新闻 泉州 福建",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "视频丨硬核揭秘！福建舰“一马当先”底气何在？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32638555",
-          "source": "澎湃新闻",
-          "ranks": [
-            4
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时34分"
-        },
-        {
-          "title": "春节的福建“长满”江浙人",
-          "url": "https://www.baidu.com/s?wd=%E6%98%A5%E8%8A%82%E7%9A%84%E7%A6%8F%E5%BB%BA%E2%80%9C%E9%95%BF%E6%BB%A1%E2%80%9D%E6%B1%9F%E6%B5%99%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时37分 ~ 16时38分]"
-        },
-        {
-          "title": "在福建问路5次 5次问到浙江人",
-          "url": "https://www.baidu.com/s?wd=%E5%9C%A8%E7%A6%8F%E5%BB%BA%E9%97%AE%E8%B7%AF5%E6%AC%A1+5%E6%AC%A1%E9%97%AE%E5%88%B0%E6%B5%99%E6%B1%9F%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时37分 ~ 16时38分]"
-        },
-        {
-          "title": "福建一悬崖咖啡店走红 座位高约60米",
-          "url": "https://www.baidu.com/s?wd=%E7%A6%8F%E5%BB%BA%E4%B8%80%E6%82%AC%E5%B4%96%E5%92%96%E5%95%A1%E5%BA%97%E8%B5%B0%E7%BA%A2+%E5%BA%A7%E4%BD%8D%E9%AB%98%E7%BA%A660%E7%B1%B3",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "1750亿美元“关税退款”！对美股是“财政刺激”，对美债是“增加债务”，对金银是“不确定性重来”",
-          "url": "https://wallstreetcn.com/articles/3765925",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 10时32分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "NBA 篮球",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "你认为姚明对中国篮球贡献大吗",
-          "url": "https://www.toutiao.com/trending/7609051951288401961/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
+          "time_info": "00时36分"
         }
       ]
     }
