@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T10:31:09.021646+08:00",
-  "total_titles_processed": 522,
+  "generated_at": "2026-02-24T16:55:21.399758+08:00",
+  "total_titles_processed": 751,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
@@ -15,8 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时30分 ~ 10时31分]"
+          "appearance_count": 3,
+          "time_info": "[10时30分 ~ 16时55分]"
+        },
+        {
+          "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
+          "url": "https://wallstreetcn.com/articles/3766006",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时30分 ~ 16时55分]"
         },
         {
           "title": "美股收盘：关税风波+AI“鬼故事”袭扰 三大指数承压下挫",
@@ -24,17 +36,6 @@
           "source": "财联社热门",
           "ranks": [
             3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时30分 ~ 10时31分]"
-        },
-        {
-          "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
-          "url": "https://wallstreetcn.com/articles/3766006",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -62,6 +63,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时03分 ~ 10时31分]"
+        },
+        {
+          "title": "美股看跌保护需求创四年新高，高盛交易员：专业投资者正在为\"某种突破\"做准备",
+          "url": "https://wallstreetcn.com/articles/3765995",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
+        },
+        {
+          "title": "Citrini 的「2028 AI 末日预言」吓坏市场，致美股多板块集体重挫，如何看待这份报告的预测？",
+          "url": "https://www.zhihu.com/question/2009566964868150665",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
         }
       ]
     },
@@ -76,7 +99,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
         },
@@ -94,6 +117,34 @@
       ]
     },
     {
+      "keyword_group": "社会新闻 泉州 福建",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "福建游神炸街太燃了",
+          "url": "https://www.baidu.com/s?wd=%E7%A6%8F%E5%BB%BA%E6%B8%B8%E7%A5%9E%E7%82%B8%E8%A1%97%E5%A4%AA%E7%87%83%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时03分"
+        },
+        {
+          "title": "福建乐评人如何过年",
+          "url": "https://search.bilibili.com/all?keyword=%E7%A6%8F%E5%BB%BA%E4%B9%90%E8%AF%84%E4%BA%BA%E5%A6%82%E4%BD%95%E8%BF%87%E5%B9%B4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
+        }
+      ]
+    },
+    {
       "keyword_group": "黄金",
       "match_count": 1,
       "titles": [
@@ -103,23 +154,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "社会新闻 泉州 福建",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "福建游神炸街太燃了",
-          "url": "https://www.baidu.com/s?wd=%E7%A6%8F%E5%BB%BA%E6%B8%B8%E7%A5%9E%E7%82%B8%E8%A1%97%E5%A4%AA%E7%87%83%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            15
           ],
           "is_new": false,
           "appearance_count": 1,
