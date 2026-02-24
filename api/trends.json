@@ -1,12 +1,45 @@
 {
-  "generated_at": "2026-02-24T01:03:17.618233+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-24T10:31:09.021646+08:00",
+  "total_titles_processed": 522,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
+          "url": "https://wallstreetcn.com/articles/3765966",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时30分 ~ 10时31分]"
+        },
+        {
+          "title": "美股收盘：关税风波+AI“鬼故事”袭扰 三大指数承压下挫",
+          "url": "https://www.cls.cn/detail/2293058",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时30分 ~ 10时31分]"
+        },
+        {
+          "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
+          "url": "https://wallstreetcn.com/articles/3766006",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时30分 ~ 10时31分]"
+        },
         {
           "title": "关税政策不确定性笼罩市场，美股低开，现货黄金站上5200美元",
           "url": "https://wallstreetcn.com/articles/3765966",
@@ -23,18 +56,30 @@
           "url": "https://www.cls.cn/detail/2292918",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时03分"
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 10时31分]"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "美元走强令金价从三周高位回落",
+          "url": "https://flash.jin10.com/detail/20260224100521755800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
         {
           "title": "春节期间金价站上5100美元，地缘风险催化“硬通货”避险属性|新春万象录",
           "url": "https://www.cls.cn/detail/2292521",
@@ -79,6 +124,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "NBA 篮球",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "26届NBA状元热门出战NCAA",
+          "url": "https://search.bilibili.com/all?keyword=26%E5%B1%8ANBA%E7%8A%B6%E5%85%83%E7%83%AD%E9%97%A8%E5%87%BA%E6%88%98NCAA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时30分 ~ 10时31分]"
         }
       ]
     }
