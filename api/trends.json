@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-02-25T01:10:36.850618+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-25T10:34:08.656374+08:00",
+  "total_titles_processed": 515,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "美股收盘：软件板块回暖三大指数齐涨 空头突袭存储牛股",
+          "url": "https://www.cls.cn/detail/2294131",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 10时34分]"
+        },
         {
           "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
           "url": "https://wallstreetcn.com/articles/3766006",
@@ -56,11 +67,12 @@
           "url": "https://www.cls.cn/detail/2293967",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时10分"
+          "appearance_count": 3,
+          "time_info": "[01时10分 ~ 10时34分]"
         },
         {
           "title": "美股三大股指延续涨势，纳指涨超1%，道指涨0.83%，标普500指数涨0.68%。",
@@ -72,6 +84,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "NBA 篮球",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "正直播NBA：勇士vs鹈鹕",
+          "url": "https://www.baidu.com/s?wd=%E6%AD%A3%E7%9B%B4%E6%92%ADNBA%EF%BC%9A%E5%8B%87%E5%A3%ABvs%E9%B9%88%E9%B9%95",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 10时34分]"
         }
       ]
     }
