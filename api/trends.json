@@ -1,102 +1,56 @@
 {
-  "generated_at": "2026-02-27T16:48:22.691481+08:00",
-  "total_titles_processed": 734,
+  "generated_at": "2026-02-28T00:45:21.211461+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股",
-      "match_count": 3,
+      "keyword_group": "美债",
+      "match_count": 1,
       "titles": [
         {
-          "title": "科技股带领美股连涨两日，英伟达盘后一度涨3%，人民币涨近250点，加密货币大反弹",
-          "url": "https://wallstreetcn.com/articles/3766102",
+          "title": "超预期PPI打压降息预期，AI担忧发酵，美股指集体低开，金银油携手大涨，美债上扬，人民币贬近150点",
+          "url": "https://wallstreetcn.com/articles/3766324",
           "source": "华尔街见闻",
           "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 01时07分]"
-        },
-        {
-          "title": "美股收盘：英伟达绩后再现惯性跳水 拖累纳指跌超1%",
-          "url": "https://www.cls.cn/detail/2296570",
-          "source": "财联社热门",
-          "ranks": [
-            2
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时25分"
-        },
+          "time_info": "00时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "社会新闻 泉州 福建",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "美股三大期指集体走高 英伟达盘前上涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2296406",
-          "source": "财联社热门",
+          "title": "福建一婚礼现场伴手礼按箱提",
+          "url": "https://www.baidu.com/s?wd=%E7%A6%8F%E5%BB%BA%E4%B8%80%E5%A9%9A%E7%A4%BC%E7%8E%B0%E5%9C%BA%E4%BC%B4%E6%89%8B%E7%A4%BC%E6%8C%89%E7%AE%B1%E6%8F%90",
+          "source": "百度热搜",
           "ranks": [
-            6,
-            8
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 10时25分]"
+          "appearance_count": 1,
+          "time_info": "00时45分"
         }
       ]
     },
     {
       "keyword_group": "NBA 篮球",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "杨毅：篮球史上无法无天的一场球",
-          "url": "https://www.toutiao.com/trending/7610241047805378610/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 01时07分]"
-        },
-        {
-          "title": "杨毅：篮球史上无法无天的一场球",
-          "url": "https://www.baidu.com/s?wd=%E6%9D%A8%E6%AF%85%EF%BC%9A%E7%AF%AE%E7%90%83%E5%8F%B2%E4%B8%8A%E6%97%A0%E6%B3%95%E6%97%A0%E5%A4%A9%E7%9A%84%E4%B8%80%E5%9C%BA%E7%90%83",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时04分 ~ 10时25分]"
-        },
-        {
-          "title": "中国男篮球员赢球后落泪",
-          "url": "https://www.toutiao.com/trending/7610452991824986131/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 01时07分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
       "match_count": 1,
       "titles": [
         {
-          "title": "新兴市场外汇指数回吐涨幅，哥伦比亚比索等跌幅突出，美元走高。",
-          "url": "https://wallstreetcn.com/livenews/3059666",
-          "source": "华尔街见闻-快讯",
+          "title": "FIBA向中国篮球界致歉",
+          "url": "https://www.douyin.com/hot/2413691",
+          "source": "抖音",
           "ranks": [
-            26
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时07分"
+          "time_info": "00时45分"
         }
       ]
     }
