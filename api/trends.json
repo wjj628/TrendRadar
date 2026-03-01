@@ -1,111 +1,22 @@
 {
-  "generated_at": "2026-03-01T16:37:02.760705+08:00",
-  "total_titles_processed": 744,
+  "generated_at": "2026-03-02T00:34:16.066621+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "“中东火药桶”炸了！美以对伊朗发起袭击，金价油价或继续飙涨",
-          "url": "https://finance.ifeng.com/c/8r7FgvfAN7q",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 00时32分]"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 00时32分]"
-        },
-        {
-          "title": "专家称未来48小时决定金价走势",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E6%9C%AA%E6%9D%A548%E5%B0%8F%E6%97%B6%E5%86%B3%E5%AE%9A%E9%87%91%E4%BB%B7%E8%B5%B0%E5%8A%BF%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时38分 ~ 10时39分]"
-        },
-        {
-          "title": "专家：金价极端情况下或到7000美元",
-          "url": "https://www.toutiao.com/trending/7611434469627330601/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 00时32分]"
-        },
-        {
-          "title": "金价或将冲击历史新高",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%88%96%E5%B0%86%E5%86%B2%E5%87%BB%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时36分 ~ 16时37分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "伊朗局势演变会如何影响美股、黄金和原油？一文读懂",
-          "url": "https://www.cls.cn/detail/2298093",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 00时32分]"
-        },
-        {
-          "title": "以色列突袭伊朗，正准备 4 天的联合进攻，原油、黄金、美股接下来怎么走？",
-          "url": "https://www.zhihu.com/question/2011096140146286806",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 00时32分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
       "match_count": 1,
       "titles": [
         {
-          "title": "美PPI、伊朗局势、私募危机拖累美股，道指跌1%，10年期美债收益率跌破4%，金银油涨",
-          "url": "https://wallstreetcn.com/articles/3766324",
-          "source": "华尔街见闻",
+          "title": "美以袭击伊朗金价为何下跌",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E4%BB%A5%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97%E9%87%91%E4%BB%B7%E4%B8%BA%E4%BD%95%E4%B8%8B%E8%B7%8C%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
           "ranks": [
-            3
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时31分 ~ 00时32分]"
+          "time_info": "[00时33分 ~ 00时34分]"
         }
       ]
     }
