@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T10:12:07.194337+08:00",
-  "total_titles_processed": 497,
+  "generated_at": "2026-03-07T16:37:10.224856+08:00",
+  "total_titles_processed": 723,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2305872",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
+          "appearance_count": 4,
+          "time_info": "[10时11分 ~ 16时37分]"
         },
         {
           "title": "Hims & Hers Health美股盘后涨近37%，报道称诺和诺德计划在Hims的平台上销售其减肥药",
@@ -25,7 +26,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         },
@@ -84,6 +85,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "NBA 篮球",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "你怎么看NBA最新MVP榜排名",
+          "url": "https://www.toutiao.com/trending/7614338064500260905/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时36分 ~ 16时37分]"
         }
       ]
     }
