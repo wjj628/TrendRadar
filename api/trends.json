@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-15T00:37:28.760375+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-15T10:43:58.342499+08:00",
+  "total_titles_processed": 505,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美伊冲突升级，美股倒V、连跌三周！Mag7陷入回调，Meta跌近4%，美元破百",
@@ -23,11 +23,23 @@
           "url": "https://www.cls.cn/detail/2312848",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            7
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 10时43分]"
+        },
+        {
+          "title": "美股“异相”：ETF成交量飙升",
+          "url": "https://wallstreetcn.com/articles/3767510",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时37分"
+          "time_info": "10时43分"
         },
         {
           "title": "美股科技牛结束了？Mag 7已较高点跌去10%，微软年内跌得最惨！",
@@ -39,6 +51,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "英超 足球",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "2526 赛季英超联赛英超第 30 轮阿森纳 2:0 埃弗顿，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/2016326324956976570",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时43分"
         }
       ]
     },
