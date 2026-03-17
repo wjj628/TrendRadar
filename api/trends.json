@@ -1,8 +1,108 @@
 {
-  "generated_at": "2026-03-17T10:28:46.360776+08:00",
-  "total_titles_processed": 516,
+  "generated_at": "2026-03-17T16:58:23.794081+08:00",
+  "total_titles_processed": 745,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "金价",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "瑞银：金价仍未反映真实风险，2026年将较当前水平再涨20%",
+          "url": "https://flash.jin10.com/detail/20260317095922231800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
+          "title": "黄金小幅走高 能源价格上升仍抑制金价",
+          "url": "https://flash.jin10.com/detail/20260317161959462800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时58分"
+        },
+        {
+          "title": "金价大跌黄金9点开卖9点01分售罄",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E9%BB%84%E9%87%919%E7%82%B9%E5%BC%80%E5%8D%969%E7%82%B901%E5%88%86%E5%94%AE%E7%BD%84%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时58分"
+        },
+        {
+          "title": "金价下跌却买不进",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C%E5%8D%B4%E4%B9%B0%E4%B8%8D%E8%BF%9B%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "社会新闻 泉州 福建",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "A股水泥板块走强，韩建河山、上峰水泥双双涨超5%，宁夏建材、四川金顶、福建水泥、华新建材等个股跟涨。",
+          "url": "https://flash.jin10.com/detail/20260317095733673800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
+          "title": "福建安溪修河堤震出三条大蟒蛇",
+          "url": "https://www.baidu.com/s?wd=%E7%A6%8F%E5%BB%BA%E5%AE%89%E6%BA%AA%E4%BF%AE%E6%B2%B3%E5%A0%A4%E9%9C%87%E5%87%BA%E4%B8%89%E6%9D%A1%E5%A4%A7%E8%9F%92%E8%9B%87",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时58分"
+        },
+        {
+          "title": "福建安溪修河堤震出三条大蟒蛇",
+          "url": "https://www.toutiao.com/trending/7617686433222311979/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时58分"
+        },
+        {
+          "title": "无畏 福建队",
+          "url": "https://s.weibo.com/weibo?q=%E6%97%A0%E7%95%8F%20%E7%A6%8F%E5%BB%BA%E9%98%9F&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时05分"
+        }
+      ]
+    },
     {
       "keyword_group": "美股",
       "match_count": 3,
@@ -25,7 +125,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
         },
@@ -34,56 +134,12 @@
           "url": "https://www.cls.cn/detail/2314987",
           "source": "财联社热门",
           "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "社会新闻 泉州 福建",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "A股水泥板块走强，韩建河山、上峰水泥双双涨超5%，宁夏建材、四川金顶、福建水泥、华新建材等个股跟涨。",
-          "url": "https://flash.jin10.com/detail/20260317095733673800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时28分"
-        },
-        {
-          "title": "无畏 福建队",
-          "url": "https://s.weibo.com/weibo?q=%E6%97%A0%E7%95%8F%20%E7%A6%8F%E5%BB%BA%E9%98%9F&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
+            12,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "瑞银：金价仍未反映真实风险，2026年将较当前水平再涨20%",
-          "url": "https://flash.jin10.com/detail/20260317095922231800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时28分"
+          "appearance_count": 2,
+          "time_info": "[10时28分 ~ 16时58分]"
         }
       ]
     },
@@ -96,11 +152,12 @@
           "url": "https://wallstreetcn.com/articles/3767567",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时28分 ~ 16时58分]"
         }
       ]
     },
@@ -115,7 +172,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
         }
