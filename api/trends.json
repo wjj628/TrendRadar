@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-17T01:05:34.694298+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-03-17T10:28:46.360776+08:00",
+  "total_titles_processed": 516,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "霍尔木兹海峡现通航迹象，美股指高开，纳指涨1%，WTI原油日内跌幅达3%，现货黄金重回5000美元",
@@ -17,13 +17,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时05分"
+        },
+        {
+          "title": "美股收盘：标普纳指均涨超1% 国际油价回落提振市场情绪",
+          "url": "https://www.cls.cn/detail/2314857",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
+          "title": "国际油价大跌推高美股 大摩首席：市场调整已接近尾声",
+          "url": "https://www.cls.cn/detail/2314987",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
         }
       ]
     },
     {
       "keyword_group": "社会新闻 泉州 福建",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "A股水泥板块走强，韩建河山、上峰水泥双双涨超5%，宁夏建材、四川金顶、福建水泥、华新建材等个股跟涨。",
+          "url": "https://flash.jin10.com/detail/20260317095733673800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
         {
           "title": "无畏 福建队",
           "url": "https://s.weibo.com/weibo?q=%E6%97%A0%E7%95%8F%20%E7%A6%8F%E5%BB%BA%E9%98%9F&t=31&band_rank=24&Refer=top",
@@ -34,6 +67,57 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "瑞银：金价仍未反映真实风险，2026年将较当前水平再涨20%",
+          "url": "https://flash.jin10.com/detail/20260317095922231800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "霍尔木兹海峡受阻缓解，美股美债齐升，标普纳指涨超1%，美油下挫5%，以太坊大涨10%",
+          "url": "https://wallstreetcn.com/articles/3767567",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "NBA 篮球",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "你认为NBA是否应该缩减常规赛赛程",
+          "url": "https://www.toutiao.com/trending/7617658762652024838/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
         }
       ]
     }
