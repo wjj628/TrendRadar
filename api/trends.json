@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-31T01:02:07.628896+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-03-31T10:41:52.942251+08:00",
+  "total_titles_processed": 533,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "抄底买盘提振，美股开盘全线上涨，存储概念股普涨，布油上涨2.67%、铝价上涨5%",
@@ -39,6 +39,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时01分 ~ 01时02分]"
+        },
+        {
+          "title": "美股后续会怎么走",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E5%90%8E%E7%BB%AD%E4%BC%9A%E6%80%8E%E4%B9%88%E8%B5%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        },
+        {
+          "title": "美股收盘：三大指数涨跌不一 投资者权衡中东冲突前景",
+          "url": "https://www.cls.cn/detail/2329769",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时41分"
         }
       ]
     },
@@ -53,7 +75,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
         },
@@ -64,9 +86,43 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "鲍威尔表态提振美债反弹，但美股高开低走，半导体指数跌超4%，美元五连涨",
+          "url": "https://wallstreetcn.com/articles/3768684",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "社会新闻 泉州 福建",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "福建本地股反复活跃，闽东电力、平潭发展双双涨停，海峡创新、舒华体育、漳州发展、路桥信息跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3079724",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时41分"
         }
       ]
     }
