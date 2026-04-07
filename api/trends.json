@@ -1,119 +1,84 @@
 {
-  "generated_at": "2026-04-07T17:08:41.793065+08:00",
-  "total_titles_processed": 781,
+  "generated_at": "2026-04-08T01:04:41.698339+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "美股开盘小幅上涨，存储板块涨幅居前，希捷科技涨幅扩大至逾7%，创历史新高",
-          "url": "https://wallstreetcn.com/articles/3769300",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 17时08分]"
-        },
         {
           "title": "伊朗拒停战提议，特朗普警告7日晚动手，美股指“闪跌”但收涨，美油再创近四年新高",
           "url": "https://wallstreetcn.com/articles/3769329",
           "source": "华尔街见闻",
           "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时43分 ~ 17时08分]"
-        },
-        {
-          "title": "金十图示：2026年04月06日（周一）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260407003239064800",
-          "source": "金十数据",
-          "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时54分"
+          "time_info": "01时04分"
         },
         {
-          "title": "金十图示：2026年04月06日（周一）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260407003200754800",
-          "source": "金十数据",
+          "title": "伊朗不再推进停火谈判，美股跌幅扩大，油价攀升，黄金转跌",
+          "url": "https://wallstreetcn.com/articles/3769370",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时54分"
-        },
-        {
-          "title": "美股收盘：标普纳指连涨四天 存储概念走强希捷收新高",
-          "url": "https://www.cls.cn/detail/2335967",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时43分"
-        },
-        {
-          "title": "原油拉升，黄金失守4610美元，美股期指集体下挫",
-          "url": "https://www.cls.cn/detail/2335643",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时43分"
+          "time_info": "01时04分"
         }
       ]
     },
     {
-      "keyword_group": "社会新闻 泉州 福建",
-      "match_count": 3,
+      "keyword_group": "金价",
+      "match_count": 1,
       "titles": [
         {
-          "title": "福建长汀一车辆坠河致5人死亡",
-          "url": "https://www.toutiao.com/trending/7625823563957685803/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时43分"
-        },
-        {
-          "title": "福建长汀一车辆坠河致5人死亡",
-          "url": "https://www.baidu.com/s?wd=%E7%A6%8F%E5%BB%BA%E9%95%BF%E6%B1%80%E4%B8%80%E8%BD%A6%E8%BE%86%E5%9D%A0%E6%B2%B3%E8%87%B45%E4%BA%BA%E6%AD%BB%E4%BA%A1",
-          "source": "百度热搜",
+          "title": "央行抛售引发金价地震",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A1%8C%E6%8A%9B%E5%94%AE%E5%BC%95%E5%8F%91%E9%87%91%E4%BB%B7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
           "ranks": [
             24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时43分"
-        },
+          "time_info": "01时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "福建一车辆发生事故坠河5人死亡",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA%E4%B8%80%E8%BD%A6%E8%BE%86%E5%8F%91%E7%94%9F%E4%BA%8B%E6%95%85%E5%9D%A0%E6%B2%B35%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
+          "title": "纳斯达克100指数跌幅收窄至不足1%。 WTI原油5分钟内下跌0.52美元/桶，报114.61美元/桶。 布伦特原油5分钟内下跌0.51美元/桶，报109.6美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3083619",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            29
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时43分"
+          "time_info": "01时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "NBA 篮球",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "马龙放弃NBA帅位执教大学明智吗",
+          "url": "https://www.toutiao.com/trending/7625744970846191658/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时04分"
         }
       ]
     }
