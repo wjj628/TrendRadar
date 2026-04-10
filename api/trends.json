@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-10T10:50:52.974007+08:00",
-  "total_titles_processed": 543,
+  "generated_at": "2026-04-10T17:15:12.554568+08:00",
+  "total_titles_processed": 773,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
         },
@@ -70,9 +70,26 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "NBA 篮球",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "2526 赛季 NBA 常规赛湖人 119:103 勇士，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/2025879729664705137",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时14分 ~ 17时15分]"
         }
       ]
     }
