@@ -1,108 +1,78 @@
 {
-  "generated_at": "2026-04-11T16:51:12.503866+08:00",
-  "total_titles_processed": 727,
+  "generated_at": "2026-04-12T00:41:35.308396+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 2,
       "titles": [
         {
           "title": "美股收盘：芯片股走强纳指八连升 道指标普回落仍周涨超3%",
           "url": "https://www.cls.cn/detail/2341126",
           "source": "财联社热门",
           "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时34分 ~ 16时51分]"
-        },
-        {
-          "title": "美股巨震",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E5%B7%A8%E9%9C%87%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时50分 ~ 16时51分]"
-        },
-        {
-          "title": "金十图示：2026年04月10日（周五）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260411003357698800",
-          "source": "金十数据",
-          "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时55分"
+          "time_info": "00时41分"
         },
         {
-          "title": "金十图示：2026年04月10日（周五）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260411003343083800",
-          "source": "金十数据",
+          "title": "李大霄解读美股单周表现",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%A7%A3%E8%AF%BB%E7%BE%8E%E8%82%A1%E5%8D%95%E5%91%A8%E8%A1%A8%E7%8E%B0",
+          "source": "bilibili 热搜",
           "ranks": [
-            8
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时55分"
+          "time_info": "00时41分"
         }
       ]
     },
     {
       "keyword_group": "英超 足球",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "中青赛爆严重虚假比赛事件，新华时评：别让功利主义毁掉中国足球的未来",
           "url": "https://m.thepaper.cn/newsDetail_forward_32947289",
           "source": "澎湃新闻",
           "ranks": [
-            18,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时34分 ~ 16时51分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "NBA 篮球",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "2526 赛季 NBA 常规赛勇士 118:124 国王，如何评价这场比赛？",
-          "url": "https://www.zhihu.com/question/2026242205841401656",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时50分 ~ 16时51分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "github",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI：事件的根本原因是GitHub Actions工作流中的配置错误，已予以解决。",
-          "url": "https://flash.jin10.com/detail/20260411094831132800",
-          "source": "金十数据",
-          "ranks": [
-            6
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时35分"
+          "time_info": "00时41分"
+        },
+        {
+          "title": "2526 赛季英超联赛英超第 32 轮阿森纳 1:2 伯恩茅斯，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/2026382130578559702",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "社会新闻 泉州 福建",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "四川舰福建舰能否联合运用",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%9B%E5%B7%9D%E8%88%B0%E7%A6%8F%E5%BB%BA%E8%88%B0%E8%83%BD%E5%90%A6%E8%81%94%E5%90%88%E8%BF%90%E7%94%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时41分"
         }
       ]
     }
