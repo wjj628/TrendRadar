@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-04-11T00:55:56.689475+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-04-11T10:35:01.584914+08:00",
+  "total_titles_processed": 515,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "美股收盘：芯片股走强纳指八连升 道指标普回落仍周涨超3%",
+          "url": "https://www.cls.cn/detail/2341126",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时34分 ~ 10时35分]"
+        },
         {
           "title": "金十图示：2026年04月10日（周五）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260411003357698800",
@@ -28,6 +39,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "英超 足球",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中青赛爆严重虚假比赛事件，新华时评：别让功利主义毁掉中国足球的未来",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32947289",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时34分 ~ 10时35分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "github",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI：事件的根本原因是GitHub Actions工作流中的配置错误，已予以解决。",
+          "url": "https://flash.jin10.com/detail/20260411094831132800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时35分"
         }
       ]
     }
