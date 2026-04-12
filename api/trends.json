@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-04-12T10:54:37.832119+08:00",
-  "total_titles_processed": 514,
+  "generated_at": "2026-04-12T16:54:57.060597+08:00",
+  "total_titles_processed": 720,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "李大霄解读美股单周表现",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%A7%A3%E8%AF%BB%E7%BE%8E%E8%82%A1%E5%8D%95%E5%91%A8%E8%A1%A8%E7%8E%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 16时54分]"
+        },
         {
           "title": "美股收盘：芯片股走强纳指八连升 道指标普回落仍周涨超3%",
           "url": "https://www.cls.cn/detail/2341126",
@@ -20,16 +33,15 @@
           "time_info": "[00时41分 ~ 10时54分]"
         },
         {
-          "title": "李大霄解读美股单周表现",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%A7%A3%E8%AF%BB%E7%BE%8E%E8%82%A1%E5%8D%95%E5%91%A8%E8%A1%A8%E7%8E%B0",
-          "source": "bilibili 热搜",
+          "title": "环球下周看点：中东两周停火暂稳市场 美股财报季检验盈利韧性",
+          "url": "https://www.cls.cn/detail/2341358",
+          "source": "财联社热门",
           "ranks": [
-            15,
-            12
+            13
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 10时54分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
         }
       ]
     },
@@ -63,7 +75,7 @@
     },
     {
       "keyword_group": "社会新闻 泉州 福建",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "四川舰福建舰能否联合运用",
@@ -75,6 +87,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
+        },
+        {
+          "title": "如何评价泉州实习律师因转所、社保等纠纷状告律所胜诉后，遭律所主任在百人律师群公开指责、扬言封杀一事？",
+          "url": "https://www.zhihu.com/question/2025986895683871916",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
         }
       ]
     }
