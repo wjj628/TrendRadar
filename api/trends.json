@@ -1,103 +1,39 @@
 {
-  "generated_at": "2026-04-12T16:54:57.060597+08:00",
-  "total_titles_processed": 720,
+  "generated_at": "2026-04-13T00:43:42.888117+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
           "title": "李大霄解读美股单周表现",
           "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%A7%A3%E8%AF%BB%E7%BE%8E%E8%82%A1%E5%8D%95%E5%91%A8%E8%A1%A8%E7%8E%B0",
           "source": "bilibili 热搜",
           "ranks": [
-            15,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 16时54分]"
-        },
-        {
-          "title": "美股收盘：芯片股走强纳指八连升 道指标普回落仍周涨超3%",
-          "url": "https://www.cls.cn/detail/2341126",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 10时54分]"
-        },
-        {
-          "title": "环球下周看点：中东两周停火暂稳市场 美股财报季检验盈利韧性",
-          "url": "https://www.cls.cn/detail/2341358",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "英超 足球",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "中青赛爆严重虚假比赛事件，新华时评：别让功利主义毁掉中国足球的未来",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32947289",
-          "source": "澎湃新闻",
-          "ranks": [
-            5
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时41分"
-        },
-        {
-          "title": "2526 赛季英超联赛英超第 32 轮阿森纳 1:2 伯恩茅斯，如何评价这场比赛？",
-          "url": "https://www.zhihu.com/question/2026382130578559702",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
+          "time_info": "00时43分"
         }
       ]
     },
     {
       "keyword_group": "社会新闻 泉州 福建",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "四川舰福建舰能否联合运用",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9B%9B%E5%B7%9D%E8%88%B0%E7%A6%8F%E5%BB%BA%E8%88%B0%E8%83%BD%E5%90%A6%E8%81%94%E5%90%88%E8%BF%90%E7%94%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
-        },
         {
           "title": "如何评价泉州实习律师因转所、社保等纠纷状告律所胜诉后，遭律所主任在百人律师群公开指责、扬言封杀一事？",
           "url": "https://www.zhihu.com/question/2025986895683871916",
           "source": "知乎",
           "ranks": [
-            4
+            1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时54分"
+          "time_info": "00时43分"
         }
       ]
     }
