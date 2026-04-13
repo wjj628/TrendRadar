@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-13T00:43:42.888117+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-13T10:58:48.810742+08:00",
+  "total_titles_processed": 532,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,29 @@
           "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%A7%A3%E8%AF%BB%E7%BE%8E%E8%82%A1%E5%8D%95%E5%91%A8%E8%A1%A8%E7%8E%B0",
           "source": "bilibili 热搜",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 10时58分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "英超 足球",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "2526 赛季英超联赛英超第 32 轮切尔西 0:3 曼城，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/2026805186979460745",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时43分"
+          "time_info": "10时58分"
         }
       ]
     },
