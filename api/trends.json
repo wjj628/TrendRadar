@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-04-14T01:07:31.571288+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-04-14T10:52:00.700349+08:00",
+  "total_titles_processed": 525,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "美股收盘：标普纳指均涨超1% 高速互联、存储、CPU牛股领涨",
+          "url": "https://www.cls.cn/detail/2342867",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时51分 ~ 10时52分]"
+        },
         {
           "title": "美国“封锁”逼近，美股指低开，石油股上涨，布油破百，黄金回调，铝价四年新高",
           "url": "https://wallstreetcn.com/articles/3769784",
@@ -17,6 +28,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "英超 足球",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "2526 赛季英超联赛英超第 32 轮曼联 1:2 利兹联，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/2027220594530197653",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时51分 ~ 10时52分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "NBA 篮球",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "东契奇再度加冕NBA常规赛得分王",
+          "url": "https://www.toutiao.com/trending/7627364427792728118/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时51分 ~ 10时52分]"
         }
       ]
     }
