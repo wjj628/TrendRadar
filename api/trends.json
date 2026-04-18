@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-18T00:58:04.408580+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-18T10:43:52.300011+08:00",
+  "total_titles_processed": 526,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "一图看懂 | A股七姐妹vs美股七姐妹，今年谁更能涨？",
@@ -30,15 +30,27 @@
           "time_info": "[00时57分 ~ 00时58分]"
         },
         {
+          "title": "美股收盘：纳指13连涨 追平1992年以来最长连涨纪录",
+          "url": "https://www.cls.cn/detail/2348129",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时42分 ~ 10时43分]"
+        },
+        {
           "title": "美股三大期指集体走高 奈飞盘前大跌近10% | 今夜看点",
           "url": "https://www.cls.cn/detail/2347815",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 00时58分]"
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 10时43分]"
         },
         {
           "title": "金十图示：2026年04月17日（周五）美股热门股票行情一览（美股盘中）",
@@ -47,7 +59,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时58分"
         },
@@ -58,7 +70,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时58分"
         }
@@ -69,22 +81,23 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "宜兴小学生篮球赛现1米88小巨人",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%9C%E5%85%B4%E5%B0%8F%E5%AD%A6%E7%94%9F%E7%AF%AE%E7%90%83%E8%B5%9B%E7%8E%B01%E7%B1%B388%E5%B0%8F%E5%B7%A8%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 10时43分]"
+        },
+        {
           "title": "组织僧众集中观看NBA？少林寺回应",
           "url": "https://www.baidu.com/s?wd=%E7%BB%84%E7%BB%87%E5%83%A7%E4%BC%97%E9%9B%86%E4%B8%AD%E8%A7%82%E7%9C%8BNBA%EF%BC%9F%E5%B0%91%E6%9E%97%E5%AF%BA%E5%9B%9E%E5%BA%94",
           "source": "百度热搜",
           "ranks": [
             21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 00时58分]"
-        },
-        {
-          "title": "宜兴小学生篮球赛现1米88小巨人",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%9C%E5%85%B4%E5%B0%8F%E5%AD%A6%E7%94%9F%E7%AF%AE%E7%90%83%E8%B5%9B%E7%8E%B01%E7%B1%B388%E5%B0%8F%E5%B7%A8%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            25
           ],
           "is_new": false,
           "appearance_count": 2,
