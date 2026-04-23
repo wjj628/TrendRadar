@@ -1,166 +1,50 @@
 {
-  "generated_at": "2026-04-23T17:48:21.140733+08:00",
-  "total_titles_processed": 774,
+  "generated_at": "2026-04-24T01:24:43.579422+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 2,
       "titles": [
         {
-          "title": "美股收盘：纳指涨1.64%创历史新高 中东停火延长及稳健财报提振市场情绪",
-          "url": "https://www.cls.cn/detail/2352859",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时54分 ~ 10时55分]"
-        },
-        {
-          "title": "伊朗停火谈判生变，美股收跌，芯片股指十五连涨，油价再涨，金银下挫",
-          "url": "https://wallstreetcn.com/articles/3770463",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
-        },
-        {
-          "title": "地缘缓和叠加强劲财报，美股指高开，费城半导体指数连续第16天上涨，布油重回100美元、黄金涨幅回落",
-          "url": "https://wallstreetcn.com/articles/3770587",
+          "title": "美伊局势升温，美股低开，特斯拉跌4%，金银下跌，油价涨超1%",
+          "url": "https://wallstreetcn.com/articles/3770666",
           "source": "华尔街见闻",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时14分"
+          "time_info": "01时24分"
         },
         {
-          "title": "金十图示：2026年04月22日（周三）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260423003201816800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
-        },
-        {
-          "title": "金十图示：2026年04月22日（周三）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260423003117950800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
-        },
-        {
-          "title": "特朗普延长对伊朗停火 美股三大期指小幅上涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2352533",
+          "title": "中东局势再搅市场 油价站上103美元 美股三大期指走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2353918",
           "source": "财联社热门",
           "ranks": [
-            8
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时14分"
-        },
-        {
-          "title": "好未来第四季度净营收8.024亿美元，预估7.79亿美元。 第四季度调整后每ADS收益 0.45美元，预估0.11美元。 第四季度毛利率53.2％，预估55.5％。 好未来美股盘前微涨。",
-          "url": "https://wallstreetcn.com/livenews/3093195",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时48分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "【早报】 白宫：特朗普未就与伊朗停火延长设最后期限；美股、油价、金价同步上涨",
-          "url": "https://www.cls.cn/detail/2352894",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时54分 ~ 10时55分]"
-        },
-        {
-          "title": "金银比低位震荡暗示多头未死，金价陷最不利组合紧盯三大变数",
-          "url": "https://flash.jin10.com/detail/20260423103858464800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时55分"
-        },
-        {
-          "title": "金十图示：2026年04月23日（周四）上海金早盘价为1037.96元/克，较国际金价(1035.65元/克)，高2.31元/克",
-          "url": "https://flash.jin10.com/detail/20260423103630346800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时55分"
+          "time_info": "01时24分"
         }
       ]
     },
     {
       "keyword_group": "社会新闻 泉州 福建",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "福建闽超宣传片有多夯",
-          "url": "https://search.bilibili.com/all?keyword=%E7%A6%8F%E5%BB%BA%E9%97%BD%E8%B6%85%E5%AE%A3%E4%BC%A0%E7%89%87%E6%9C%89%E5%A4%9A%E5%A4%AF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时54分 ~ 10时55分]"
-        },
-        {
-          "title": "AI再现黄海海战 福建舰北洋水师同框",
-          "url": "https://www.toutiao.com/trending/7630692654993227818/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时48分"
-        },
         {
           "title": "人民海军成立77周年丨“吉野号已击毁”！AI让福建舰与北洋水师同框",
           "url": "https://m.thepaper.cn/newsDetail_forward_33032397",
           "source": "澎湃新闻",
           "ranks": [
-            13
+            5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时48分"
+          "time_info": "01时24分"
         }
       ]
     },
@@ -169,15 +53,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "NBA活塞击败魔术",
-          "url": "https://www.douyin.com/hot/2475848",
-          "source": "抖音",
+          "title": "老李船长回归篮球老本行",
+          "url": "https://search.bilibili.com/all?keyword=%E8%80%81%E6%9D%8E%E8%88%B9%E9%95%BF%E5%9B%9E%E5%BD%92%E7%AF%AE%E7%90%83%E8%80%81%E6%9C%AC%E8%A1%8C",
+          "source": "bilibili 热搜",
           "ranks": [
-            17
+            2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时48分"
+          "time_info": "01时24分"
         }
       ]
     }
