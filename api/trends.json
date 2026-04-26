@@ -1,61 +1,7 @@
 {
-  "generated_at": "2026-04-26T17:06:03.063246+08:00",
-  "total_titles_processed": 731,
+  "generated_at": "2026-04-27T00:51:09.466141+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美司法部撤销对鲍威尔的刑事调查，为沃什提名铺路，两年期美债收益率跌幅扩大",
-          "url": "https://wallstreetcn.com/articles/3770852",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股收盘：美伊和谈将重启 标普、纳指再创新高 英伟达市值突破5万亿美元",
-          "url": "https://www.cls.cn/detail/2355589",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时50分 ~ 17时06分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "NBA 篮球",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "NBA最激烈的MVP之争",
-          "url": "https://www.douyin.com/hot/2479423",
-          "source": "抖音",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时05分 ~ 17时06分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://github.com/wjj628/TrendRadar/img/news.jpg"
 }
