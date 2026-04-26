@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T11:22:35.075167+08:00",
-  "total_titles_processed": 534,
+  "generated_at": "2026-04-26T17:06:03.063246+08:00",
+  "total_titles_processed": 731,
   "failed_sources": [],
   "trends": [
     {
@@ -30,11 +30,29 @@
           "source": "财联社热门",
           "ranks": [
             2,
-            5
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时50分 ~ 17时06分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "NBA 篮球",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "NBA最激烈的MVP之争",
+          "url": "https://www.douyin.com/hot/2479423",
+          "source": "抖音",
+          "ranks": [
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时50分 ~ 11时22分]"
+          "time_info": "[17时05分 ~ 17时06分]"
         }
       ]
     }
