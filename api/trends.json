@@ -1,213 +1,72 @@
 {
-  "generated_at": "2026-05-02T17:11:49.909352+08:00",
-  "total_titles_processed": 740,
+  "generated_at": "2026-05-03T00:54:37.910232+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股",
-      "match_count": 10,
+      "keyword_group": "社会新闻 泉州 福建",
+      "match_count": 4,
       "titles": [
         {
-          "title": "金十图示：2026年05月01日（周五）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260502003124139800",
-          "source": "金十数据",
+          "title": "福州1-0战胜泉州",
+          "url": "https://www.baidu.com/s?wd=%E7%A6%8F%E5%B7%9E1-0%E6%88%98%E8%83%9C%E6%B3%89%E5%B7%9E",
+          "source": "百度热搜",
           "ranks": [
-            1
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时01分"
+          "time_info": "00时54分"
         },
         {
-          "title": "伊朗提新谈判方案，美股高开高走，苹果绩后一度涨近6%，美油盘中跌超5%",
-          "url": "https://wallstreetcn.com/articles/3771459",
-          "source": "华尔街见闻",
+          "title": "媒体：泉州一高校因学生走路看手机劝退学生还辞退4名教师？各方回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33092359",
+          "source": "澎湃新闻",
           "ranks": [
-            4
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时01分"
+          "time_info": "00时54分"
         },
         {
-          "title": "美股收盘：标普纳指再创新高 谷歌劲升10%闪迪盘后重挫",
-          "url": "https://www.cls.cn/detail/2361634",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 10时57分]"
-        },
-        {
-          "title": "谷歌、卡特彼勒成“大赢家”，AI和财报压倒战争，4月的美股创2020年以来最强",
-          "url": "https://wallstreetcn.com/articles/3771451",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 10时57分]"
-        },
-        {
-          "title": "美股总市值突破 75 万亿美元，创历史新高，主要受哪些因素拉动？如何解读这一市值？",
-          "url": "https://www.zhihu.com/question/2033586111524468458",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时57分"
-        },
-        {
-          "title": "美股存储芯片指数涨3.5%创收盘历史新高，成分股闪迪、希捷、美光领跑",
-          "url": "https://wallstreetcn.com/livenews/3098084",
-          "source": "华尔街见闻-快讯",
+          "title": "闽超福州1:0泉州",
+          "url": "https://www.douyin.com/hot/2486970",
+          "source": "抖音",
           "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时57分"
+          "time_info": "00时54分"
         },
         {
-          "title": "美股七巨头收盘播报｜周五（5月1日），美国科技股七巨头（Magnificent 7）指数涨1.01%，报215.12点，早盘曾达到216.83点——突破4月27日所创收盘历史最高位215.24点，本周累计上涨0.91%。 “超大”市值科技股指数涨1.26%，报426.01点，突破2025年10月29日所创收盘历史最高位422.72点，刷新盘中历史高位至428.31点，本周累涨1.08%。",
-          "url": "https://wallstreetcn.com/livenews/3098081",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时57分"
-        },
-        {
-          "title": "游戏驿站（GME）美股盘后涨4%，报道称该公司考虑收购eBay。 eBay盘后涨幅扩大至13%。",
-          "url": "https://wallstreetcn.com/livenews/3098073",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时57分"
-        },
-        {
-          "title": "金十图示：2026年05月01日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260502040603336800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时57分"
-        },
-        {
-          "title": "金十图示：2026年05月01日（周五）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260502040600017800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "狼终于来了！日本两年来首度干预，日元飙升，油价、美股和美债“联动”",
-          "url": "https://wallstreetcn.com/articles/3771452",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 10时57分]"
-        },
-        {
-          "title": "短端美债收益率本周累涨约10个基点",
-          "url": "https://wallstreetcn.com/livenews/3098066",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "NBA 篮球",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "2526 赛季 NBA 季后赛湖人 98:78 火箭，如何评价这场比赛？",
-          "url": "https://www.zhihu.com/question/2033846615329477386",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时11分"
-        },
-        {
-          "title": "NBA西部半决赛对阵出炉",
-          "url": "https://www.toutiao.com/trending/7634892725925838857/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "油轮期货指数ETF收涨6.64%，报174.18美元，突破4月9日所创收盘历史最高位169.97美元、逼近当天所创盘中历史最高位179.8999美元，本周累计上涨24.62%。",
-          "url": "https://wallstreetcn.com/livenews/3098085",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "社会新闻 泉州 福建",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "闽超泉州官宣赵文卓：把郑成功请来了",
-          "url": "https://www.baidu.com/s?wd=%E9%97%BD%E8%B6%85%E6%B3%89%E5%B7%9E%E5%AE%98%E5%AE%A3%E8%B5%B5%E6%96%87%E5%8D%93%EF%BC%9A%E6%8A%8A%E9%83%91%E6%88%90%E5%8A%9F%E8%AF%B7%E6%9D%A5%E4%BA%86",
+          "title": "闽超泉州主场赵文卓再现“郑成功”",
+          "url": "https://www.baidu.com/s?wd=%E9%97%BD%E8%B6%85%E6%B3%89%E5%B7%9E%E4%B8%BB%E5%9C%BA%E8%B5%B5%E6%96%87%E5%8D%93%E5%86%8D%E7%8E%B0%E2%80%9C%E9%83%91%E6%88%90%E5%8A%9F%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
-            7
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时57分"
+          "time_info": "00时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美股收盘：三大内存股收创纪录 标普纳指连两日刷新高",
+          "url": "https://www.cls.cn/detail/2362019",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时54分"
         }
       ]
     }
