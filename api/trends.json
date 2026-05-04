@@ -1,83 +1,33 @@
 {
-  "generated_at": "2026-05-04T18:17:14.649683+08:00",
-  "total_titles_processed": 762,
+  "generated_at": "2026-05-05T01:44:30.293540+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美银Hartnett：这轮美股上涨靠财政和AI撑着，一旦融资成本上升，市场可能反转",
-          "url": "https://wallstreetcn.com/articles/3771507",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时32分 ~ 11时33分]"
-        },
-        {
-          "title": "美股期货短线跳水，纳指期货跌近0.5%；美国国债下跌，2年期国债收益率上升5个基点至3.93%。 国际原油短线拉升，布油涨幅扩大至3%。 现货黄金回落至4550美元/盎司下方。",
-          "url": "https://wallstreetcn.com/livenews/3098462",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时17分"
-        },
-        {
-          "title": "巴菲特谈美股投机风气",
-          "url": "https://search.bilibili.com/all?keyword=%E5%B7%B4%E8%8F%B2%E7%89%B9%E8%B0%88%E7%BE%8E%E8%82%A1%E6%8A%95%E6%9C%BA%E9%A3%8E%E6%B0%94",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时32分 ~ 11时33分]"
-        },
-        {
-          "title": "美股盘前，存储芯片概念股走高，美光科技涨超3%，闪迪涨超3%，西部数据涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/3098437",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "NBA 篮球",
+      "keyword_group": "美元",
       "match_count": 2,
       "titles": [
         {
-          "title": "2526 赛季 NBA 季后赛魔术 94:116 活塞，如何评价这场比赛？",
-          "url": "https://www.zhihu.com/question/2034478130858042210",
-          "source": "知乎",
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨0.82%，暂报2640.13点，北京时间10:00前后显著拉升，18:00显著跳水。 MarketVectorTM数字资产100中盘指数涨1.08%，报2837.48点。 MarketVector数字资产100指数涨1.42%，报15669.37点。 目前，Solana涨0.15%，狗狗币涨1.83%，XRP涨0.39%。 比特币涨1.64%，暂报80048.10美元；以太坊涨0.96%，暂报2356.34美元。",
+          "url": "https://wallstreetcn.com/livenews/3098567",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时32分 ~ 11时33分]"
+          "appearance_count": 1,
+          "time_info": "01时44分"
         },
         {
-          "title": "NBA首现季后赛同一轮两队均1-3逆转",
-          "url": "https://www.toutiao.com/trending/7635333504461193267/",
-          "source": "今日头条",
+          "title": "彭博美元指数涨0.3%，刷新日高。",
+          "url": "https://wallstreetcn.com/livenews/3098558",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时32分 ~ 11时33分]"
+          "appearance_count": 1,
+          "time_info": "01时44分"
         }
       ]
     },
@@ -86,15 +36,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "金价又又又跌了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%8F%88%E5%8F%88%E5%8F%88%E8%B7%8C%E4%BA%86%23&t=31&band_rank=19&Refer=top",
+          "title": "金价银价又大跌了",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E5%8F%88%E5%A4%A7%E8%B7%8C%E4%BA%86&t=31&band_rank=25&Refer=top",
           "source": "微博",
           "ranks": [
-            19
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时16分 ~ 18时17分]"
+          "appearance_count": 1,
+          "time_info": "01时44分"
         }
       ]
     },
@@ -107,28 +57,28 @@
           "url": "https://wallstreetcn.com/articles/3771530",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时16分 ~ 18时17分]"
+          "appearance_count": 1,
+          "time_info": "01时44分"
         }
       ]
     },
     {
-      "keyword_group": "社会新闻 泉州 福建",
+      "keyword_group": "美股",
       "match_count": 1,
       "titles": [
         {
-          "title": "如何评价福建泉州某职业技术大学，学生因为走路玩手机被劝退？",
-          "url": "https://www.zhihu.com/question/2033604089888646898",
-          "source": "知乎",
+          "title": "回应特朗普“引导行动”！伊朗发射导弹击退美国军舰，油价应声大涨，美股期货跳水",
+          "url": "https://wallstreetcn.com/articles/3771543",
+          "source": "华尔街见闻",
           "ranks": [
-            5
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时32分 ~ 11时33分]"
+          "appearance_count": 1,
+          "time_info": "01时44分"
         }
       ]
     }
