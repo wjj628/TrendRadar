@@ -1,7 +1,81 @@
 {
-  "generated_at": "2026-05-04T00:56:26.147245+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-05-04T11:33:01.394423+08:00",
+  "total_titles_processed": 540,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美银Hartnett：这轮美股上涨靠财政和AI撑着，一旦融资成本上升，市场可能反转",
+          "url": "https://wallstreetcn.com/articles/3771507",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时32分 ~ 11时33分]"
+        },
+        {
+          "title": "巴菲特谈美股投机风气",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B7%B4%E8%8F%B2%E7%89%B9%E8%B0%88%E7%BE%8E%E8%82%A1%E6%8A%95%E6%9C%BA%E9%A3%8E%E6%B0%94",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时32分 ~ 11时33分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "NBA 篮球",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "2526 赛季 NBA 季后赛魔术 94:116 活塞，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/2034478130858042210",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时32分 ~ 11时33分]"
+        },
+        {
+          "title": "NBA首现季后赛同一轮两队均1-3逆转",
+          "url": "https://www.toutiao.com/trending/7635333504461193267/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时32分 ~ 11时33分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "社会新闻 泉州 福建",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何评价福建泉州某职业技术大学，学生因为走路玩手机被劝退？",
+          "url": "https://www.zhihu.com/question/2033604089888646898",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时32分 ~ 11时33分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://github.com/wjj628/TrendRadar/img/news.jpg"
 }
