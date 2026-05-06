@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-05-06T01:39:35.031372+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-05-06T11:32:03.767986+08:00",
+  "total_titles_processed": 536,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "美股收盘：标普、纳指再创新高 美光、英特尔涨幅均超10%",
+          "url": "https://www.cls.cn/detail/2363187",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时31分 ~ 11时32分]"
+        },
         {
           "title": "美股收盘：美伊交火三大指数悉数收跌 存储四巨头逆势创新高",
           "url": "https://www.cls.cn/detail/2362725",
@@ -17,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时39分"
+        },
+        {
+          "title": "美伊停火协议愈发脆弱 美股因强劲财报季重拾乐观情绪 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2362959",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时31分 ~ 11时32分]"
         },
         {
           "title": "美伊局势暂趋缓和，美股期指齐涨，半导体股走强，英特尔涨超4%，WTI油价跌超2%",
@@ -66,7 +88,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "金价跳水是机会还是坑",
@@ -78,13 +100,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时39分"
+        },
+        {
+          "title": "金十图示：2026年05月06日（周三）上海金早盘价为1019.48元/克，较国际金价(1017.22元/克)高2.26元/克",
+          "url": "https://flash.jin10.com/detail/20260506110402550800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时32分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "30年期美债冲破5%！华尔街已纷纷拉响警报",
+          "url": "https://www.cls.cn/detail/2363061",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时31分 ~ 11时32分]"
+        },
         {
           "title": "油价助推，30年美债收益率突破5%，美财政部上调季度发债预期，周三将迎“美债重磅”",
           "url": "https://wallstreetcn.com/articles/3771562",
@@ -95,6 +139,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "NBA 篮球",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "2526 赛季 NBA 季后赛骑士 101:111 活塞，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/2035255317936747681",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时31分 ~ 11时32分]"
+        },
+        {
+          "title": "2526 赛季 NBA 季后赛湖人 90:108 雷霆，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/2035279308302841816",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时31分 ~ 11时32分]"
         }
       ]
     }
