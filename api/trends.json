@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-05-09T01:23:18.149844+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2026-05-09T11:25:24.992782+08:00",
+  "total_titles_processed": 545,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "非农缓解“滞胀”担忧，美股新高，英特尔和存储芯片股暴涨，Rocket Lab绩后涨34%",
+          "url": "https://wallstreetcn.com/articles/3771825",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
+        },
+        {
+          "title": "美股收盘：标普纳指周线6连阳 存储、CPU四大牛股均涨超10%",
+          "url": "https://www.cls.cn/detail/2366633",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
+        },
         {
           "title": "美伊和谈疑云压制风险情绪，美股指收跌，油价走V，离岸人民币盘中创四年新高",
           "url": "https://wallstreetcn.com/articles/3771708",
