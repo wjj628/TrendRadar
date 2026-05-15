@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-15T18:30:51.734791+08:00",
-  "total_titles_processed": 779,
+  "generated_at": "2026-05-16T01:42:54.486362+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
@@ -8,93 +8,87 @@
       "match_count": 5,
       "titles": [
         {
-          "title": "美股收盘：纳指、标普500指数再创新高 英伟达市值逼近6万亿美元",
-          "url": "https://www.cls.cn/detail/2371819",
-          "source": "财联社热门",
+          "title": "全球长债收益率飙升，美股走低，纳指跌2%，英伟达跌4%，白银大跌9%，黄金跌3%",
+          "url": "https://wallstreetcn.com/articles/3772341",
+          "source": "华尔街见闻",
           "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时45分 ~ 11时46分]"
-        },
-        {
-          "title": "美股费城半导体指数转跌，标普500指数涨幅收窄至0.6%，道指涨323点涨幅收窄至0.65%，纳指涨0.63%。",
-          "url": "https://wallstreetcn.com/livenews/3103852",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时55分"
+          "time_info": "01时42分"
         },
         {
-          "title": "美股三大期指集体走高 思科盘前大涨15% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2371660",
-          "source": "财联社热门",
+          "title": "数字货币市场周五走低，比特币在美股开盘时加速下跌",
+          "url": "https://wallstreetcn.com/livenews/3104567",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时54分 ~ 01时55分]"
+          "appearance_count": 1,
+          "time_info": "01时42分"
         },
         {
-          "title": "AI热潮推动美股走高，标普纳指又新高，盘中英伟达涨近5%、思科涨近20%，中概回落",
-          "url": "https://wallstreetcn.com/articles/3772269",
-          "source": "华尔街见闻",
+          "title": "金十图示：2026年05月15日（周五）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260516004043249800",
+          "source": "金十数据",
           "ranks": [
-            8
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时54分 ~ 01时55分]"
+          "appearance_count": 1,
+          "time_info": "01时42分"
         },
         {
-          "title": "美股光通信妖股POET暴涨超30% 披露光引擎采购大单",
-          "url": "https://www.cls.cn/detail/2371779",
-          "source": "财联社热门",
+          "title": "金十图示：2026年05月15日（周五）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260516004017362800",
+          "source": "金十数据",
           "ranks": [
-            9
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时45分 ~ 11时46分]"
+          "appearance_count": 1,
+          "time_info": "01时42分"
+        },
+        {
+          "title": "美银策略师：6月初将是美股获利了结的良机",
+          "url": "https://wallstreetcn.com/livenews/3104548",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时42分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
-          "title": "长债抛售警报响：30年期美债标售得标利率自07年金融危机以来首次升破5.0%",
-          "url": "https://wallstreetcn.com/articles/3772216",
+          "title": "黑色星期五！全球股债双杀：韩股暴跌6%，美债收益率飙升，这次市场在怕什么？",
+          "url": "https://wallstreetcn.com/articles/3772362",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时54分 ~ 01时55分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "NBA 篮球",
-      "match_count": 1,
-      "titles": [
+          "appearance_count": 1,
+          "time_info": "01时42分"
+        },
         {
-          "title": "初中生篮球赛最后4秒超远三分绝杀",
-          "url": "https://www.toutiao.com/trending/7639306251205705778/",
-          "source": "今日头条",
+          "title": "油价与美债收益率齐升 美股期指集体走低 芯片股盘前普跌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2372862",
+          "source": "财联社热门",
           "ranks": [
-            9
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时45分 ~ 11时46分]"
+          "appearance_count": 1,
+          "time_info": "01时42分"
         }
       ]
     }
