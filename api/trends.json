@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-05-17T01:02:29.296532+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-05-17T11:45:20.902274+08:00",
+  "total_titles_processed": 519,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "凯文·沃什上任美联储主席首日，美股全线走低，金银大幅下挫，国际油价拉升，沃什的新政预期有多悲观？",
+          "url": "https://www.zhihu.com/question/2038931746901710643",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
+        },
         {
           "title": "原油大涨掀债市抛售潮，美股回落，英伟达跌超4%，长债收益率创数年新高，金属重挫",
           "url": "https://wallstreetcn.com/articles/3772341",
@@ -23,11 +34,23 @@
           "url": "https://www.cls.cn/detail/2373172",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 11时45分]"
+        },
+        {
+          "title": "环球下周看点：英伟达财报与美联储会议纪要来袭 美股行情迎关键考验",
+          "url": "https://www.cls.cn/detail/2373249",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时02分"
+          "time_info": "11时45分"
         }
       ]
     },
@@ -57,11 +80,12 @@
           "url": "https://www.cls.cn/detail/2373036",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 11时45分]"
         }
       ]
     }
