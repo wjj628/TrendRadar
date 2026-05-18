@@ -1,180 +1,50 @@
 {
-  "generated_at": "2026-05-18T19:47:34.649479+08:00",
-  "total_titles_processed": 790,
+  "generated_at": "2026-05-19T02:04:55.316853+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "美债",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "30年美债没守住5%“生死线”！美银Hartnett：“地狱之门”已打开，6月初是“卖出窗口”",
-          "url": "https://wallstreetcn.com/articles/3772363",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
-        },
-        {
-          "title": "全线雪崩！美债抛售加剧 “债券义警”正倒逼美联储加息？",
-          "url": "https://www.cls.cn/detail/2374021",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时47分"
-        },
-        {
-          "title": "抛美债、买日债--华尔街准备应对“日资回流”",
-          "url": "https://wallstreetcn.com/articles/3772455",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时58分 ~ 11时59分]"
-        },
-        {
-          "title": "美股不祥信号浮现？美债收益率狂飙 一文解析背后三大推手",
-          "url": "https://www.cls.cn/detail/2373864",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时47分"
-        },
-        {
-          "title": "Man Group首席市场策略师Kristina Hooper：日本投资者对当前日债收益率水平充满热情，这将促使更多资金流入日本国内债券市场。但此举将推高其他市场的收益率，尤其会推高美债等资产的收益率。",
-          "url": "https://flash.jin10.com/detail/20260518111033074800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "摩根大通：将2026年平均金价预测从5708美元/盎司下调至5243美元/盎司。 随着下半年需求重新加速，基准预测下仍看好年底金价冲向6000美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3105091",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时59分"
-        },
-        {
-          "title": "摩根大通：因2026年下半年需求重新加速，基本情景仍然预计到年底黄金价格将达到6000美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260518112611087800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时59分"
-        },
-        {
-          "title": "摩根大通：将2026年平均黄金价格预测下调5243美元/盎司，之前为5708美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260518112516148800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时59分"
-        }
-      ]
-    },
     {
       "keyword_group": "美股",
       "match_count": 2,
       "titles": [
         {
-          "title": "国际油价短线下挫，现货黄金、美股期货短线拉升，报道称美国提出暂时豁免伊朗石油制裁",
-          "url": "https://wallstreetcn.com/livenews/3105394",
-          "source": "华尔街见闻-快讯",
+          "title": "美伊局势缓和，美股高开，半导体股普涨，油价回落，黄金小幅上涨",
+          "url": "https://wallstreetcn.com/articles/3772473",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时47分"
+          "time_info": "02时04分"
         },
         {
-          "title": "环球下周看点：英伟达财报与美联储会议纪要来袭 美股行情迎关键考验",
-          "url": "https://www.cls.cn/detail/2373249",
+          "title": "美股迎来史上最大电力并购案 SpaceX概念股盘前走高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2374572",
           "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美债收益率破5%有何影响",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%80%BA%E6%94%B6%E7%9B%8A%E7%8E%87%E7%A0%B45%25%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D",
+          "source": "bilibili 热搜",
           "ranks": [
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "NBA 篮球",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "Shams：亚历山大当选本赛季常规赛 MVP，如何看待亚历山大连续两个赛季获得 NBA 常规赛 MVP？",
-          "url": "https://www.zhihu.com/question/2039465590373475853",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时58分 ~ 11时59分]"
-        },
-        {
-          "title": "亚历山大当选NBA本赛季常规赛MVP",
-          "url": "https://www.toutiao.com/trending/7640860518432902665/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "社会新闻 泉州 福建",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "部分杨梅收购点违规使用防腐剂和甜味剂，福建漳州已开展专项整治",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33191284",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 19时47分]"
+          "appearance_count": 1,
+          "time_info": "02时04分"
         }
       ]
     }
