@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-19T11:53:36.457151+08:00",
-  "total_titles_processed": 540,
+  "generated_at": "2026-05-19T19:23:13.381317+08:00",
+  "total_titles_processed": 780,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美债",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "日本财相放话：如有必要将随时干预日元，但尽量不推高美债收益率",
@@ -14,9 +14,21 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时53分"
+        },
+        {
+          "title": "美国财政部：海外投资者3月所持长期美债估值浮亏高达1421亿美元",
+          "url": "https://wallstreetcn.com/articles/3772572",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时53分 ~ 19时23分]"
         },
         {
           "title": "美债收益率破5%有何影响",
@@ -30,24 +42,13 @@
           "time_info": "02时04分"
         },
         {
-          "title": "美国财政部：海外投资者3月所持长期美债估值浮亏高达1421亿美元",
-          "url": "https://wallstreetcn.com/articles/3772572",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时53分"
-        },
-        {
           "title": "美联储“不得不鹰”？大摩预警：若美债收益率持续飙升 美股恐现“重大回调”",
           "url": "https://www.cls.cn/detail/2374855",
           "source": "财联社热门",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时53分"
         },
@@ -58,9 +59,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时53分"
+        },
+        {
+          "title": "花旗称30年期美债收益率的下一关键位可能在5.5%",
+          "url": "https://wallstreetcn.com/livenews/3105975",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
         }
       ]
     },
@@ -68,6 +80,18 @@
       "keyword_group": "美股",
       "match_count": 5,
       "titles": [
+        {
+          "title": "谈判前景反复无常，油价先跌后涨，美股承压，科技股领跌",
+          "url": "https://wallstreetcn.com/articles/3772473",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时53分 ~ 19时23分]"
+        },
         {
           "title": "美伊局势缓和，美股高开，半导体股普涨，油价回落，黄金小幅上涨",
           "url": "https://wallstreetcn.com/articles/3772473",
@@ -80,24 +104,13 @@
           "time_info": "02时04分"
         },
         {
-          "title": "谈判前景反复无常，油价先跌后涨，美股承压，科技股领跌",
-          "url": "https://wallstreetcn.com/articles/3772473",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时53分"
-        },
-        {
           "title": "【早报】美股存储、半导体板块大跌；特朗普：暂缓对伊打击",
           "url": "https://www.cls.cn/detail/2374806",
           "source": "财联社热门",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时53分"
         },
@@ -108,7 +121,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时53分"
         },
@@ -126,37 +139,31 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 2,
+      "keyword_group": "NBA 篮球",
+      "match_count": 4,
       "titles": [
         {
-          "title": "现货黄金一度跌破4500美元，机构现分歧：摩根大通下调金价预测、高盛仍唱多",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33194540",
-          "source": "澎湃新闻",
+          "title": "2526 赛季 NBA 西决 G1，文班亚马 41 分 24 篮板，马刺 122-115 雷霆，如何评价？",
+          "url": "https://www.zhihu.com/question/2039988480269341041",
+          "source": "知乎",
           "ranks": [
-            5
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时22分 ~ 19时23分]"
         },
         {
-          "title": "金十图示：2026年05月19日（周二）上海金早盘价为999.72元/克，较国际金价(993.94元/克)，高5.78元/克",
-          "url": "https://flash.jin10.com/detail/20260519110202141800",
-          "source": "金十数据",
+          "title": "NBA季后赛马刺力克雷霆",
+          "url": "https://www.douyin.com/hot/2504016",
+          "source": "抖音",
           "ranks": [
-            23
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "NBA 篮球",
-      "match_count": 2,
-      "titles": [
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时22分 ~ 19时23分]"
+        },
         {
           "title": "NBA",
           "url": "https://s.weibo.com/weibo?q=NBA&t=31&band_rank=8&Refer=top",
@@ -164,7 +171,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时53分"
         },
@@ -175,7 +182,64 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "现货黄金一度跌破4500美元，机构现分歧：摩根大通下调金价预测、高盛仍唱多",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33194540",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时53分 ~ 19时23分]"
+        },
+        {
+          "title": "金十图示：2026年05月19日（周二）上海金早盘价为999.72元/克，较国际金价(993.94元/克)，高5.78元/克",
+          "url": "https://flash.jin10.com/detail/20260519110202141800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "社会新闻 泉州 福建",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "福建一国企招聘被质疑“围岗”",
+          "url": "https://www.toutiao.com/trending/7641536780441223204/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时22分 ~ 19时23分]"
+        },
+        {
+          "title": "福建：到2030年全省光电产业集群营收规模超3000亿元 加快推动高速光模块研发",
+          "url": "https://wallstreetcn.com/livenews/3105742",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时53分"
         }
@@ -192,24 +256,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "社会新闻 泉州 福建",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "福建：到2030年全省光电产业集群营收规模超3000亿元 加快推动高速光模块研发",
-          "url": "https://wallstreetcn.com/livenews/3105742",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时53分"
         }
