@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-05-20T02:09:35.400489+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-05-20T11:53:50.913826+08:00",
+  "total_titles_processed": 549,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "美股收盘：三大指数集体走低 光通信概念股逆市走强",
+          "url": "https://www.cls.cn/detail/2376079",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时53分"
+        },
         {
           "title": "谈判前景反复无常，油价先跌后涨，美股承压，科技股领跌",
           "url": "https://wallstreetcn.com/articles/3772473",
@@ -41,6 +52,18 @@
           "time_info": "02时09分"
         },
         {
+          "title": "美银基金经理调查：美股超配程度接近“卖出信号”，30年期收益率恐升破6%",
+          "url": "https://wallstreetcn.com/articles/3772622",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时09分 ~ 11时53分]"
+        },
+        {
           "title": "谷歌年度开发者大会揭幕 半导体板块不振美股持续调整 | 今夜看点",
           "url": "https://www.cls.cn/detail/2375879",
           "source": "财联社热门",
@@ -52,15 +75,15 @@
           "time_info": "02时09分"
         },
         {
-          "title": "美银基金经理调查：美股超配程度接近“卖出信号”，30年期收益率恐升破6%",
-          "url": "https://wallstreetcn.com/articles/3772622",
+          "title": "美股费城半导体指数七日跌幅一度逼近10%，抄底资金开始入场",
+          "url": "https://wallstreetcn.com/articles/3772667",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时09分"
+          "time_info": "11时53分"
         },
         {
           "title": "美股开盘：西部数据、闪迪跌超3%",
@@ -88,7 +111,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "通胀担忧高企，美债收益率持续攀升，美股存储概念股转涨，现货黄金日内跌2%",
@@ -100,6 +123,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时09分"
+        },
+        {
+          "title": "美债上演“投降式大抛售”，高利率阴霾笼罩股市",
+          "url": "https://wallstreetcn.com/articles/3772671",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "NBA 篮球",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "NBA季后赛马刺力克雷霆",
+          "url": "https://www.douyin.com/hot/2504016",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时09分"
+        },
+        {
+          "title": "2526 赛季 NBA 东决 G1，尼克斯 22 分大逆转骑士，哈登 15 分，布伦森 38 分，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/2040344756396487508",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时53分"
         }
       ]
     },
@@ -113,23 +175,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时09分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "NBA 篮球",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "NBA季后赛马刺力克雷霆",
-          "url": "https://www.douyin.com/hot/2504016",
-          "source": "抖音",
-          "ranks": [
-            13
           ],
           "is_new": false,
           "appearance_count": 1,
