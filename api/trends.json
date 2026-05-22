@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-05-22T02:03:24.187487+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-05-22T11:58:11.511850+08:00",
+  "total_titles_processed": 561,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美债",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "伊朗局势主导市场，纳指惊险收涨，道指收创新高，原油冲高转跌，美债走势分化",
+          "url": "https://wallstreetcn.com/articles/3772777",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时57分 ~ 11时58分]"
+        },
         {
           "title": "传美伊最终协议草案达成 美债收益率走低",
           "url": "https://flash.jin10.com/detail/20260522013708820800",
@@ -55,8 +66,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "美股收盘：三大指数齐升道指刷新高 量子概念爆发存储续走强",
+          "url": "https://www.cls.cn/detail/2378488",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时57分 ~ 11时58分]"
+        },
         {
           "title": "美股光伏概念股普遍上涨，逆变器供应商Enphase Energy涨17.46%，SolarEdge涨14.89%，阿特斯太阳能涨7.39%，第一太阳能涨5.63%，大全新能源涨4.69%。",
           "url": "https://wallstreetcn.com/livenews/3107576",
@@ -128,6 +150,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "社会新闻 泉州 福建",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "“福建龙岩拍到野生华南虎”系谣言",
+          "url": "https://www.douyin.com/hot/2507620",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时57分 ~ 11时58分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "NBA 篮球",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "NBA 东决 G2，尼克斯再胜骑士，布朗森 19 分 14 助攻，哈登 18 分 ，大比分 2-0，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/2041069549584437428",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时57分 ~ 11时58分]"
         }
       ]
     }
