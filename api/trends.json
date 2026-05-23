@@ -1,163 +1,61 @@
 {
-  "generated_at": "2026-05-23T17:57:47.075288+08:00",
-  "total_titles_processed": 751,
+  "generated_at": "2026-05-24T01:03:56.501908+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "美股收盘：标普连涨八周道指刷新高 芯片股&量子概念持续走强",
-          "url": "https://www.cls.cn/detail/2379649",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时34分 ~ 17时57分]"
-        },
         {
           "title": "“华尔街最准分析师”警告：巨型IPO恐令美股重蹈百年泡沫史覆辙",
           "url": "https://www.cls.cn/detail/2379735",
           "source": "财联社热门",
           "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时57分"
-        },
-        {
-          "title": "本周美股存储芯片指数涨超3.3%，希捷股价八周超过翻倍",
-          "url": "https://wallstreetcn.com/livenews/3108278",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时34分"
+          "time_info": "01时03分"
         },
         {
-          "title": "美股七巨头收盘播报｜英伟达收跌1.9%，业绩报告发布当周回撤超4.4%",
-          "url": "https://wallstreetcn.com/livenews/3108276",
-          "source": "华尔街见闻-快讯",
+          "title": "美股收盘：标普连涨八周道指刷新高 芯片股&量子概念持续走强",
+          "url": "https://www.cls.cn/detail/2379649",
+          "source": "财联社热门",
           "ranks": [
-            25
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时34分"
+          "time_info": "01时03分"
         },
         {
-          "title": "周五（5月22日），美股降息赢家指数涨0.59%，报80.30点，美联储理事沃勒讲话之际回吐涨幅、美联储主席沃什宣誓就职之后再北京时间01:28显著拉升，本周累计上涨4.96%。 周三至周五持续走高。",
-          "url": "https://wallstreetcn.com/livenews/3108274",
-          "source": "华尔街见闻-快讯",
+          "title": "如何看待美股当前的泡沫",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E7%BE%8E%E8%82%A1%E5%BD%93%E5%89%8D%E7%9A%84%E6%B3%A1%E6%B2%AB",
+          "source": "bilibili 热搜",
           "ranks": [
-            28
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时34分"
-        },
-        {
-          "title": "周五（5月22日），美股超大规模云服务商（Hyperscalers）指数收跌0.34%，报101.35点，本周累计下跌1.18%，整体呈现出平坦的V形走势。 日线图上，指数在3月27日跌至78.05点，随后持续反弹，5月份迄今持续测试100点整数位心理关口。 成分股中，谷歌A收跌1.21%，亚马逊跌0.80%，微软跌0.12%，Meta涨0.47%，甲骨文涨1.22%。",
-          "url": "https://wallstreetcn.com/livenews/3108281",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时34分"
+          "time_info": "01时03分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
           "title": "科技股力撑美股走强，道指新高，标普连涨八周，沃勒鹰派措辞打压美债，原油宽幅震荡",
           "url": "https://wallstreetcn.com/articles/3772907",
           "source": "华尔街见闻",
           "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时34分 ~ 17时57分]"
-        },
-        {
-          "title": "伊朗局势主导市场，纳指惊险收涨，道指收创新高，原油冲高转跌，美债走势分化",
-          "url": "https://wallstreetcn.com/articles/3772777",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时55分"
-        },
-        {
-          "title": "华尔街最新观点称，美股下跌就能抑制商品通胀，并阶段结束美债高收益率现状，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2041150006099501503",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "NBA 篮球",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "NBA季后赛雷霆vs马刺",
-          "url": "https://www.douyin.com/hot/2509097",
-          "source": "抖音",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时34分"
-        },
-        {
-          "title": "NBA最佳防守阵容",
-          "url": "https://s.weibo.com/weibo?q=NBA%E6%9C%80%E4%BD%B3%E9%98%B2%E5%AE%88%E9%98%B5%E5%AE%B9&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时34分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1.51%，暂报2785.12点，上周五结束交易以来（7*24）累计上涨0.25%，整体呈现出钝化（平坦）的V形反转，5月18日北京时间07:13曾跌至2608.96点。 MarketVectorTM数字资产100中盘指数涨1.60%，报3065.76点，期内本周累涨0.95%。 MarketVector数字资产100指数跌0.19%，报15173.89点，期内累跌2.86%，5月16-18日持续走低，5月18日以来持续交投于15100点附近。 最近七天迄今，Solana累跌2.63%，狗狗币累跌6.41%，XRP累跌5.64%。 比特币累跌2.80%，暂报76870美元；以太坊累跌4.41%，暂报2121.030美元。",
-          "url": "https://wallstreetcn.com/livenews/3108177",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时55分"
+          "time_info": "01时03分"
         }
       ]
     }
