@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-24T01:03:56.501908+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-05-24T11:56:38.861318+08:00",
+  "total_titles_processed": 535,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://www.cls.cn/detail/2379735",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时03分"
+          "appearance_count": 2,
+          "time_info": "[01时03分 ~ 11时56分]"
         },
         {
           "title": "美股收盘：标普连涨八周道指刷新高 芯片股&量子概念持续走强",
           "url": "https://www.cls.cn/detail/2379649",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时03分"
+          "appearance_count": 2,
+          "time_info": "[01时03分 ~ 11时56分]"
         },
         {
           "title": "如何看待美股当前的泡沫",
@@ -44,7 +46,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "科技股力撑美股走强，道指新高，标普连涨八周，沃勒鹰派措辞打压美债，原油宽幅震荡",
@@ -56,6 +58,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
+        },
+        {
+          "title": "美股和美债的“矛盾走势”，接下来谁会赢？",
+          "url": "https://wallstreetcn.com/articles/3772970",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "NBA 篮球",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "2526 赛季 NBA 季后赛尼克斯 121:108 骑士，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/2041794495491072392",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
         }
       ]
     }
