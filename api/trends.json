@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-05-25T01:06:50.587586+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-05-25T12:07:48.713712+08:00",
+  "total_titles_processed": 552,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "油价跌破100美元，金价为何还不敢痛快反弹？",
+          "url": "https://flash.jin10.com/detail/20260525115644338800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        }
+      ]
+    },
     {
       "keyword_group": "美股",
       "match_count": 1,
@@ -17,6 +34,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "NBA 篮球",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "2526 赛季 NBA 季后赛雷霆 82:103 马刺，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/2042156910154175295",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
         }
       ]
     }
