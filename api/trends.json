@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-05-29T11:57:21.246710+08:00",
-  "total_titles_processed": 542,
+  "generated_at": "2026-05-29T19:33:11.017725+08:00",
+  "total_titles_processed": 796,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 8,
       "titles": [
+        {
+          "title": "美伊停火传言搅动市场，美股三大指数收创新高，黄金深V反转，原油震荡走平",
+          "url": "https://wallstreetcn.com/articles/3773313",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时57分 ~ 19时33分]"
+        },
         {
           "title": "美伊谈判信号相互矛盾，美股高位震荡，原油收跌超5%，黄金一度跌超2%",
           "url": "https://wallstreetcn.com/articles/3773196",
@@ -19,24 +31,13 @@
           "time_info": "[02时38分 ~ 02时39分]"
         },
         {
-          "title": "美伊停火传言搅动市场，美股三大指数收创新高，黄金深V反转，原油震荡走平",
-          "url": "https://wallstreetcn.com/articles/3773313",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时57分"
-        },
-        {
           "title": "【早报】美股AI应用软件板块大爆发；中国首款4nm智驾芯片发布",
           "url": "https://www.cls.cn/detail/2384785",
           "source": "财联社热门",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时57分"
         },
@@ -47,7 +48,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时57分"
         },
@@ -92,7 +93,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时57分"
         }
@@ -181,7 +182,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时57分"
         },
@@ -192,7 +193,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时57分"
         }
