@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-05-31T01:11:35.567488+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-05-31T12:08:52.375767+08:00",
+  "total_titles_processed": 545,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "NBA 篮球",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "NBA马刺淘汰雷霆闯进总决赛",
+          "url": "https://www.douyin.com/hot/2518331",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
+          "title": "2526 赛季 NBA 季后赛马刺 111:103 雷霆，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/2044331643582822019",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
+          "title": "文班亚马当选NBA西决MVP",
+          "url": "https://www.baidu.com/s?wd=%E6%96%87%E7%8F%AD%E4%BA%9A%E9%A9%AC%E5%BD%93%E9%80%89NBA%E8%A5%BF%E5%86%B3MVP",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        }
+      ]
+    },
     {
       "keyword_group": "美股",
       "match_count": 2,
@@ -12,22 +51,24 @@
           "url": "https://wallstreetcn.com/articles/3773491",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
+          "appearance_count": 2,
+          "time_info": "[01时11分 ~ 12时08分]"
         },
         {
           "title": "美股收盘：三大股指续创新高 戴尔领衔科技股狂欢",
           "url": "https://www.cls.cn/detail/2385964",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
+          "appearance_count": 2,
+          "time_info": "[01时11分 ~ 12时08分]"
         }
       ]
     }
