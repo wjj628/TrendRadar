@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-31T12:08:52.375767+08:00",
-  "total_titles_processed": 545,
+  "generated_at": "2026-05-31T18:19:16.327034+08:00",
+  "total_titles_processed": 764,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://www.douyin.com/hot/2518331",
           "source": "抖音",
           "ranks": [
-            1
+            1,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时08分 ~ 18时19分]"
         },
         {
           "title": "2526 赛季 NBA 季后赛马刺 111:103 雷霆，如何评价这场比赛？",
           "url": "https://www.zhihu.com/question/2044331643582822019",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时08分 ~ 18时19分]"
         },
         {
           "title": "文班亚马当选NBA西决MVP",
@@ -36,7 +38,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
         }
@@ -64,11 +66,29 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时11分 ~ 12时08分]"
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 18时19分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "github",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "GitHub不装了，用户炸锅了！AI编程的低价时代结束，从此按token计费",
+          "url": "https://wallstreetcn.com/articles/3773512",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
         }
       ]
     }
