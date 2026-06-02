@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-02T04:20:15.781785+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-06-02T12:16:33.866097+08:00",
+  "total_titles_processed": 551,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
         {
           "title": "伊朗称将全面封锁霍尔木兹，美股低开，IBM涨近9%，ARM大涨12%，美油涨6%",
@@ -19,13 +19,24 @@
           "time_info": "[04时19分 ~ 04时20分]"
         },
         {
+          "title": "【早报】全线大涨，美股芯片股批量创新高；特朗普：美伊或于“一周内”达成协议",
+          "url": "https://www.cls.cn/detail/2387748",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时16分"
+        },
+        {
           "title": "美股收盘：三大股指创收盘新高 英伟达涨6%",
           "url": "https://flash.jin10.com/detail/20260602040120884800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
         },
@@ -36,9 +47,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
+        },
+        {
+          "title": "美股收盘：三大指数均创收盘新高 英伟达领涨科技股",
+          "url": "https://www.cls.cn/detail/2387720",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时16分"
         },
         {
           "title": "惠与第二财季调整后每股收益（EPS）为0.79美元，分析师预期0.54美元。 将Elliott Investment Partners的Chris Hsu纳入董事会。 预计全年调整后EPS为3.35-3.45美元，公司原本预计2.30-2.50美元。 惠与（HPE）美股盘后涨28%。",
@@ -47,7 +69,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
         },
@@ -56,11 +78,34 @@
           "url": "https://www.cls.cn/detail/2387523",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时19分 ~ 04时20分]"
+          "appearance_count": 3,
+          "time_info": "[04时19分 ~ 12时16分]"
+        },
+        {
+          "title": "美股散户疯买看涨期权！力度已达2022年入熊前夜水平",
+          "url": "https://flash.jin10.com/detail/20260602115025145800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时16分"
+        },
+        {
+          "title": "迈威尔科技(MRVL.O)美股夜盘直线拉升，一度涨超16%，现涨幅收窄至11.5%。此前英伟达CEO黄仁勋称迈威尔科技将成为下一个万亿美元公司。",
+          "url": "https://flash.jin10.com/detail/20260602114105402800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时16分"
         }
       ]
     },
@@ -75,7 +120,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
         },
@@ -86,9 +131,26 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美伊谈判反复，金价仍陷入两难",
+          "url": "https://flash.jin10.com/detail/20260602114106902800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时16分"
         }
       ]
     },
@@ -101,11 +163,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354740&amp;topic_name=%E9%80%86%E5%A4%A9%E4%BA%8C%E6%B8%B8%E5%A8%98%E5%8C%96NBA%E7%90%83%E6%98%9F",
           "source": "贴吧",
           "ranks": [
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时19分 ~ 04时20分]"
+          "appearance_count": 3,
+          "time_info": "[04时19分 ~ 12时16分]"
         }
       ]
     }
