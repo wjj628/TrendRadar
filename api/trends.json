@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-06T11:48:06.001056+08:00",
-  "total_titles_processed": 542,
+  "generated_at": "2026-06-06T18:08:24.582670+08:00",
+  "total_titles_processed": 750,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "非农大超预期，美股债“双杀”，纳指重挫超4%，芯片指数暴跌10%，贵金属、加密货币遭“血洗”",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时47分 ~ 11时48分]"
+          "appearance_count": 3,
+          "time_info": "[11时47分 ~ 18时08分]"
         },
         {
           "title": "美股收盘：强劲非农引发加息担忧 AI热潮降温纳指重挫逾4%",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时47分 ~ 11时48分]"
+          "appearance_count": 3,
+          "time_info": "[11时47分 ~ 18时08分]"
         },
         {
           "title": "美股三大指数集体收跌，纳指跌超 1100 点，美国非农数据大幅超预期，加息预期升温，哪些信息值得关注？",
@@ -37,8 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时47分 ~ 11时48分]"
+          "appearance_count": 3,
+          "time_info": "[11时47分 ~ 18时08分]"
         },
         {
           "title": "反“金发姑娘”！今晚非农：好消息和坏消息，对美股而言都是坏消息",
@@ -73,12 +73,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时47分 ~ 11时48分]"
+        },
+        {
+          "title": "美股一夜蒸发超万亿美元市值",
+          "url": "https://www.toutiao.com/trending/7648103085272731199/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
+        },
+        {
+          "title": "开户就送“美股七姐妹”，部分港资券商抢开户，最后的窗口期真能安全吗？",
+          "url": "https://www.cls.cn/detail/2392638",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
         }
       ]
     },
     {
       "keyword_group": "NBA 篮球",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "NBA总决赛马刺vs尼克斯",
@@ -90,6 +112,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时47分 ~ 11时48分]"
+        },
+        {
+          "title": "2526 赛季 NBA 总决赛 G2 马刺 104-105 尼克斯，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2046412720908637248",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
         },
         {
           "title": "NBA总决赛第2场：尼克斯1分险胜马刺",
@@ -174,11 +207,12 @@
           "url": "https://wallstreetcn.com/articles/3773996",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时47分 ~ 11时48分]"
+          "appearance_count": 3,
+          "time_info": "[11时47分 ~ 18时08分]"
         },
         {
           "title": "彭博美元指数涨0.5%，创最近两个月最大盘中涨幅。",
@@ -190,6 +224,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价跌回2025年",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%B7%8C%E5%9B%9E2025%E5%B9%B4%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
         }
       ]
     }
