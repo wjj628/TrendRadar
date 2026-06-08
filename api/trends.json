@@ -1,197 +1,84 @@
 {
-  "generated_at": "2026-06-08T20:37:06.596897+08:00",
-  "total_titles_processed": 818,
+  "generated_at": "2026-06-09T02:28:18.430540+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 3,
       "titles": [
         {
-          "title": "以伊战事缓和，美股期指走高，科技股盘前反弹，油价涨幅收窄，黄金重回4330美元",
+          "title": "以伊战事缓和，美股高开，科技股反弹，英特尔大涨11%，美油跌破91美元",
           "url": "https://wallstreetcn.com/articles/3774056",
           "source": "华尔街见闻",
           "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时36分 ~ 20时37分]"
-        },
-        {
-          "title": "开户就送“美股七姐妹”，部分港资券商抢开户，最后的窗口期真能安全吗？",
-          "url": "https://www.cls.cn/detail/2392638",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 01时22分]"
-        },
-        {
-          "title": "短期美股科技股调整，风险如何应对？十大券商策略来了",
-          "url": "https://www.cls.cn/detail/2392910",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 12时19分]"
-        },
-        {
-          "title": "美股黑色星期五调整的本质是什么？如何影响A股？",
-          "url": "https://wallstreetcn.com/articles/3774038",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 12时19分]"
-        },
-        {
-          "title": "如何看待美股黑色星期五？如何影响A股？",
-          "url": "https://www.cls.cn/detail/2392886",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 12时19分]"
-        },
-        {
-          "title": "SpaceX 、 OpenAI 、 Anthropic 扎堆天价 IPO，水分有多大？美股牛市是否临近尾声？",
-          "url": "https://www.zhihu.com/question/2046639064917586455",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 01时22分]"
-        },
-        {
-          "title": "国泰海通：美股或迎来至少一两个月的波动期",
-          "url": "https://flash.jin10.com/detail/20260607222627146800",
-          "source": "金十数据",
-          "ranks": [
-            24
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时22分"
+          "time_info": "02时28分"
         },
         {
-          "title": "美股股指期货持续走高，纳斯达克100指数期货涨超1%，标普500指数期货涨0.55%，道琼斯指数期货涨0.08%。",
-          "url": "https://wallstreetcn.com/livenews/3116122",
-          "source": "华尔街见闻-快讯",
+          "title": "中东炮火暂歇 美股期指回血 苹果WWDC接棒登场 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2393996",
+          "source": "财联社热门",
           "ranks": [
-            29
+            10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时37分"
+          "time_info": "02时28分"
+        },
+        {
+          "title": "美股",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时28分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
         {
-          "title": "金价跌回年初起点，抹去全年涨幅，若美联储加息金价会不会跌破 4000 美元？ 此前多家投行唱多，如何解读？",
-          "url": "https://www.zhihu.com/question/2046542725336584487",
-          "source": "知乎",
+          "title": "金价下跌后郑州金店被挤爆",
+          "url": "https://www.toutiao.com/trending/7648415475306889252/",
+          "source": "今日头条",
           "ranks": [
-            15
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时19分"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时19分"
-        },
-        {
-          "title": "非农重燃加息押注，金价多头还有几张牌？｜黄金头条",
-          "url": "https://flash.jin10.com/detail/20260608114439145800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时19分"
-        },
-        {
-          "title": "金价跌回2025年，有金店每克跌近400元",
-          "url": "https://wallstreetcn.com/livenews/3115552",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
+          "time_info": "02时28分"
         }
       ]
     },
     {
       "keyword_group": "社会新闻 泉州 福建",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "国家防总针对福建、广东、云南启动防汛四级应急响应",
-          "url": "https://flash.jin10.com/detail/20260608121110064800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时19分"
-        },
         {
           "title": "魏晓奎任福建省委常委、省纪委书记",
           "url": "https://m.thepaper.cn/newsDetail_forward_33331996",
           "source": "澎湃新闻",
           "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时36分 ~ 20时37分]"
-        },
-        {
-          "title": "魏晓奎任福建省纪委书记",
-          "url": "https://www.toutiao.com/trending/7648850432093978666/",
-          "source": "今日头条",
-          "ranks": [
-            19
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时19分"
+          "time_info": "02时28分"
         }
       ]
     },
     {
       "keyword_group": "NBA 篮球",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
           "title": "NBA总决赛G3尼克斯vs马刺前瞻",
@@ -201,47 +88,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时36分 ~ 20时37分]"
-        },
-        {
-          "title": "如果尼克斯夺冠，会对 NBA 产生什么影响？",
-          "url": "https://www.zhihu.com/question/2042743065396432956",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时19分"
-        },
-        {
-          "title": "特朗普宣布将前往现场看NBA总决赛",
-          "url": "https://wallstreetcn.com/livenews/3115551",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "github",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "怎么看待 GitHub Copilot 正在转向按使用量计费，并取消年度套餐这件事？",
-          "url": "https://www.zhihu.com/question/2032825585416811932",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时19分"
+          "time_info": "02时28分"
         }
       ]
     }
