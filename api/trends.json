@@ -1,271 +1,67 @@
 {
-  "generated_at": "2026-06-10T19:41:46.218911+08:00",
-  "total_titles_processed": 797,
+  "generated_at": "2026-06-11T02:32:55.440238+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "美股跳水，纳指跌超3%，科技股回落，迈威尔科技大跌13%，金银油齐跌",
-          "url": "https://wallstreetcn.com/articles/3774176",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时09分"
-        },
-        {
-          "title": "美股收盘：芯片板块“惊魂一跳”后持续修复 纳指收盘跌约1%",
-          "url": "https://www.cls.cn/detail/2395384",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时02分"
-        },
-        {
-          "title": "芯片股力撑美股反弹，半导体指数涨超5%，英特尔大涨11%，中东局势缓和，原油冲高回落",
-          "url": "https://wallstreetcn.com/articles/3774056",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时09分"
-        },
-        {
-          "title": "美股",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时09分"
-        },
-        {
-          "title": "熊市信号触发70%！美银建议获利了结，现在美股正如“2000年泡沫破灭前1个月”",
-          "url": "https://wallstreetcn.com/articles/3774155",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时09分"
-        },
-        {
-          "title": "“黑色星期五”只是前奏？高盛、巴克莱齐警告：美股急跌风险仍存！",
-          "url": "https://www.cls.cn/detail/2395711",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时41分"
-        },
-        {
-          "title": "当半导体成“震中”！一文读懂：美股投资者当前在哪里避险？",
-          "url": "https://www.cls.cn/detail/2395632",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时41分"
-        },
-        {
-          "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
-          "url": "https://wallstreetcn.com/articles/3774156",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时09分"
-        },
-        {
-          "title": "高盛和巴克莱警示：上周五美股的急挫不应被轻易视作一次性的异常波动",
-          "url": "https://wallstreetcn.com/livenews/3116955",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时09分"
-        },
-        {
-          "title": "美股费城半导体指数狂泄超千点，纳斯达克100指数跌超3.5%，标普跌1.8%，道指跌0.8%，纳指跌3%。 现货白银日内跌幅达4.5%，报64.98美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3116953",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时09分"
-        },
-        {
-          "title": "美股费城半导体指数跌幅扩大至6%，迈威尔科技/美满电子回撤超10%，Arm跌超10%，高通跌超9%，AMD、美光科技跌超7%，台积电跌2.6%，英伟达跌2.73%。 纳斯达克100指数跌超2.7%。",
-          "url": "https://wallstreetcn.com/livenews/3116949",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时09分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "国际油价金价大跌",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E6%B2%B9%E4%BB%B7%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时02分"
-        },
-        {
-          "title": "金价连续大跌",
-          "url": "https://www.douyin.com/hot/2529220",
-          "source": "抖音",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时02分"
-        },
-        {
-          "title": "花旗预测金价或跌至3500美元",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8A%B1%E6%97%97%E9%A2%84%E6%B5%8B%E9%87%91%E4%BB%B7%E6%88%96%E8%B7%8C%E8%87%B33500%E7%BE%8E%E5%85%83%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时41分"
-        },
-        {
-          "title": "金十图示：2026年06月10日（周三）上海金早盘价为912.95元/克，较国际金价(909.42元/克)，高3.53元/克",
-          "url": "https://flash.jin10.com/detail/20260610110836946800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时02分"
-        },
-        {
-          "title": "花旗：金价可能跌到3500美元",
-          "url": "https://www.toutiao.com/trending/7649366995154944043/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时41分"
-        }
-      ]
-    },
-    {
       "keyword_group": "NBA 篮球",
-      "match_count": 5,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "NBA总决赛主客场待遇拉满",
-          "url": "https://www.douyin.com/hot/2529833",
-          "source": "抖音",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时41分"
-        },
         {
           "title": "NBA总决赛第四场前瞻",
           "url": "https://www.douyin.com/hot/2529481",
           "source": "抖音",
           "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时41分"
-        },
-        {
-          "title": "中国篮协通报多人被禁赛，篮球新秀李沂泽虚报年龄被禁赛三年，张涵泊和李沂泽确为同一人，如何看待此事？",
-          "url": "https://www.zhihu.com/question/2047991677223171739",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时41分"
-        },
-        {
-          "title": "21世纪NBA100大名场面",
-          "url": "https://search.bilibili.com/all?keyword=21%E4%B8%96%E7%BA%AANBA100%E5%A4%A7%E5%90%8D%E5%9C%BA%E9%9D%A2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时02分"
+          "time_info": "02时32分"
         },
         {
-          "title": "NBA总决赛G3复盘",
-          "url": "https://search.bilibili.com/all?keyword=NBA%E6%80%BB%E5%86%B3%E8%B5%9BG3%E5%A4%8D%E7%9B%98",
-          "source": "bilibili 热搜",
+          "title": "评论｜重磅罚单是一次刮骨疗毒，中国篮球应借此重塑底线",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33350135",
+          "source": "澎湃新闻",
           "ranks": [
-            28
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时09分"
+          "time_info": "02时32分"
         }
       ]
     },
     {
-      "keyword_group": "英超 足球",
+      "keyword_group": "金价",
       "match_count": 1,
       "titles": [
         {
-          "title": "世界杯热身 & 国际足球友谊赛，阿根廷 3-0 冰岛，梅西替补打入一球，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2047989841275483356",
-          "source": "知乎",
+          "title": "花旗：金价可能跌到3500美元",
+          "url": "https://www.toutiao.com/trending/7649366995154944043/",
+          "source": "今日头条",
           "ranks": [
-            18
+            27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时41分"
+          "time_info": "02时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国通胀创三年新高，美股低开，科技股普跌，光通信股反弹，油价攀升",
+          "url": "https://wallstreetcn.com/articles/3774300",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时32分"
         }
       ]
     }
