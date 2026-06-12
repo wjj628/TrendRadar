@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-12T12:17:08.855735+08:00",
-  "total_titles_processed": 556,
+  "generated_at": "2026-06-12T19:46:27.087541+08:00",
+  "total_titles_processed": 805,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 6,
       "titles": [
+        {
+          "title": "特朗普“TACO”主导市场，原油大跌，美股债大反弹，半导体指数大涨8%，黄金收复4200",
+          "url": "https://wallstreetcn.com/articles/3774389",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时16分 ~ 19时46分]"
+        },
         {
           "title": "伊朗局势骤然升级，原油大涨，科技股抛售拖累美股，盘后甲骨文跳水9%，黄金暴跌",
           "url": "https://wallstreetcn.com/articles/3774300",
@@ -17,17 +28,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时48分 ~ 02时49分]"
-        },
-        {
-          "title": "特朗普“TACO”主导市场，原油大跌，美股债大反弹，半导体指数大涨8%，黄金收复4200",
-          "url": "https://wallstreetcn.com/articles/3774389",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时16分 ~ 12时17分]"
         },
         {
           "title": "美股收盘：美伊局势反转纳指升超2.5% 芯片股强反弹费城指数涨8%",
@@ -76,6 +76,34 @@
       ]
     },
     {
+      "keyword_group": "NBA 篮球",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "假如我在 NBA 始终都是 0 分 0 助攻 0 篮板 0 抢断 0 盖帽，但只要上场够足够时间，就一定能赢，会有球队要吗？",
+          "url": "https://www.zhihu.com/question/2044368908522612625",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时46分"
+        },
+        {
+          "title": "NBA 总决赛 G4，福克斯关键时刻称「觉得能跑过阿努诺比」上篮被帽，这一选择有何争议？",
+          "url": "https://www.zhihu.com/question/2048450267729995033",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时16分 ~ 12时17分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 1,
       "titles": [
@@ -89,23 +117,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "NBA 篮球",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "NBA 总决赛 G4，福克斯关键时刻称「觉得能跑过阿努诺比」上篮被帽，这一选择有何争议？",
-          "url": "https://www.zhihu.com/question/2048450267729995033",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时16分 ~ 12时17分]"
         }
       ]
     }
