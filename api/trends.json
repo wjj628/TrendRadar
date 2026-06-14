@@ -1,8 +1,135 @@
 {
-  "generated_at": "2026-06-14T01:26:42.161694+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-14T12:23:16.525067+08:00",
+  "total_titles_processed": 518,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "NBA 篮球",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "尼克斯NBA总冠军",
+          "url": "https://www.toutiao.com/trending/7650201780407664703/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时22分 ~ 12时23分]"
+        },
+        {
+          "title": "尼克斯夺NBA总冠军",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%BC%E5%85%8B%E6%96%AF%E5%A4%BANBA%E6%80%BB%E5%86%A0%E5%86%9B",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时22分 ~ 12时23分]"
+        },
+        {
+          "title": "纽约尼克斯夺NBA总冠军",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BA%BD%E7%BA%A6%E5%B0%BC%E5%85%8B%E6%96%AF%E5%A4%BANBA%E6%80%BB%E5%86%A0%E5%86%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时22分 ~ 12时23分]"
+        },
+        {
+          "title": "53年等待!尼克斯夺NBA总冠军",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355148&amp;topic_name=53%E5%B9%B4%E7%AD%89%E5%BE%85%21%E5%B0%BC%E5%85%8B%E6%96%AF%E5%A4%BANBA%E6%80%BB%E5%86%A0%E5%86%9B",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时22分 ~ 12时23分]"
+        },
+        {
+          "title": "尼克斯NBA总冠军",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%BC%E5%85%8B%E6%96%AFNBA%E6%80%BB%E5%86%A0%E5%86%9B%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时22分 ~ 12时23分]"
+        },
+        {
+          "title": "25-26 赛季 NBA 总决赛 G5 尼克斯 94 比 90 马刺，以总比分 4 比 1 夺得 NBA 总冠军，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2049285900409091751",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时22分 ~ 12时23分]"
+        },
+        {
+          "title": "NBA总决赛",
+          "url": "https://s.weibo.com/weibo?q=NBA%E6%80%BB%E5%86%B3%E8%B5%9B&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时22分 ~ 12时23分]"
+        },
+        {
+          "title": "NBA总决赛MVP最新赔率：布伦森居首",
+          "url": "https://www.toutiao.com/trending/7649703561949102116/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时22分 ~ 12时23分]"
+        },
+        {
+          "title": "央视播世界杯不播NBA总决赛",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%92%AD%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%8D%E6%92%ADNBA%E6%80%BB%E5%86%B3%E8%B5%9B%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时22分 ~ 12时23分]"
+        },
+        {
+          "title": "53年等待！纽约尼克斯再夺NBA总冠军",
+          "url": "https://sports.ifeng.com/c/8twkDeqNkFT",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时22分 ~ 12时23分]"
+        },
+        {
+          "title": "邓超观战NBA总决赛",
+          "url": "https://s.weibo.com/weibo?q=%E9%82%93%E8%B6%85%E8%A7%82%E6%88%98NBA%E6%80%BB%E5%86%B3%E8%B5%9B&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时22分 ~ 12时23分]"
+        }
+      ]
+    },
     {
       "keyword_group": "美股",
       "match_count": 3,
@@ -12,11 +139,12 @@
           "url": "https://www.cls.cn/detail/2398916",
           "source": "财联社热门",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时26分"
+          "appearance_count": 3,
+          "time_info": "[01时26分 ~ 12时23分]"
         },
         {
           "title": "美伊协议曙光重燃，原油两连跌，美股指全线收涨、债汇承压，SpaceX首日大涨19%",
