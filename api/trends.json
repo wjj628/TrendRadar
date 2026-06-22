@@ -1,8 +1,64 @@
 {
-  "generated_at": "2026-06-22T01:42:57.879347+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-22T12:46:13.440837+08:00",
+  "total_titles_processed": 590,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金价暴跌黄金该买还是该卖",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E9%BB%84%E9%87%91%E8%AF%A5%E4%B9%B0%E8%BF%98%E6%98%AF%E8%AF%A5%E5%8D%96%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时45分 ~ 12时46分]"
+        },
+        {
+          "title": "FOMC后资金退潮，金价进入“多变量验证期”",
+          "url": "https://flash.jin10.com/detail/20260622115927128800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "NBA 篮球",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "NBA交易",
+          "url": "https://s.weibo.com/weibo?q=NBA%E4%BA%A4%E6%98%93&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时45分 ~ 12时46分]"
+        },
+        {
+          "title": "骑士 1 比 3 逆转勇士夺冠十周年，这场胜利对 NBA 历史有何意义？",
+          "url": "https://www.zhihu.com/question/2051647499044239108",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时45分 ~ 12时46分]"
+        }
+      ]
+    },
     {
       "keyword_group": "美股",
       "match_count": 1,
@@ -17,6 +73,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "英超 足球",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如果中国足球队和佛得角队、库拉索队比赛，成绩会怎么样？",
+          "url": "https://www.zhihu.com/question/2051176498892165918",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时45分 ~ 12时46分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "社会新闻 泉州 福建",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "李家超率团展开福建访问行程",
+          "url": "https://flash.jin10.com/detail/20260622114259573800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时46分"
         }
       ]
     }
