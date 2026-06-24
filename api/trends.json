@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-24T11:53:10.022270+08:00",
-  "total_titles_processed": 561,
+  "generated_at": "2026-06-24T18:53:52.440181+08:00",
+  "total_titles_processed": 793,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "专家：金价仍在下跌通道",
@@ -61,6 +61,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时01分 ~ 02时02分]"
+        },
+        {
+          "title": "美联储加息3次金价或跌至3800",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%81%94%E5%82%A8%E5%8A%A0%E6%81%AF3%E6%AC%A1%E9%87%91%E4%BB%B7%E6%88%96%E8%B7%8C%E8%87%B33800%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
         }
       ]
     },
@@ -76,8 +87,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时52分 ~ 11时53分]"
+          "appearance_count": 3,
+          "time_info": "[11时52分 ~ 18时53分]"
         },
         {
           "title": "科技巨头下挫拖累美股大盘，芯片股指新高，原油转跌，美债收益率“补涨”",
@@ -127,7 +138,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "【早报】美股半导体指数，暴跌超7%！芯片股全线重挫，闪迪、美光科技跌超13%；黄金、原油齐跌；C罗双响葡萄牙5球大胜、英格兰0-0战平加纳",
@@ -152,6 +163,17 @@
           "time_info": "[11时52分 ~ 11时53分]"
         },
         {
+          "title": "韩股“V型反弹”，美股盘前半导体股上扬、美光涨3%，美元触及七个月高位，黄金跌超1.3%",
+          "url": "https://wallstreetcn.com/articles/3775351",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
+        },
+        {
           "title": "6月24日投资避雷针：美股半导体指数暴跌超7% 闪迪、美光科技跌超13%",
           "url": "https://www.cls.cn/detail/2407435",
           "source": "财联社热门",
@@ -172,6 +194,46 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时01分 ~ 02时02分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "NBA 篮球",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "迪班萨当选2026NBA选秀状元",
+          "url": "https://www.douyin.com/hot/2545394",
+          "source": "抖音",
+          "ranks": [
+            8,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时52分 ~ 18时53分]"
+        },
+        {
+          "title": "迪班萨当选NBA选秀状元 彼得森榜眼",
+          "url": "https://www.toutiao.com/trending/7654785055490838025/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时52分 ~ 11时53分]"
+        },
+        {
+          "title": "NBA2026选秀大会重要结果汇总",
+          "url": "https://www.douyin.com/hot/2546076",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
         }
       ]
     },
@@ -204,34 +266,6 @@
       ]
     },
     {
-      "keyword_group": "NBA 篮球",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "迪班萨当选2026NBA选秀状元",
-          "url": "https://www.douyin.com/hot/2545394",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时52分 ~ 11时53分]"
-        },
-        {
-          "title": "迪班萨当选NBA选秀状元 彼得森榜眼",
-          "url": "https://www.toutiao.com/trending/7654785055490838025/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时52分 ~ 11时53分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "英超 足球",
       "match_count": 1,
       "titles": [
@@ -245,6 +279,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时01分 ~ 02时02分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "社会新闻 泉州 福建",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "福建物理类本科线446分",
+          "url": "https://www.toutiao.com/trending/7654864967707820042/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
         }
       ]
     }
