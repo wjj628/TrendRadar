@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-26T12:02:19.215033+08:00",
-  "total_titles_processed": 561,
+  "generated_at": "2026-06-26T18:54:58.823141+08:00",
+  "total_titles_processed": 813,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "【早报】苹果市值一夜蒸发1.8万亿元，美股七巨头集体下挫；原油大涨超2%，黄金、白银收涨",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时00分 ~ 12时02分]"
+        },
+        {
+          "title": "苹果涨价引爆芯片股崩盘，美股盘前半导体股普跌，韩股收跌5.8%，黄金持稳于4000美元附近",
+          "url": "https://wallstreetcn.com/articles/3775571",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
         },
         {
           "title": "数字货币市场在美股盘初跳水",
@@ -84,11 +95,12 @@
           "url": "https://www.douyin.com/hot/2547979",
           "source": "抖音",
           "ranks": [
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时00分 ~ 12时02分]"
+          "appearance_count": 3,
+          "time_info": "[12时00分 ~ 18时54分]"
         },
         {
           "title": "国际金价跌破4000美元后重返关口，华安黄金ETF近三日遭净赎回21亿",
@@ -98,8 +110,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时00分 ~ 12时02分]"
+          "appearance_count": 3,
+          "time_info": "[12时00分 ~ 18时54分]"
         },
         {
           "title": "金价跌回3字头半年回撤30%",
@@ -109,8 +121,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时00分 ~ 12时02分]"
+          "appearance_count": 3,
+          "time_info": "[12时00分 ~ 18时54分]"
         }
       ]
     },
