@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-27T01:51:50.725923+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-06-27T11:43:27.386544+08:00",
+  "total_titles_processed": 543,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 8,
       "titles": [
         {
           "title": "科技股拖累全球股市，美股指下挫，光通信板块普跌，美光跌6%，金银走高，油价跌近4%",
@@ -17,6 +17,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
+        },
+        {
+          "title": "半导体拖累美股，标普、纳指五连跌，美光跌6%，金银走高，原油一度跌4%",
+          "url": "https://wallstreetcn.com/articles/3775571",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时43分"
+        },
+        {
+          "title": "【早报】美军再次对伊朗发动打击；美股半导体指数重挫5.29%；油价走低、黄金收涨；法国4-1击败挪威小组第一出线",
+          "url": "https://www.cls.cn/detail/2410784",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时43分"
+        },
+        {
+          "title": "美股收盘：三大指数小幅收跌 存储概念股全线重挫",
+          "url": "https://www.cls.cn/detail/2410765",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时43分"
+        },
+        {
+          "title": "MAG7“信仰”松动：科技巨头技术面剧烈分化，美股资金加速涌向估值洼地",
+          "url": "https://wallstreetcn.com/articles/3775625",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时43分"
         },
         {
           "title": "AI投资可持续性遭质疑 美股期指集体走低 芯片股再度承压 | 今夜看点",
@@ -50,6 +94,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价跌25%银价暴跌45%",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%B7%8C25%25%E9%93%B6%E4%BB%B7%E6%9A%B4%E8%B7%8C45%25%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时43分"
         }
       ]
     }
