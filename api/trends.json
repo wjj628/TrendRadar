@@ -1,12 +1,36 @@
 {
-  "generated_at": "2026-06-28T01:14:47.832864+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-28T12:07:31.040421+08:00",
+  "total_titles_processed": 532,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 4,
       "titles": [
+        {
+          "title": "【早报】美军再次对伊朗发动打击；美股半导体指数重挫5.29%；油价走低、黄金收涨；法国4-1击败挪威小组第一出线",
+          "url": "https://www.cls.cn/detail/2410784",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时14分 ~ 12时07分]"
+        },
+        {
+          "title": "美股收盘：三大指数小幅收跌 存储概念股全线重挫",
+          "url": "https://www.cls.cn/detail/2410765",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时14分 ~ 12时07分]"
+        },
         {
           "title": "半导体拖累美股，标普、纳指五连跌，美光跌6%，金银走高，原油一度跌4%",
           "url": "https://wallstreetcn.com/articles/3775571",
@@ -19,33 +43,11 @@
           "time_info": "01时14分"
         },
         {
-          "title": "【早报】美军再次对伊朗发动打击；美股半导体指数重挫5.29%；油价走低、黄金收涨；法国4-1击败挪威小组第一出线",
-          "url": "https://www.cls.cn/detail/2410784",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
-        },
-        {
           "title": "美股连跌的“核心逻辑”:“最大权重”Mag 7陨落",
           "url": "https://wallstreetcn.com/articles/3775664",
           "source": "华尔街见闻",
           "ranks": [
             3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
-        },
-        {
-          "title": "美股收盘：三大指数小幅收跌 存储概念股全线重挫",
-          "url": "https://www.cls.cn/detail/2410765",
-          "source": "财联社热门",
-          "ranks": [
-            4
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -67,6 +69,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "下半年美元指数何去何从",
+          "url": "https://wallstreetcn.com/articles/3775680",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
         }
       ]
     }
