@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-28T12:07:31.040421+08:00",
-  "total_titles_processed": 532,
+  "generated_at": "2026-06-28T18:32:20.750371+08:00",
+  "total_titles_processed": 733,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时14分 ~ 12时07分]"
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 18时32分]"
         },
         {
           "title": "美股收盘：三大指数小幅收跌 存储概念股全线重挫",
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时14分 ~ 12时07分]"
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 18时32分]"
         },
         {
           "title": "半导体拖累美股，标普、纳指五连跌，美光跌6%，金银走高，原油一度跌4%",
@@ -52,6 +52,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "NBA 篮球",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美国科技企业悄然转向中国AI模型，Coinbase带头用上GLM与Kimi",
+          "url": "https://wallstreetcn.com/articles/3775696",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 18时32分]"
+        },
+        {
+          "title": "篮球运动员吴勇豪的减肥之路",
+          "url": "https://www.douyin.com/hot/2550522",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 18时32分]"
         }
       ]
     },
@@ -81,11 +109,12 @@
           "url": "https://wallstreetcn.com/articles/3775680",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时07分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时07分 ~ 18时32分]"
         }
       ]
     }
