@@ -1,161 +1,150 @@
 {
-  "generated_at": "2026-07-09T18:58:15.962926+08:00",
-  "total_titles_processed": 790,
+  "generated_at": "2026-07-10T01:59:19.120561+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "社会新闻 泉州 福建",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "福建晋江起火鞋厂负责人已被控制",
+          "url": "https://www.toutiao.com/trending/7660534788222094894/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时59分"
+        },
+        {
+          "title": "福建晋江鞋厂火灾已致 28 人死亡，现场疏散 213 人，500 余人投入救援",
+          "url": "https://www.zhihu.com/pin/2058678665664263547",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时59分"
+        },
+        {
+          "title": "福建火灾发生时鞋厂内共有239人",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA%E7%81%AB%E7%81%BE%E5%8F%91%E7%94%9F%E6%97%B6%E9%9E%8B%E5%8E%82%E5%86%85%E5%85%B1%E6%9C%89239%E4%BA%BA%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时59分"
+        },
+        {
+          "title": "福建晋江火灾已致28人死亡",
+          "url": "https://www.toutiao.com/trending/7660401669049667108/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时59分"
+        },
+        {
+          "title": "福建晋江火灾已致28死",
+          "url": "https://www.baidu.com/s?wd=%E7%A6%8F%E5%BB%BA%E6%99%8B%E6%B1%9F%E7%81%AB%E7%81%BE%E5%B7%B2%E8%87%B428%E6%AD%BB",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时59分"
+        },
+        {
+          "title": "福建晋江火灾已致28死",
+          "url": "https://www.douyin.com/hot/2565119",
+          "source": "抖音",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时59分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 3,
       "titles": [
         {
           "title": "特朗普\"开火威胁\"搅动全球市场，降温表态后美股跌幅收窄，芯片股力撑纳指收涨，中概股大涨",
           "url": "https://wallstreetcn.com/articles/3776425",
           "source": "华尔街见闻",
           "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时34分 ~ 18时58分]"
-        },
-        {
-          "title": "【早报】美伊再起冲突；美股科技股大反弹，中概股大涨；原油大涨，黄金、白银大跌；长鑫科技，申购日定了",
-          "url": "https://www.cls.cn/detail/2421042",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时34分 ~ 11时35分]"
-        },
-        {
-          "title": "美股收盘：特朗普一句话挽回跌势 阿里巴巴闪耀全球市场",
-          "url": "https://www.cls.cn/detail/2421032",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时34分 ~ 11时35分]"
-        },
-        {
-          "title": "特朗普称美伊停火结束 美股期指集体下挫 国际油价飙升 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2420785",
-          "source": "财联社热门",
-          "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时40分"
+          "time_info": "01时59分"
         },
         {
-          "title": "美股AI牛市熄火？逾六成科技股“入熊”：较近期高点暴跌逾20%",
-          "url": "https://www.cls.cn/detail/2421094",
-          "source": "财联社热门",
+          "title": "海力士美股IPO点燃AI热情，美股高开，科技股反弹，康宁涨超8%，黄金涨超1%，原油回落",
+          "url": "https://wallstreetcn.com/articles/3776523",
+          "source": "华尔街见闻",
           "ranks": [
-            13
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时34分 ~ 11时35分]"
+          "appearance_count": 1,
+          "time_info": "01时59分"
         },
         {
-          "title": "一图看懂 | 美股医药板块指数刷新历史新高 A、H股创新药行情能否受提振?",
-          "url": "https://www.cls.cn/detail/2420472",
+          "title": "美股期指上涨 纳指期货涨近1% 芯片股盘前集体走强 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2422043",
           "source": "财联社热门",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时40分"
-        },
+          "time_info": "01时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "特朗普讲话后，美股三大股指跌幅持续收窄，道指跌幅收窄至约1%，标普500跌0.41%，纳指跌0.15%。",
-          "url": "https://flash.jin10.com/detail/20260709011105896800",
-          "source": "金十数据",
+          "title": "PGIM：30年期美债收益率的重新定价已经开始",
+          "url": "https://wallstreetcn.com/livenews/3131473",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时40分"
-        },
-        {
-          "title": "IBM(IBM.N)美股盘前跌超2%、微软(MSFT.O)跌近1%。",
-          "url": "https://flash.jin10.com/detail/20260709181817770800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时58分"
-        },
-        {
-          "title": "德国两年期国债收益率涨超12个基点，特朗普威胁要在美股盘后袭击伊朗，国际油价走高",
-          "url": "https://wallstreetcn.com/livenews/3130817",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
+          "time_info": "01时59分"
         }
       ]
     },
     {
-      "keyword_group": "社会新闻 泉州 福建",
-      "match_count": 4,
+      "keyword_group": "美元",
+      "match_count": 1,
       "titles": [
         {
-          "title": "应急管理部派工作组赶赴福建晋江",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BA%94%E6%80%A5%E7%AE%A1%E7%90%86%E9%83%A8%E6%B4%BE%E5%B7%A5%E4%BD%9C%E7%BB%84%E8%B5%B6%E8%B5%B4%E7%A6%8F%E5%BB%BA%E6%99%8B%E6%B1%9F%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时57分 ~ 18时58分]"
-        },
-        {
-          "title": "福建启动防台风Ⅳ级应急响应",
-          "url": "https://wallstreetcn.com/livenews/3131032",
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨0.64%，暂报2168.03点。 MarketVectorTM数字资产100中盘指数涨0.89%，报2538.31点。 MarketVector数字资产100指数涨0.69%，报12443.14点。 目前，Solana涨0.44%，狗狗币涨0.11%，XRP持平。 比特币涨0.68%，暂报62572.83美元；以太坊跌0.11%，暂报1734.71美元。",
+          "url": "https://wallstreetcn.com/livenews/3131481",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            28
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时35分"
-        },
-        {
-          "title": "福建泉州晋江市一鞋厂火灾致伤亡，应急管理部已派出联合工作组赶赴现场指导",
-          "url": "https://wallstreetcn.com/livenews/3131257",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时58分"
-        },
-        {
-          "title": "中央气象台发布台风橙色预警：预计“巴威”将于11日白天登陆或擦过台湾岛北部，然后向福建中部到浙江南部靠近，并将于11日晚上在福建福清至浙江温岭一带沿海登陆。",
-          "url": "https://wallstreetcn.com/livenews/3131028",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时35分"
+          "time_info": "01时59分"
         }
       ]
     }
