@@ -1,12 +1,45 @@
 {
-  "generated_at": "2026-07-09T01:40:50.583244+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-07-09T11:35:04.136235+08:00",
+  "total_titles_processed": 545,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "特朗普\"开火威胁\"搅动全球市场，降温表态后美股跌幅收窄，芯片股力撑纳指收涨，中概股大涨",
+          "url": "https://wallstreetcn.com/articles/3776425",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时34分 ~ 11时35分]"
+        },
+        {
+          "title": "【早报】美伊再起冲突；美股科技股大反弹，中概股大涨；原油大涨，黄金、白银大跌；长鑫科技，申购日定了",
+          "url": "https://www.cls.cn/detail/2421042",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时34分 ~ 11时35分]"
+        },
+        {
+          "title": "美股收盘：特朗普一句话挽回跌势 阿里巴巴闪耀全球市场",
+          "url": "https://www.cls.cn/detail/2421032",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时34分 ~ 11时35分]"
+        },
         {
           "title": "特朗普称美伊停火结束 美股期指集体下挫 国际油价飙升 | 今夜看点",
           "url": "https://www.cls.cn/detail/2420785",
@@ -17,6 +50,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
+        },
+        {
+          "title": "美股AI牛市熄火？逾六成科技股“入熊”：较近期高点暴跌逾20%",
+          "url": "https://www.cls.cn/detail/2421094",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时34分 ~ 11时35分]"
         },
         {
           "title": "一图看懂 | 美股医药板块指数刷新历史新高 A、H股创新药行情能否受提振?",
@@ -50,6 +94,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "社会新闻 泉州 福建",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "福建启动防台风Ⅳ级应急响应",
+          "url": "https://wallstreetcn.com/livenews/3131032",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
+        },
+        {
+          "title": "中央气象台发布台风橙色预警：预计“巴威”将于11日白天登陆或擦过台湾岛北部，然后向福建中部到浙江南部靠近，并将于11日晚上在福建福清至浙江温岭一带沿海登陆。",
+          "url": "https://wallstreetcn.com/livenews/3131028",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
         }
       ]
     }
