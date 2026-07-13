@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-07-13T01:02:25.618750+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-07-13T11:19:09.779489+08:00",
+  "total_titles_processed": 535,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "NBA 篮球",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "姚明是公认的中国甚至亚洲篮球第一人，为何他在中国男篮干了七年，他没干出成绩?",
+          "url": "https://www.zhihu.com/question/1941257398313551370",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时18分 ~ 11时19分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://github.com/wjj628/TrendRadar/img/news.jpg"
 }
