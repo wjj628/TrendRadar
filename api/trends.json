@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-07-13T11:19:09.779489+08:00",
-  "total_titles_processed": 535,
+  "generated_at": "2026-07-13T19:15:33.990951+08:00",
+  "total_titles_processed": 779,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "AI恐慌蔓延，美股盘前存储芯片股普跌，SK海力士暴跌15.4%创历史最大跌幅，原油上涨，黄金下跌",
+          "url": "https://wallstreetcn.com/articles/3776754",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        }
+      ]
+    },
     {
       "keyword_group": "NBA 篮球",
       "match_count": 1,
@@ -12,11 +29,12 @@
           "url": "https://www.zhihu.com/question/1941257398313551370",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时18分 ~ 11时19分]"
+          "appearance_count": 3,
+          "time_info": "[11时18分 ~ 19时15分]"
         }
       ]
     }
