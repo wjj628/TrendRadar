@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-07-20T01:02:16.362055+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-07-20T11:27:13.103466+08:00",
+  "total_titles_processed": 545,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "7月20日投资避雷针：上周五美股三大指数集体收跌 费城半导体指数进入技术性熊市",
+          "url": "https://www.cls.cn/detail/2430704",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时26分 ~ 11时27分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://github.com/wjj628/TrendRadar/img/news.jpg"
 }
