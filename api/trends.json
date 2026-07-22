@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-07-22T10:52:10.314082+08:00",
-  "total_titles_processed": 534,
+  "generated_at": "2026-07-22T18:28:41.556665+08:00",
+  "total_titles_processed": 777,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "科技股力撑美股指反弹，芯片指数大涨，美光市值重回万亿，日元跌破163，金银猛涨",
           "url": "https://wallstreetcn.com/articles/3777518",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时51分 ~ 10时52分]"
+          "appearance_count": 3,
+          "time_info": "[10时51分 ~ 18时28分]"
         },
         {
           "title": "【早报】美股存储芯片强势反攻，多股大涨超10%；油价、黄金同步走强；A股又一批增持回购潮来了",
@@ -75,6 +76,28 @@
           "time_info": "[10时51分 ~ 10时52分]"
         },
         {
+          "title": "AI交易热情回落，美股盘前存储芯片股普跌，SK海力士跌约5%，日韩股市几乎抹去涨幅，金银走强",
+          "url": "https://wallstreetcn.com/articles/3777614",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
+          "title": "剧烈反弹！美股“科技动量股”创史上最大单日涨幅，但暴跌结束了吗？",
+          "url": "https://wallstreetcn.com/articles/3777612",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
           "title": "美股存储概念全线爆发！华尔街喊话坚守AI硬件股：Kimi K3将催生新需求",
           "url": "https://www.cls.cn/detail/2433303",
           "source": "财联社热门",
@@ -106,6 +129,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "社会新闻 泉州 福建",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "兴业证券：股东福建省投拟增持不低于3000万元",
+          "url": "https://flash.jin10.com/detail/20260722181740192800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
         }
       ]
     }
