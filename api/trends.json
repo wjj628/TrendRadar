@@ -1,23 +1,22 @@
 {
-  "generated_at": "2026-07-25T17:51:38.012273+08:00",
-  "total_titles_processed": 742,
+  "generated_at": "2026-07-26T01:03:28.223246+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 4,
       "titles": [
         {
           "title": "美伊谈判希望重燃，原油一度跌超5%，科技股压制美股反弹，芯片指数暴跌4%",
           "url": "https://wallstreetcn.com/articles/3777833",
           "source": "华尔街见闻",
           "ranks": [
-            1,
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时52分 ~ 17时51分]"
+          "appearance_count": 1,
+          "time_info": "01时03分"
         },
         {
           "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
@@ -27,98 +26,30 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时52分 ~ 17时51分]"
+          "appearance_count": 1,
+          "time_info": "01时03分"
         },
         {
-          "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
-          "url": "https://wallstreetcn.com/articles/3777754",
-          "source": "华尔街见闻",
+          "title": "美股已经有人在提前跑路了",
+          "url": "https://www.toutiao.com/trending/7666447099256376875/",
+          "source": "今日头条",
           "ranks": [
-            2
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时40分"
-        },
-        {
-          "title": "“关税战”来最惨的1天！美股“科技龙头”Mag 7单日市值蒸发近8000亿美元",
-          "url": "https://wallstreetcn.com/articles/3777828",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
+          "time_info": "01时03分"
         },
         {
           "title": "美股收盘：三大指数走势分化 存储&光通信重挫 闪迪跌超10%",
           "url": "https://www.cls.cn/detail/2436875",
           "source": "财联社热门",
           "ranks": [
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时52分 ~ 17时51分]"
-        },
-        {
-          "title": "彭博援引一封信函报道称，高通告诉客户们，无法再消化涨价问题，将按两位数百分比涨价。 高通跌幅收窄，英伟达涨1.2%刷新日高。 纳斯达克100指数转涨，美股早盘一度跌1.3%。",
-          "url": "https://wallstreetcn.com/livenews/3139564",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时40分"
-        },
-        {
-          "title": "美股大类资产类ETF涨跌各异，新兴市场ETF收跌将近2%",
-          "url": "https://wallstreetcn.com/livenews/3139670",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌1.63%，暂报2119.90点，上周五结束交易以来（7*24）累计下跌1.56%，整体冲高回落。 MarketVectorTM数字资产100中盘指数跌1.49%，报2393.94点，期内累跌6.63%，7月21日北京时间16:01拉升至2669.08点，随后持续下挫。 MarketVector数字资产100指数跌1.42%，报12649.38点，期内累涨0.08%，整体冲高回落。 最近七天迄今，Solana累跌1.81%，狗狗币累跌5.52%，XRP累跌0.26%。 比特币跌0.30%，暂报63878.70美元；以太坊涨0.69%，暂报1854.812美元。",
-          "url": "https://wallstreetcn.com/livenews/3139579",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "NBA 篮球",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "詹姆斯新赛季年薪创NBA生涯新低",
-          "url": "https://www.toutiao.com/trending/7666235794113170963/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时52分"
+          "time_info": "01时03分"
         }
       ]
     }
