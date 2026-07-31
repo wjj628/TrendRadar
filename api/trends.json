@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-31T18:42:37.585712+08:00",
-  "total_titles_processed": 805,
+  "generated_at": "2026-08-01T01:41:51.338479+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
   "trends": [
     {
@@ -8,144 +8,138 @@
       "match_count": 6,
       "titles": [
         {
-          "title": "美股收盘：满屏都是两位数涨幅 微软单日市值暴增3万亿",
-          "url": "https://www.cls.cn/detail/2441995",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时16分 ~ 11时17分]"
-        },
-        {
-          "title": "AI暴力反弹！美股盘前存储股持续走强，亚马逊涨超12%，美元跳水，日元走强重回159",
+          "title": "AI暴力反弹“昙花一现”，美股指转跌，存储股走低，亚马逊逆市涨超14%，日元走强重回159，油价涨超2%",
           "url": "https://wallstreetcn.com/articles/3778379",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时42分"
+          "time_info": "01时41分"
         },
         {
-          "title": "一图看懂丨AI算力军备持续升温：美股四巨头开支指引再度上调",
-          "url": "https://www.cls.cn/detail/2442218",
+          "title": "美股财报季后的思考：科技巨头们，谁能更快将AI算力变成真金白银？",
+          "url": "https://www.cls.cn/detail/2442818",
           "source": "财联社热门",
           "ranks": [
-            8,
-            5
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时16分 ~ 18时42分]"
-        },
-        {
-          "title": "逢低买盘推动美股走高，费城半导体指数涨超7%，微软涨超14%，油价转跌",
-          "url": "https://wallstreetcn.com/articles/3778287",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时37分 ~ 01时38分]"
-        },
-        {
-          "title": "雪佛龙二季度营收及其他收入700.6亿美元，预估679.3亿美元。 二季度调整后每股收益6.06美元，预估5.65美元。 雪佛龙预计全年资本支出位于180亿至190亿美元区间的低端，此前预期为180亿至190亿美元。 雪佛龙美股盘前涨近1%。",
-          "url": "https://wallstreetcn.com/livenews/3143166",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时42分"
+          "time_info": "01时41分"
+        },
+        {
+          "title": "亚马逊财报提振AI信心 美股期指走高 苹果盘前跌近8% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2442973",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时41分"
         },
         {
           "title": "日元偷袭，美元盘中跌破 100 且兑日元急挫超 3%，美股 SOX 指数盘内涨超 8%，大宗商品异动，发生了什么？",
           "url": "https://www.zhihu.com/question/2066288437683032785",
           "source": "知乎",
           "ranks": [
-            17
+            9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时42分"
+          "time_info": "01时41分"
+        },
+        {
+          "title": "金十图示：2026年07月31日（周五）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260801003858873800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时41分"
+        },
+        {
+          "title": "金十图示：2026年07月31日（周五）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260801003848048800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时41分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
-          "title": "金十图示：2026年07月31日（周五）上海金早盘价为887.37元/克，较国际金价(883.81元/克)，高3.56元/克",
-          "url": "https://flash.jin10.com/detail/20260731110123512800",
-          "source": "金十数据",
+          "title": "当金价不再上涨 老铺黄金还值多少钱",
+          "url": "https://www.toutiao.com/trending/7668653612649680447/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "泰达币发行人Tether的黄金储备在6月末达到188亿美元，（按当时现货价格）等同于146吨（金条）。",
+          "url": "https://wallstreetcn.com/livenews/3143414",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时17分"
-        },
-        {
-          "title": "高金价下更多人转向囤金条",
-          "url": "https://www.toutiao.com/trending/7667953755556003894/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时16分 ~ 11时17分]"
+          "time_info": "01时41分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "大奇迹日！美通胀降温与微软大涨刺激，美芯片指数暴涨8%，纳指大反弹，日元急涨美元跳水",
           "url": "https://wallstreetcn.com/articles/3778287",
           "source": "华尔街见闻",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时16分 ~ 18时42分]"
-        },
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1%，暂报2073点。 MarketVectorTM数字资产100中盘指数涨1.83%，报2381.55点，北京时间05:05刷新日低至2311.71点以来持续反弹。 MarketVector数字资产100指数涨1.68%，报12847.19点。 目前，Solana涨1.78%，狗狗币涨0.80%，XRP涨1.47%。 比特币涨1.54%，暂报64763.94美元，北京时间05:08跌至63269.29美元，随后持续上扬；以太坊涨1.18%，暂报1917.18美元。",
-          "url": "https://wallstreetcn.com/livenews/3142587",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时38分"
+          "time_info": "01时41分"
         }
       ]
     },
     {
-      "keyword_group": "美债",
+      "keyword_group": "社会新闻 泉州 福建",
       "match_count": 1,
       "titles": [
         {
-          "title": "中东局势突变叠加美联储鹰派分歧，油价飙8%，纳指六连跌，30年美债收益率创2007年最高",
-          "url": "https://wallstreetcn.com/articles/3778176",
-          "source": "华尔街见闻",
+          "title": "福建一镇政府巡逻车装警灯被查扣",
+          "url": "https://www.toutiao.com/trending/7668296451861905450/",
+          "source": "今日头条",
           "ranks": [
-            7
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时37分 ~ 01时38分]"
+          "appearance_count": 1,
+          "time_info": "01时41分"
         }
       ]
     }
