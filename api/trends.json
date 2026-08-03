@@ -1,18 +1,40 @@
 {
-  "generated_at": "2026-08-03T11:17:39.025207+08:00",
-  "total_titles_processed": 542,
+  "generated_at": "2026-08-03T19:28:15.537093+08:00",
+  "total_titles_processed": 801,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股",
-      "match_count": 1,
+      "keyword_group": "社会新闻 泉州 福建",
+      "match_count": 3,
       "titles": [
         {
-          "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
-          "url": "https://www.cls.cn/detail/2443270",
-          "source": "财联社热门",
+          "title": "澎湃回声｜福建漳州通报“抗生素”牛蛙：组成调查组全面核查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33708571",
+          "source": "澎湃新闻",
           "ranks": [
-            12
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时27分 ~ 19时28分]"
+        },
+        {
+          "title": "福建漳州全面核查抗生素牛蛙",
+          "url": "https://www.toutiao.com/trending/7669643929184144938/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时27分 ~ 19时28分]"
+        },
+        {
+          "title": "福建代工大佬长鑫一单浮盈8亿",
+          "url": "https://www.baidu.com/s?wd=%E7%A6%8F%E5%BB%BA%E4%BB%A3%E5%B7%A5%E5%A4%A7%E4%BD%AC%E9%95%BF%E9%91%AB%E4%B8%80%E5%8D%95%E6%B5%AE%E7%9B%888%E4%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -21,15 +43,26 @@
       ]
     },
     {
-      "keyword_group": "社会新闻 泉州 福建",
-      "match_count": 1,
+      "keyword_group": "美股",
+      "match_count": 2,
       "titles": [
         {
-          "title": "福建代工大佬长鑫一单浮盈8亿",
-          "url": "https://www.baidu.com/s?wd=%E7%A6%8F%E5%BB%BA%E4%BB%A3%E5%B7%A5%E5%A4%A7%E4%BD%AC%E9%95%BF%E9%91%AB%E4%B8%80%E5%8D%95%E6%B5%AE%E7%9B%888%E4%BA%BF",
-          "source": "百度热搜",
+          "title": "美伊谈判乐观情绪升温，美股期指走高，阿里巴巴盘前涨超5%，WTI油价跌超5%，日元冲高回落",
+          "url": "https://wallstreetcn.com/articles/3778526",
+          "source": "华尔街见闻",
           "ranks": [
-            27
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时27分 ~ 19时28分]"
+        },
+        {
+          "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
+          "url": "https://www.cls.cn/detail/2443270",
+          "source": "财联社热门",
+          "ranks": [
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
