@@ -1,12 +1,45 @@
 {
-  "generated_at": "2026-08-05T01:51:37.989805+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-08-05T10:45:15.276302+08:00",
+  "total_titles_processed": 520,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "【早报】美股半导体、存储、光通信，集体爆发；油价大跌、黄金走强；SpaceX、AMD财报出炉；大基金三期出手！入股正芯半导体",
+          "url": "https://www.cls.cn/detail/2445802",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时44分 ~ 10时45分]"
+        },
+        {
+          "title": "美股收盘：标普500再创历史新高 光通信、存储涨幅居前",
+          "url": "https://www.cls.cn/detail/2445760",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时44分 ~ 10时45分]"
+        },
+        {
+          "title": "美股存储板块爆发！SK海力士ADR大涨逾8% 投行集体看涨",
+          "url": "https://www.cls.cn/detail/2445853",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时44分 ~ 10时45分]"
+        },
         {
           "title": "美股8月开门红，道指新高，亚马逊市值首破三万亿，阿里涨超4%，原油重挫",
           "url": "https://wallstreetcn.com/articles/3778526",
@@ -37,8 +70,19 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时51分 ~ 10时45分]"
+        },
+        {
+          "title": "美股再创新高之际迎“季节性陷阱”，投资者是否该撤退？",
+          "url": "https://flash.jin10.com/detail/20260805095608658800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时51分"
+          "time_info": "10时45分"
         },
         {
           "title": "美股费城半导体指数涨幅扩大至6％，闪迪涨幅扩大至10.8％，英特尔涨超9％，美光科技、AMD涨超7％，高通涨超6％。",
@@ -55,7 +99,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "罕见干预操作！贝森特抛欧元、指示美联储“借钱”，让日本“别抛美债”，市场担心“套利交易逆转”",
@@ -67,6 +111,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
+        },
+        {
+          "title": "如何看待 2026 年 8 月美债正式突破 40 万亿美元大关？压垮美债的最后一根稻草会是什么？",
+          "url": "https://www.zhihu.com/question/2067002987545884316",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时44分 ~ 10时45分]"
         }
       ]
     }
